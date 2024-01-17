@@ -6,7 +6,7 @@ description: >-
 
 # 🧱 The relocation of Normannburg
 
-[Normannburg](../../towny/towns/finland-region/normannburg.md)
+[Normannburg](../../towny/towns/finland-region/normannburg/)
 
 Normannburg's relocation was a significant event shaped by complicated diplomacy, and challenges arose when transporting and distributing goods and resources. Initially, Normannburg, a self-governing entity, sought to align with the nation of Constellation. However, this proposal faced resistance due to the hamlet's nearness to the neighbouring nation of Kala. The fear that Kala might perceive the union as a threat led to the denial of Normannburg's initial requests for working together.
 
