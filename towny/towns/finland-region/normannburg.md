@@ -19,6 +19,8 @@ Unfazed, Golli, the leader of Normannburg, persisted in seeking alignment with C
 Golli's requirement for the hamlet to be reconstructed precisely as it was highlighted the importance of maintaining Normannburg's identity during the difficult relocation process. With this condition accepted, the nation's members faced the![](../../../.gitbook/assets/Normmanburg.png) difficult challenge of moving the hamlet. This involved careful destruction, storage of items, and reconstruction of the entire hamlet at its new location.
 
 The successful relocation and reconstruction of Normannburg would not have been possible without several individuals' dedication and hard work, including Volymskala, Aytte, Cosmicwaffles, Bamson, and Svardmastaren. Their commitment and hard work were crucial in understanding this ambitious project.
+<img align="right" src="gitbook/assets/2023-11-03\_09.46.13.png">
+
 
 <details>
 
