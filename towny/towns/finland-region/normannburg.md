@@ -1,7 +1,10 @@
 ---
 description: Golli
 ---
-
+.image-wrapper {
+	text-align: center;
+	padding: 15px 0px;
+}
 # ☑ Normannburg
 
 
