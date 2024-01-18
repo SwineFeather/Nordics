@@ -114,7 +114,7 @@
     * [Fisherman](others/occupations/fisherman.md)
     * [Soldiers](others/occupations/soldiers.md)
     * [Resource gatherers](others/occupations/resource-gatherers.md)
-  * [Page 7](others/page-7.md)
+  * [TownyEmblems](others/page-7.md)
 
 ## 🗺 Maps
 
