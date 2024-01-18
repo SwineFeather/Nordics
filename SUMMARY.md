@@ -46,6 +46,8 @@
     * [Anhyi](towny/towns/finland-region/anhyi.md)
   * [🇸🇪 Sweden Region](towny/towns/sweden-region/README.md)
     * [☑ Northstar](towny/towns/sweden-region/northstar/README.md)
+      * [Northstar Industries](towny/towns/sweden-region/northstar/northstar-industries/README.md)
+        * [Northstar Industries - Mining Division](towny/towns/sweden-region/northstar/northstar-industries/northstar-industries-mining-division.md)
       * [👥 Northstar Residents](towny/towns/sweden-region/northstar/northstar-residents/README.md)
         * [👤 SeeYouMan](towny/towns/sweden-region/northstar/northstar-residents/seeyouman.md)
         * [👤 Svardmastaren](towny/towns/sweden-region/northstar/northstar-residents/svardmastaren.md)
