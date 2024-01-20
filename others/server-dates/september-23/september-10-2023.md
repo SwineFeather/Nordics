@@ -1,6 +1,6 @@
 # September 10, 2023
 
-The first nation on the server is created [The Kingdom of Denmark](../../../towny/nations/absent-nations/denmark.md)
+The first nation on the server is created [The Kingdom of Denmark](../../../the-world/nations/absent-nations/denmark.md)
 
 \
 **Discord announcements**

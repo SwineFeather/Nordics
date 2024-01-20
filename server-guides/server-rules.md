@@ -32,7 +32,8 @@ While we don't have a formal list of rules, our core goal is to create a fair an
         * Any actions taken within the roleplay context should not lead to the permanent destruction or significant alteration of the terrain or major structures in the game world.
 
         These exceptions are designed to allow players to engage in specific activities within the framework of war scenarios or roleplay while maintaining a respectful and enjoyable environment for all participants. It's important to establish clear guidelines and ensure that all involved players understand the boundaries and limitations of these exceptions.
-* :scroll:**Client mods:** Players are prohibited from using client mods known to cause server crashes or instability. Any client mods that have the potential to disrupt the server/player performance or cause crashes are strictly forbidden. Any concerns about specific mods should be brought to the attention of the server administrators for evaluation and approval before use.
+* :scroll:**Client mods:** Players are prohibited from using client mods known to cause server crashes or instability. Any client mods that have the potential to disrupt the server/player performance or cause crashes are strictly forbidden. Any concerns about specific mods should be brought to the attention of the server administrators for evaluation and approval before use.F
+* Freecam mods are only allowed in matters of building, in terms of war, events and conflicts is not allowed. In terms of media and videos, you will need permission from moderators.
 *   #### Redstone Rules
 
     * Passive and Active redstone farms

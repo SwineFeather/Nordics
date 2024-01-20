@@ -17,15 +17,15 @@ description: Everything related to the Nordics Minecraft server can be found her
 
 Important information:
 
-* [Towny Guide](server-guides-and-commands/towny-guide.md)
-* [Server rules](server-guides-and-commands/server-rules.md)
+* [Towny Guide](server-guides/towny-guide.md)
+* [Server rules](server-guides/server-rules.md)
 * How to make money
 
 Interesting articles to read:
 
-* The absent [Nation of Kala](towny/nations/absent-nations/kala.md)
-* The [Federation of Kesko Corporation](towny/nations/present-nations/kesko-corporation/)
-* Player profile: [\_Bamson](towny/towns/finland-region/garvia/garvian-residents/bamson.md)\
+* The absent [Nation of Kala](the-world/nations/absent-nations/kala.md)
+* The [Federation of Kesko Corporation](the-world/nations/present-nations/kesko-corporation/)
+* Player profile: [\_Bamson](the-world/towns/finland-region/garvia/garvian-residents/bamson.md)\
 
 
 We need information, lore, and pictures from [The 2022 Nordics server](history/the-2022-nordics-server/).

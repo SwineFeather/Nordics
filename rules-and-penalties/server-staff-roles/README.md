@@ -1,4 +1,4 @@
-# 📶 Server Developer roles
+# 📶 Server staff roles
 
 
 

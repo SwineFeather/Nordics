@@ -1,4 +1,4 @@
-# Rules
+# Rules for Nordics
 
 1. **Cheating and Technical Issues** \
    **1.1 Use of Cheats:** Those who use any form of cheats, mods, or programs that provide unfair advantages in the game will be convicted of cheating. This includes, but is not limited to, resource and texture packs that conceal certain blocks, speed and flight cheats, as well as x-ray. It is prohibited to attempt to find or use the seed used to generate any world on Kottcraft. Those caught using these will face severe penalties.\
