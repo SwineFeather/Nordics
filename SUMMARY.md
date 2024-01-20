@@ -179,6 +179,7 @@
 * [Rules](server-guides/rules.md)
 * [🏘 Towny Guide](server-guides/towny-guide.md)
 * [☄ Patreon ranks & Cosmetics](server-guides/cosmetics.md)
-* [Server Developer roles](server-guides/server-developer-roles.md)
+* [📶 Server Developer roles](server-guides/server-developer-roles/README.md)
+  * [Personnel list](server-guides/server-developer-roles/personnel-list.md)
 * [Other commands](server-guides/other-commands.md)
 * [Changelog/updates](server-guides/changelog-updates.md)
