@@ -12,8 +12,8 @@ While we don't have a formal list of rules, our core goal is to create a fair an
 * :handshake:**Respectful Conduct and Transparency**: Any form of derogatory or bigoted language is prohibited, as well as racism and homophobia. Additionally, players are not allowed to hide or change their in-game names in a manner that obscures their identity to others.
 * :earth\_americas:**World Borders**: Building outside of, over, or underworld borders is not permitted. This rule also extends to the Nether, where players should not attempt to breach or build above or below the bedrock layers.
 * :no\_pedestrians:**No World Griefing**: Avoid intentional large-scale environmental damage, like forest fires or lavacasting, as examples, to preserve the shared game world.
-  * **Vandalism** refers to the act of destroying land, not limited to towns only. However, there are some exceptions which include narrow pillars of low value such as pillars made of dirt, cobblestone, or sand.
-    * When it comes to vandalism in nature, if the damage has been done to unprotected land, the owner cannot expect to receive any compensation.
+  * **Vandalism** refers to destroying land, not limited to towns only. However, some exceptions exist where compensation or admins help may not step in, such as pillars of low value made of dirt, cobblestone, or sand.
+    * When it comes to vandalism in nature/wilderness, if the damage has been done to unprotected land, the owner cannot expect to receive any compensation unless it's a large-scale damage.
 * No Steer, Steal, Grief active players:
   * No player is allowed to interfere with the gameplay of active players in a way that disrupts their experience. This includes but is not limited to intentionally steering/manipulating their actions, stealing their in-game possessions, or causing grief. Any such behavior will result in disciplinary action.&#x20;
   * **War Exception**:
