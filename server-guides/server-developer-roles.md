@@ -44,25 +44,25 @@ There are high demands for patience, insight, knowledge of commands and Minecraf
 * Writing and contributing information to the library.
 * Have the right to use and assign temporary permissions to players as needed to solve certain tasks.
 
-Administrators can be regular players _however alternative accounts are suggested_. They can have cities and engage in trade, but not with the help of rights that come with their rank. All gaming MUST be conducted under the same conditions as all other regular players. They can help regular players with various construction or demolition, but only in survival mode. Administrators may not use state resources to build houses for players or repair players' tools.
+Administrators can be regular players. However_, alternative accounts are suggested_. They can have cities and engage in trade, but not with the help of rights that come with their rank. All gaming MUST be conducted under the same conditions as regular players. They can help regular players with various construction or demolition, but only in survival mode. Administrators may not use state resources to build houses for players or repair players' tools.
 
 In addition to being able to function as a moderator, there are extra high demands for creativity, knowledge of blocks, redstone, Worldedit, and a good eye for design and function.
 
-Manager - <mark style="color:blue;">**\[**</mark><mark style="color:red;">**A**</mark><mark style="color:blue;">**]**</mark>\
-&#x20;The manager is a form of administrators (abbreviated admin with a purple A instead of turquoise) who are part of the management group. The manager is responsible for the entire server.
+**Management - **<mark style="color:blue;">**\[**</mark><mark style="color:red;">**A**</mark><mark style="color:blue;">**]**</mark>\
+&#x20;The manager is a form of administrator (abbreviated admin with a purple A instead of turquoise) who is part of the management group. The manager is responsible for the entire server.
 
-* Responsibility for the total function and administration of the server.
+* Responsible for the total function and administration of the server.
 * Responsibility for all moderators and all ranks.
 * Responsible for recruitment and decision-making regarding ranks and permissions.&#x20;
 * Establishes rules and directives for players and moderators.
 * Manages more complex problems and conflicts, including conflicts involving moderators.
-* Together with the administrators, drives the state's development of buildings and state functions.
+* Together with the administrators, it drives the state's development of buildings and state functions.
 * Together with the developers, drives the development of features and additions ("plugins")
 * Responsible for all information in the library.
-* The manager has the right to make exceptions to current rules and practices when necessary.
+* The manager can make exceptions to current rules and practices when necessary.
 
-There is a head administrator/chief administrator who is ultimately responsible for the server's operations and functions. The head administrator has the final say in all major decisions or in decisions that are tied in votes. The head administrator is chosen by the server owner and the management team. Therefore, it does not have to be the server owner who is ultimately responsible.
+A head administrator/chief administrator is ultimately responsible for the server's operations and functions. The head administrator has the final say in all major decisions or decisions tied to votes. The head administrator is chosen by the server owner and the management team. Therefore, it does not have to be the server owner who is ultimately responsible.
 
-It happens that even manager administrators go on the street as a regular player and participate in constructions or help when a player is working on a project, but under the same conditions as a regular player.
+Even manager administrators go on the street as regular players and participate in construction or help when a player works on a project under the same conditions as a regular player.
 
-There are high demands for responsibility, judgment, adaptability, understanding of others, sense of order, conflict management ability, ability to make uncomfortable decisions, and the ability to see things from a broader perspective. The manager often serves as mentors to administrators, moderators, and chat moderators and should be a support function when needed.
+There are high demands for responsibility, judgment, adaptability, understanding of others, a sense of order, conflict management ability, making uncomfortable decisions, and seeing things from a broader perspective. The manager often serves as a mentor to administrators, moderators, and chat moderators and should be a support function when needed.
