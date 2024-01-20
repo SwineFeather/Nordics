@@ -10,10 +10,24 @@ While we don't have a formal list of rules, our core goal is to create a fair an
 * :no\_entry: **Monster Farms & AFK Fishing**: The use of monster farms and AFK fishing is completely prohibited, anywhere, on the server.
 * :x:**No Cheating, Hacking or Duping**: Engaging in any form of cheating, hacking, duping, or exploiting vulnerabilities for an advantage will result in immediate action being taken.
 * :handshake:**Respectful Conduct and Transparency**: Any form of derogatory or bigoted language is prohibited, as well as racism and homophobia. Additionally, players are not allowed to hide or change their in-game names in a manner that obscures their identity to others.
-* :earth\_americas:**World Borders**: It is not permitted to build outside of, over, or under world borders. This rule also extends to the Nether, where players should not attempt to breach or build above or below the bedrock layers.
+* :earth\_americas:**World Borders**: Building outside of, over, or underworld borders is not permitted. This rule also extends to the Nether, where players should not attempt to breach or build above or below the bedrock layers.
 * :no\_pedestrians:**No World Griefing**: Avoid intentional large-scale environmental damage, like forest fires or lavacasting, as examples, to preserve the shared game world.
-* Do not steal or grief active players
-* :scroll:**Client mods:** Players are prohibited from using client mods that are known to cause server crashes or instability. Any client mods that have the potential to disrupt the server/player performance or cause crashes are strictly forbidden. Any concerns about specific mods should be brought to the attention of the server administrators for evaluation and approval before use.
+* No Steer, Steal, Grief active players:
+  * No player is allowed to interfere with the gameplay of active players in a way that disrupts their experience. This includes but is not limited to intentionally steering/manipulating their actions, stealing their in-game possessions, or causing grief. Any such behavior will result in disciplinary action.&#x20;
+  * **War Exception**:
+    * In the event of a designated war between players or factions, certain actions that would typically be prohibited may be allowed within the context of the war. This may include:
+      * Temporary allowance for stealing resources or items from opposing players or factions as part of the war effort.
+      * Permission for limited manipulation of in-game assets, such as altering structures or terrain within the context of the war or conflict. (Admins may revert large changes, ex opposition setting towns, ships on fire)
+      * Clear communication and agreement on the rules of engagement and what actions are permissible during the war ensuring that all involved players understand the boundaries of acceptable behavior.
+  * **Roleplay Exception**:
+    *   In roleplay scenarios, players may be permitted to engage in certain actions that would otherwise be restricted as long as they adhere to the following guidelines:
+
+        * Stealing and manipulating in-game items or assets should be done in the context of roleplay and should not result in permanent loss or significant disruption for other players.
+        * Consensual roleplay agreements between participating players or factions clearly outline the boundaries of acceptable behavior within the roleplay scenario.
+        * Any actions taken within the roleplay context should not lead to the permanent destruction or significant alteration of the terrain or major structures in the game world.
+
+        These exceptions are designed to allow players to engage in specific activities within the framework of war scenarios or roleplay while maintaining a respectful and enjoyable environment for all participants. It's important to establish clear guidelines and ensure that all involved players understand the boundaries and limitations of these exceptions.
+* :scroll:**Client mods:** Players are prohibited from using client mods known to cause server crashes or instability. Any client mods that have the potential to disrupt the server/player performance or cause crashes are strictly forbidden. Any concerns about specific mods should be brought to the attention of the server administrators for evaluation and approval before use.
 *   #### Redstone Rules
 
     * Passive and Active redstone farms
