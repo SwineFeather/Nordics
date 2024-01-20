@@ -6,26 +6,19 @@
 
 In order for social channels, game servers, and internet forums to function well, a group of dedicated individuals is needed, whose task often involves helping and ensuring that participants, members, players, etc. adhere to specified guidelines and rules. A staff member can also be a person who facilitates a conversation between different parties in order to have an interesting debate that does not devolve into personal attacks or mudslinging.
 
-Staff members are present practically everywhere. Facebook has them, Instagram has them, Google has them, your favorite forum has them, and practically all Minecraft servers have them. They may be called or named differently, but "staff," "moderator," or "staff" are the most commonly used terms.
-
-To distinguish staff members who have different areas of responsibility, we at Kottcraft have five levels of staff roles. The higher the rank, the greater the responsibility.
-
-You can contact active staff members on the server using the command /helpop.
-
-**Who does what?**\
-There are several types of staff roles in Kottcraft. Below, you can read about the different types and their differences.
+To distinguish staff members who have different areas of responsibility, there are five levels of staff roles. The higher the rank, the greater the responsibility:
 
 #### Chat Moderator - <mark style="color:blue;">**\[C]**</mark>
 
 A chat moderator is responsible for supporting new players and maintaining order in the game's chat channel.
 
 * Duties include warning and banning players who misbehave in the chat channel.
-* Their responsibility is limited to the global chat channel only.
+* Their responsibility is limited to the global chat channel only, not within towns or nations.
 * They should be able to assist players in answering questions about how the server functions.
 * Chat moderators generally do not handle rule violations.&#x20;
 * They should also act as moderators to assist in events, conflict resolution, and rule infraction
 
-&#x20;Chat moderators usually do not handle rule violations outside the global chat. Still, they have the right to occasionally intervene in serious rule infractions that directly harm the server or players if no moderators are present.
+Chat moderators usually do not handle rule violations outside the global chat. Still, they have the right to occasionally intervene in serious rule infractions that directly harm the server or players if no moderators are present.
 
 Being a chat moderator is typically an entry-level role for those who have applied to become a moderator on the server. It requires the ability to express oneself to other players in text. One must not be afraid of conflicts, feel responsible for the chat, and be able to assist players with simpler problems easily.
 
@@ -40,8 +33,9 @@ The moderator is Nordics most important function and is the server's universal t
 * Be active and involved in most decisions regarding the server.
 * Vote for new moderators.
 * Create activities and engage players with small events, competitions, or similar.
-* May have specialist roles where they are responsible for, for example, prisons, event constructions, PVP arenas, etc.
-* Provide support to mayors who need advanced help with the city. Write and contribute information to the library and handling support cases.
+* May have specialist roles where they are responsible for, for example, War, event constructions, PVP arenas, NPC Quests, World Building etc.
+* Provide support to mayors who need advanced help with the city.&#x20;
+* Write and contribute information to the Wiki and handling support cases.
 
 A moderator is also a regular player who can participate in building cities and coming up with things to do. A moderator can also be a mayor if they find time for it, however, without the help of moderator tools.
 
@@ -51,21 +45,21 @@ There are high demands for patience, insight, knowledge of commands and Minecraf
 
 Administrators are moderators with greater responsibility and rights to ensure that the world is in good condition, functions and places are operational, and to be able to own certain projects.
 
-* Responsibility for all common events, buildings, and cities of the state.
+* Responsibility for all common events.
 * Each administrator normally has a specific area of responsibility to manage and administer.
 * Support for mayors who need help with land and/or want to build advanced things or special buildings with functions that help or positively impact the server.
-* Support for leadership in changing parts of the world, such as relocation or major changes to larger buildings or entire cities.
+* Support for Management in changing parts of the world.
 * Voting for new moderators and chat moderators.&#x20;
 * High proficiency in building techniques, design, and creativity.
 * Generally, have a good understanding of Minecraft blocks and building techniques, including redstone and logical functions.
-* Writing and contributing information to the library.
+* Writing and contributing information to the Wiki.
 * Have the right to use and assign temporary permissions to players as needed to solve certain tasks.
 
 Administrators can be regular players. However_, alternative accounts are suggested_. They can have cities and engage in trade, but not with the help of rights that come with their rank. All gaming MUST be conducted under the same conditions as regular players. They can help regular players with various construction or demolition, but only in survival mode. Administrators may not use state resources to build houses for players or repair players' tools.
 
 In addition to being able to function as a moderator, there are extra high demands for creativity, knowledge of blocks, redstone, Worldedit, and a good eye for design and function.
 
-#### **Management - **<mark style="color:blue;">**\[**</mark><mark style="color:red;">**A**</mark><mark style="color:blue;">**]**</mark>
+#### **Management - **<mark style="color:blue;">**\[**</mark><mark style="color:purple;">**A**</mark><mark style="color:blue;">**]**</mark>
 
 The manager is a form of administrator (abbreviated admin with a purple A instead of turquoise) who is part of the management group. The manager is responsible for the entire server.
 
@@ -81,21 +75,17 @@ The manager is a form of administrator (abbreviated admin with a purple A instea
 
 A head administrator/chief administrator is ultimately responsible for the server's operations and functions. The head administrator has the final say in all major decisions or decisions tied to votes. The head administrator is chosen by the server owner and the management team. Therefore, it does not have to be the server owner who is ultimately responsible.
 
-Even manager administrators go on the street as regular players and participate in construction or help when a player works on a project under the same conditions as a regular player.
-
 There are high demands for responsibility, judgment, adaptability, understanding of others, a sense of order, conflict management ability, making uncomfortable decisions, and seeing things from a broader perspective. The manager often serves as a mentor to administrators, moderators, and chat moderators and should be a support function when needed.
 
 
 
-### **"With Great Power Comes Great Responsibility"**&#x20;
+### **With Great Power Comes Great Responsibility**&#x20;
 
-The quote "With great power comes great responsibility" emphasizes the idea that individuals with significant influence or authority also bear a heightened level of responsibility for their actions.
-
-Personal Members Personal members have greater responsibility, and there are higher expectations for their behavior and conduct. The punishment for a staff member who knowingly and severely abuses their rights can be much harsher than for a player. If a staff member is found to be abusing their rights and/or trust, it is the responsible administrator who judges the case and determines any penalties. Those in the staff have been entrusted to be staff members, and it is of the utmost importance that they do not abuse that trust.
+Personal members have greater responsibility, and there are higher expectations for their behavior and conduct. The punishment for a staff member who knowingly and severely abuses their rights can be much harsher than for a player. If a staff member is found to be abusing their rights and/or trust, it is the responsible administrator who judges the case and determines any penalties. Those in the staff have been entrusted to be staff members, and it is of the utmost importance that they do not abuse that trust.
 
 #### **Voluntary Work**
 
-It is important to understand that all of Kottcraft's staff are regular people. They are often young individuals with different strengths and weaknesses, but they all share a common interest. And they are all here voluntarily. The work on the server takes place in the same free time as you play, and there is no form of financial or material compensation. The "compensation" instead comes in the form of experiences and lessons in many areas; about Minecraft, about people, organization, ethics and morals, leadership, problem-solving, and what it means to sometimes be vulnerable. These are lessons that can be useful in real life.
+It is important to understand that all of the staff are regular people. They are often young individuals with different strengths and weaknesses, but they all share a common interest. And they are all here voluntarily. The work on the server takes place in the same free time as you play, and there is no form of financial or material compensation. The "compensation" instead comes in the form of experiences and lessons in many areas; about Minecraft, about people, organization, ethics and morals, leadership, problem-solving, and what it means to sometimes be vulnerable. These are lessons that can be useful in real life.
 
 Since this is voluntary, it is difficult to place excessive demands on the time a staff member must dedicate to the server. Different staff members are skilled or experienced in different areas. Some staff members have less time, while others have more. Therefore, it is necessary to respect that there may be fewer staff members logged in at certain times or periods, and sometimes there may be more. Ensuring that there are often enough staff members logged in is something that the management continuously works on.
 
