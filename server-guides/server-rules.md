@@ -28,4 +28,11 @@ While we don't have a formal list of rules, our core goal is to create a fair an
 
     Non-farm-related redstone machines are welcome, provided they don't put undue strain on the server.
 
+    *   &#x20;Unlawful flying machines \
+        It is only allowed to build machines (flying machines) in controlled forms if they follow certain criteria:
+
+        The machine must have stopping blocks in the form of obsidian or furnace at both start and stop. The machine may only be built on town land and on a plot intended for the machine. The entire route of the machine must be visible to the player (you must be able to see the entire path between start and stop). The machine must not be able to change its flight direction, nor have the ability to do so with player involvement, for example, by pressing a button.
+
+        Moderators have the right at any time to dismantle a machine that they consider may pose a threat to any building on the server or otherwise violate the above guidelines. The moderator also has no obligation to return materials from a machine that is considered to violate the rule."
+
 \

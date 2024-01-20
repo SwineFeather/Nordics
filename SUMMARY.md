@@ -177,6 +177,6 @@
 * [💰 Make money](server-guides/make-money.md)
 * [📚 Server rules](server-guides/server-rules.md)
 * [🏘 Towny Guide](server-guides/towny-guide.md)
-* [☄ Cosmetics](server-guides/cosmetics.md)
+* [☄ Patreon ranks & Cosmetics](server-guides/cosmetics.md)
 * [Other commands](server-guides/other-commands.md)
 * [Changelog/updates](server-guides/changelog-updates.md)
