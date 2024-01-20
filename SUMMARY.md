@@ -129,9 +129,7 @@
     * [Resource gatherers](the-world/others/occupations/resource-gatherers.md)
   * [TownyEmblems](the-world/others/page-7.md)
 
-## 🗺 Maps
-
-## 📔 "History"
+## "History"
 
 * [The 2022 Nordics Server](history/the-2022-nordics-server/README.md)
   * [Arena event](history/the-2022-nordics-server/arena-event.md)
