@@ -2,13 +2,16 @@
 
 :books: **Frequently Asked Questions**&#x20;
 
-_What Are the Rules for the Nordics Minecraft Server?_&#x20;
+_What Are the Rules for the Nordics Minecraft Server?_ \
+\
+Disclaimer: The extent of penalties for rule violations will take into account factors such as the duration of the offense and the benefits gained. Individuals who have not extensively contravened the rules or derived significant advantages from their actions may receive less severe penalties.
 
 While we don't have a formal list of rules, our core goal is to create a fair and respectful gaming environment for everyone. The following guidelines should answer most of your questions:
 
 * :shield: **Fair Play**: Utilizing 'clever use of game mechanics' or manipulating in-game mechanics to gain an unfair advantage is not allowed.
 * :no\_entry: **Monster Farms & AFK Fishing**: The use of monster farms and AFK fishing is completely prohibited, anywhere, on the server.
 * :x:**No Cheating, Hacking or Duping**: Engaging in any form of cheating, hacking, duping, or exploiting vulnerabilities for an advantage will result in immediate action being taken.
+  * **Unauthorized Automation:** Engaging in the use of automated processes to carry out actions such as mouse clicks, movements, keyboard presses, or any other automated behaviors that provide advantages is strictly prohibited and will result in penalties for unauthorized automation.
 * :handshake:**Respectful Conduct and Transparency**: Any form of derogatory or bigoted language is prohibited, as well as racism and homophobia. Additionally, players are not allowed to hide or change their in-game names in a manner that obscures their identity to others.
 * :earth\_americas:**World Borders**: Building outside of, over, or underworld borders is not permitted. This rule also extends to the Nether, where players should not attempt to breach or build above or below the bedrock layers.
 * :no\_pedestrians:**No World Griefing**: Avoid intentional large-scale environmental damage, like forest fires or lavacasting, as examples, to preserve the shared game world.

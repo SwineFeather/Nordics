@@ -176,6 +176,7 @@
     * [🦐 Page 6](server-guides/fishing-features/species-catergory/page-6.md)
 * [💰 Make money](server-guides/make-money.md)
 * [📚 Server rules](server-guides/server-rules.md)
+* [Rules](server-guides/rules.md)
 * [🏘 Towny Guide](server-guides/towny-guide.md)
 * [☄ Patreon ranks & Cosmetics](server-guides/cosmetics.md)
 * [Other commands](server-guides/other-commands.md)
