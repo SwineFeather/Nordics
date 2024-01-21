@@ -87,7 +87,7 @@
     * [Dublin](towny/towns/other-regions/dublin.md)
     * [Vejle](towny/towns/other-regions/vejle.md)
     * [Aquashore](towny/towns/other-regions/aquashore.md)
-* [Economy](the-world/economy/README.md)
+* [💰 Economy](the-world/economy/README.md)
   * [Euro - the virtual currency](the-world/economy/euro-the-virtual-currency.md)
   * [Vote for the server - get payed](the-world/economy/vote-for-the-server-get-payed.md)
   * [Descriptive reasons](the-world/economy/descriptive-reasons.md)
@@ -192,7 +192,8 @@
     * [🦐 Page 6](additional-guides-and-commands/fishing-features/species-catergory/page-6.md)
 * [☄ Patreon ranks & Cosmetics](additional-guides-and-commands/cosmetics.md)
 * [Other commands](additional-guides-and-commands/other-commands.md)
-* [Changelog/updates](additional-guides-and-commands/changelog-updates.md)
+* [Patchnotes](additional-guides-and-commands/changelog-updates/README.md)
+  * [Overview](additional-guides-and-commands/changelog-updates/overview.md)
 * [How to become a collaborator for wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-wiki.md)
 
 ## ⁉ Rules and penalties
