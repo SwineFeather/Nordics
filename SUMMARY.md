@@ -85,7 +85,7 @@
   * [Euro - the virtual currency](the-world/economy/euro-the-virtual-currency.md)
   * [Vote for the server - get payed](the-world/economy/vote-for-the-server-get-payed.md)
   * [Descriptive reasons](the-world/economy/descriptive-reasons.md)
-  * [Page 12](the-world/economy/page-12.md)
+  * [Sign Shops](the-world/economy/sign-shops.md)
 * [🗺 Maps](the-world/maps/README.md)
   * [Regions](the-world/maps/regions/README.md)
     * [Sweden](the-world/maps/regions/sweden.md)
