@@ -18,7 +18,7 @@ There are different types of penalties. The applicable penalties depend on the r
 * **Warning:** It results in being disconnected from the server and indicates that a rule violation has been committed. All warnings always include a reason that helps the warned individual understand which rule they have violated. Warnings are saved in the player's profile and can be seen by the moderators afterward.
 * **Banishment:** As a banned individual, one is usually placed in prison and has extremely limited opportunities to play and communicate on the server. In addition to the Minecraft server, access to the Discord server was also denied during the banishment. In addition to reasons, which are also included in warnings, banishments always have an expiration date. It can be changed forward and backward if new circumstances emerge during the banishment. If a player receives multiple warnings quickly, a banishment may be applicable if further rule violations are committed. Something similar to banishments, but with certain differences, is suspensions.
 
-[Read more about suspensions.](../suspended-until-further-notice.md)
+[Read more about suspensions.](../suspended-indefinitely.md)
 
 #### Fines and Damages&#x20;
 
