@@ -17,7 +17,7 @@ description: Everything related to the Nordics Minecraft server can be found her
 
 Important information:
 
-* [Towny Guide](server-guides/towny-guide.md)
+* [Towny Guide](the-world/town-administration/towny-guide.md)
 * [Server rules](rules-and-penalties/server-rules.md)
 * How to make money
 

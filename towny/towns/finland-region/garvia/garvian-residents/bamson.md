@@ -6,7 +6,7 @@ description: Builder & architect
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Nation</strong>: <a href="../../../../nations/present-nations/constellation.md">Constellation</a></td><td><strong>Town</strong>: <a href="../">Garvia</a></td><td><strong>Alias</strong>: _Bamson</td></tr><tr><td><img src="../../../../../.gitbook/assets/download (2).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Registered:</strong> <a href="../../../../../the-world/others/server-dates/september-23/september-14-2023.md">Sep 14, 2023</a></td><td><strong>Occupation</strong>: Builder &#x26; Architect</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Nation</strong>: <a href="../../../../nations/present-nations/constellation.md">Constellation</a></td><td><strong>Town</strong>: <a href="../">Garvia</a></td><td><strong>Alias</strong>: _Bamson</td></tr><tr><td><img src="../../../../../.gitbook/assets/download (2).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Registered:</strong> <a href="../../../../../additional-guides-and-commands/others/server-dates/september-23/september-14-2023.md">Sep 14, 2023</a></td><td><strong>Occupation</strong>: Builder &#x26; Architect</td><td></td></tr></tbody></table>
 
 **2022 Nordics Server:**&#x20;
 

@@ -8,11 +8,11 @@ description: List of all involved in server developmen
 
 <div align="center" data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/KevorkDK (1).png" alt=""><figcaption><p><a href="../../the-world/others/server-developers/kevork.md">KevorkDK</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KevorkDK (1).png" alt=""><figcaption><p><a href="../../additional-guides-and-commands/others/server-developers/kevork.md">KevorkDK</a></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p><a href="../../the-world/others/server-developers/swinefeather.md">SwineFeather</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p><a href="../../additional-guides-and-commands/others/server-developers/swinefeather.md">SwineFeather</a></p></figcaption></figure>
 
 </div>
 

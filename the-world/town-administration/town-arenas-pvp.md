@@ -1,0 +1,8 @@
+# Town Arenas - PVP
+
+A town arena is simply a PvP arena. Here, you don't lose any items if you die. A town arena must meet all the criteria below, and to ensure that all arenas follow the rules, you must apply to have your arena approved by a moderator. Each application will be reviewed, and if the requirements are met, getting your arena approved should be no problem.
+
+Requirements for town arenas: The following requirements must be met to have PvP enabled:
+
+The town arena should be a separate plot in the town. The plot must not at any point extend beyond the natural, physical boundaries of the arena, such as walls and ceilings. There needs to be one or more official teleportation point(s) (/go) to the arena, and it should lead to a point just outside, i.e., a point outside the plot. It should be clear which part of the arena has PvP enabled, and at all entrances, signs must be put up informing that PvP is enabled inside. The town must not have had any town arena previously, which means that we only provide one arena per town. There must be clear walls around the entire arena. The arena must be functional and fully built. It is not possible to continue building on the plot afterward. To make changes, you must first ask a moderator to unlock the plot. Then, you must submit a new application when the arena is ready. The entrance must have iron doors and a stone button that opens the doors so that players outside do not risk being pushed inside. The plot should only be owned by the town, i.e., no player should be listed as the owner of the plot. Walls, ceilings, and floors should be included in the plot, but the markings must not extend outside the arena
+
