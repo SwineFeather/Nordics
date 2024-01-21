@@ -1,4 +1,4 @@
-# 📶 Server staff roles
+# Server staff roles
 
 
 

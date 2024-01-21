@@ -185,7 +185,7 @@
     * [Soldiers](additional-guides-and-commands/others/occupations/soldiers.md)
     * [Resource gatherers](additional-guides-and-commands/others/occupations/resource-gatherers.md)
   * [TownyEmblems](additional-guides-and-commands/others/page-7.md)
-* [🎣 Fishing Features](additional-guides-and-commands/fishing-features/README.md)
+* [Fishing Features](additional-guides-and-commands/fishing-features/README.md)
   * [Species Catergory](additional-guides-and-commands/fishing-features/species-catergory/README.md)
     * [🐡 Page 1](additional-guides-and-commands/fishing-features/species-catergory/page-1.md)
     * [🦈 Page](additional-guides-and-commands/fishing-features/species-catergory/page.md)
@@ -199,8 +199,8 @@
 
 ## ⁉ Rules and penalties
 
-* [📚 Server rules](rules-and-penalties/server-rules.md)
-* [📶 Server staff roles](server-guides/server-developer-roles/README.md)
+* [Server rules](rules-and-penalties/server-rules.md)
+* [Server staff roles](server-guides/server-developer-roles/README.md)
   * [Personnel list](server-guides/server-developer-roles/personnel-list.md)
 * [Rules for Nordics](server-guides/rules.md)
 * [Practice](rules-and-penalties/practice/README.md)

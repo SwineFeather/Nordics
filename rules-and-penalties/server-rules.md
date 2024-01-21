@@ -1,4 +1,4 @@
-# 📚 Server rules
+# Server rules
 
 :books: **Frequently Asked Questions**&#x20;
 
