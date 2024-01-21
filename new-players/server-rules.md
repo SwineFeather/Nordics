@@ -1,4 +1,4 @@
-# Server rules
+# Common rules
 
 :books: **Frequently Asked Questions**&#x20;
 
@@ -6,7 +6,7 @@ _What Are the Rules for the Nordics Minecraft Server?_ \
 \
 Disclaimer: The extent of penalties for rule violations will take into account factors such as the duration of the offense and the benefits gained. Individuals who have not extensively contravened the rules or derived significant advantages from their actions may receive less severe penalties.
 
-While we don't have a formal list of rules, our core goal is to create a fair and respectful gaming environment for everyone. The following guidelines should answer most of your questions:
+[Rules for Nordics](../server-guides/rules.md)
 
 * :shield: **Fair Play**: Utilizing 'clever use of game mechanics' or manipulating in-game mechanics to gain an unfair advantage is not allowed.
 * :no\_entry: **Monster Farms & AFK Fishing**: The use of monster farms and AFK fishing is completely prohibited, anywhere, on the server.
@@ -47,12 +47,5 @@ While we don't have a formal list of rules, our core goal is to create a fair an
     * Redstone machinery
 
     Non-farm-related redstone machines are welcome, provided they don't put undue strain on the server.
-
-    *   &#x20;Unlawful flying machines \
-        It is only allowed to build machines (flying machines) in controlled forms if they follow certain criteria:
-
-        The machine must have stopping blocks in the form of obsidian or furnace at both start and stop. The machine may only be built on town land and on a plot intended for the machine. The entire route of the machine must be visible to the player (you must be able to see the entire path between start and stop). The machine must not be able to change its flight direction, nor have the ability to do so with player involvement, for example, by pressing a button.
-
-        Moderators have the right at any time to dismantle a machine that they consider may pose a threat to any building on the server or otherwise violate the above guidelines. The moderator also has no obligation to return materials from a machine that is considered to violate the rule."
 
 \

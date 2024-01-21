@@ -1,2 +1,0 @@
-# Nordics Welcome page
-

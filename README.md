@@ -42,10 +42,16 @@ This wiki is under constant construction. Please let [SwineFeather](additional-g
 
 ***
 
+### About
+
+shntshntshnt
+
+***
+
 ### Important information:
 
 * [Towny Guide](the-world/town-administration/towny-guide.md)
-* [Server rules](rules-and-penalties/server-rules.md)
+* [Server rules](new-players/server-rules.md)
 * How to make money
 
 #### Interesting articles to read:
@@ -56,7 +62,7 @@ This wiki is under constant construction. Please let [SwineFeather](additional-g
 
 ***
 
-We need information, lore, and pictures from [The 2022 Nordics server](history/the-2022-nordics-server/).
+We need information, lore, and pictures from [The 2022 Nordics server](additional-guides-and-commands/others/the-2022-nordics-server/).
 
 * Submit to #SwineFeather in DM, or any nation Discord.
 

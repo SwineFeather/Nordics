@@ -4,9 +4,9 @@
 
 ## 🥳 New Players
 
-* [Nordics Welcome page](new-players/nordics-welcome-page.md)
-* [What is Nordics about?](new-players/what-is-nordics-about.md)
+* [Welcome page](new-players/welcome-page.md)
 * [How to join a town](new-players/how-to-join-a-town.md)
+* [Common rules](new-players/server-rules.md)
 
 ## 🏘 The World
 
@@ -120,36 +120,6 @@
   * [Page 7](the-world/town-administration/page-7.md)
   * [🏘 Towny Guide](the-world/town-administration/towny-guide.md)
 
-## "History"
-
-* [The 2022 Nordics Server](history/the-2022-nordics-server/README.md)
-  * [Arena event](history/the-2022-nordics-server/arena-event.md)
-  * [Easter Eggs](history/the-2022-nordics-server/easter-eggs/README.md)
-    * [Ship Diary](history/the-2022-nordics-server/easter-eggs/ship-diary.md)
-  * [Others](history/the-2022-nordics-server/others.md)
-  * [Maps](history/the-2022-nordics-server/maps/README.md)
-    * [Page 9](history/the-2022-nordics-server/maps/page-9.md)
-  * [Hansan Traders](history/the-2022-nordics-server/hansan-traders.md)
-  * [Golden Union](history/the-2022-nordics-server/golden-union.md)
-  * [Koridai](history/the-2022-nordics-server/koridai.md)
-  * [Vikenha](history/the-2022-nordics-server/vikenha.md)
-  * [Östrevy](history/the-2022-nordics-server/oestrevy.md)
-  * [Exodus](history/the-2022-nordics-server/exodus.md)
-  * [Othandra](history/the-2022-nordics-server/othandra.md)
-  * [Ligancity](history/the-2022-nordics-server/ligancity.md)
-  * [Page 8](history/the-2022-nordics-server/page-8.md)
-  * [Sanctuary Farm](history/the-2022-nordics-server/sanctuary-farm.md)
-  * [Cadastre](history/the-2022-nordics-server/cadastre.md)
-  * [Kalavala](history/the-2022-nordics-server/kalavala/README.md)
-    * [Kalasseum](history/the-2022-nordics-server/kalavala/kalasseum.md)
-* [Server Events](history/server-events/README.md)
-  * [Northstar captive](history/server-events/northstar-captive.md)
-  * [🗡 Oulu Massacre](history/server-events/oulu-massacre.md)
-  * [🧱 The relocation of Normannburg](history/server-events/the-relocation-of-normannburg.md)
-  * [North Karelian war](history/server-events/north-karelian-war.md)
-  * [🔥 The Danish forest fire](history/server-events/the-danish-forest-fire.md)
-  * [Battle of Alesia](history/server-events/battle-of-alesia.md)
-
 ## 💻 Additional Guides & Commands
 
 * [Others](additional-guides-and-commands/others/README.md)
@@ -185,6 +155,33 @@
     * [Soldiers](additional-guides-and-commands/others/occupations/soldiers.md)
     * [Resource gatherers](additional-guides-and-commands/others/occupations/resource-gatherers.md)
   * [TownyEmblems](additional-guides-and-commands/others/page-7.md)
+  * [Server Events](additional-guides-and-commands/others/server-events/README.md)
+    * [Northstar captive](additional-guides-and-commands/others/server-events/northstar-captive.md)
+    * [🗡 Oulu Massacre](additional-guides-and-commands/others/server-events/oulu-massacre.md)
+    * [🧱 The relocation of Normannburg](additional-guides-and-commands/others/server-events/the-relocation-of-normannburg.md)
+    * [North Karelian war](additional-guides-and-commands/others/server-events/north-karelian-war.md)
+    * [🔥 The Danish forest fire](additional-guides-and-commands/others/server-events/the-danish-forest-fire.md)
+    * [Battle of Alesia](additional-guides-and-commands/others/server-events/battle-of-alesia.md)
+  * [The 2022 Nordics Server](additional-guides-and-commands/others/the-2022-nordics-server/README.md)
+    * [Arena event](additional-guides-and-commands/others/the-2022-nordics-server/arena-event.md)
+    * [Easter Eggs](additional-guides-and-commands/others/the-2022-nordics-server/easter-eggs/README.md)
+      * [Ship Diary](additional-guides-and-commands/others/the-2022-nordics-server/easter-eggs/ship-diary.md)
+    * [Others](additional-guides-and-commands/others/the-2022-nordics-server/others.md)
+    * [Maps](additional-guides-and-commands/others/the-2022-nordics-server/maps/README.md)
+      * [Page 9](additional-guides-and-commands/others/the-2022-nordics-server/maps/page-9.md)
+    * [Hansan Traders](additional-guides-and-commands/others/the-2022-nordics-server/hansan-traders.md)
+    * [Golden Union](additional-guides-and-commands/others/the-2022-nordics-server/golden-union.md)
+    * [Koridai](additional-guides-and-commands/others/the-2022-nordics-server/koridai.md)
+    * [Vikenha](additional-guides-and-commands/others/the-2022-nordics-server/vikenha.md)
+    * [Östrevy](additional-guides-and-commands/others/the-2022-nordics-server/oestrevy.md)
+    * [Exodus](additional-guides-and-commands/others/the-2022-nordics-server/exodus.md)
+    * [Othandra](additional-guides-and-commands/others/the-2022-nordics-server/othandra.md)
+    * [Ligancity](additional-guides-and-commands/others/the-2022-nordics-server/ligancity.md)
+    * [Page 8](additional-guides-and-commands/others/the-2022-nordics-server/page-8.md)
+    * [Sanctuary Farm](additional-guides-and-commands/others/the-2022-nordics-server/sanctuary-farm.md)
+    * [Cadastre](additional-guides-and-commands/others/the-2022-nordics-server/cadastre.md)
+    * [Kalavala](additional-guides-and-commands/others/the-2022-nordics-server/kalavala/README.md)
+      * [Kalasseum](additional-guides-and-commands/others/the-2022-nordics-server/kalavala/kalasseum.md)
 * [Fishing Features](additional-guides-and-commands/fishing-features/README.md)
   * [Species Catergory](additional-guides-and-commands/fishing-features/species-catergory/README.md)
     * [🐡 Page 1](additional-guides-and-commands/fishing-features/species-catergory/page-1.md)
@@ -196,12 +193,12 @@
 * [☄ Patreon ranks & Cosmetics](additional-guides-and-commands/cosmetics.md)
 * [Other commands](additional-guides-and-commands/other-commands.md)
 * [Changelog/updates](additional-guides-and-commands/changelog-updates.md)
+* [How to become a collaborator for wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-wiki.md)
 
 ## ⁉ Rules and penalties
 
-* [Server rules](rules-and-penalties/server-rules.md)
 * [Server staff roles](server-guides/server-developer-roles/README.md)
-  * [Personnel list](server-guides/server-developer-roles/personnel-list.md)
+  * [The Nordics Staff](server-guides/server-developer-roles/personnel-list.md)
 * [Rules for Nordics](server-guides/rules.md)
 * [Practice](rules-and-penalties/practice/README.md)
   * [Cheating and Technical Issues](rules-and-penalties/practice/cheating-and-technical-issues.md)

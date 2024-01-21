@@ -2,7 +2,7 @@
 description: List of all involved in server developmen
 ---
 
-# Personnel list
+# The Nordics Staff
 
 #### &#x20;                                                                                   Management
 
@@ -21,6 +21,8 @@ description: List of all involved in server developmen
 #### &#x20;                                                                                    Moderators
 
 #### &#x20;                                                                              Chat Moderators
+
+### Community Helpers
 
 #### shnt
 

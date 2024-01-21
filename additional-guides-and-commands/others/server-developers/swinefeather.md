@@ -1,5 +1,5 @@
 ---
-description: Server Manager
+description: 'Server Manager ~ Discord: swinefeather'
 layout:
   title:
     visible: true
@@ -25,7 +25,7 @@ Biography:
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Aytte.png" alt=""><figcaption><p>Aytte</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Aytte.png" alt=""><figcaption><p><a href="../../../towny/towns/finland-region/garvia/garvian-residents/aytte.md">Aytte</a></p></figcaption></figure>
 
  
 
