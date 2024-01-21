@@ -90,6 +90,7 @@
     * [Town Tax](the-world/economy/taxes/town-tax.md)
     * [Nationtax](the-world/economy/taxes/nationtax.md)
     * [If tax cannot be payed](the-world/economy/taxes/if-tax-cannot-be-payed.md)
+  * [💰 Make money](the-world/economy/make-money.md)
 * [🗺 Maps](the-world/maps/README.md)
   * [Regions](the-world/maps/regions/README.md)
     * [Sweden](the-world/maps/regions/sweden.md)
@@ -178,8 +179,6 @@
     * [🐠 Page 4](server-guides/fishing-features/species-catergory/page-4.md)
     * [🍥 Page 5](server-guides/fishing-features/species-catergory/page-5.md)
     * [🦐 Page 6](server-guides/fishing-features/species-catergory/page-6.md)
-* [💰 Make money](server-guides/make-money.md)
-* [📚 Server rules](server-guides/server-rules.md)
 * [🏘 Towny Guide](server-guides/towny-guide.md)
 * [☄ Patreon ranks & Cosmetics](server-guides/cosmetics.md)
 * [Other commands](server-guides/other-commands.md)
@@ -187,6 +186,7 @@
 
 ## ⁉ Rules and penalties
 
+* [📚 Server rules](rules-and-penalties/server-rules.md)
 * [📶 Server staff roles](server-guides/server-developer-roles/README.md)
   * [Personnel list](server-guides/server-developer-roles/personnel-list.md)
 * [Rules for Nordics](server-guides/rules.md)

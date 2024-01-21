@@ -10,7 +10,7 @@ Every time you kill a monster, there’s a chance that you’ll get some money. 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (71).png" alt="" width="227"><figcaption><p>Sickle recipe</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (71).png" alt="" width="227"><figcaption><p>Sickle recipe</p></figcaption></figure>
 
 </div>
 
