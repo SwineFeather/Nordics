@@ -82,7 +82,7 @@
     * [Vejle](towny/towns/other-regions/vejle.md)
     * [Aquashore](towny/towns/other-regions/aquashore.md)
 * [Economy](the-world/economy/README.md)
-  * [Euro](the-world/economy/euro.md)
+  * [Euro - the virtual currency](the-world/economy/euro-the-virtual-currency.md)
   * [Vote for the server - get payed](the-world/economy/vote-for-the-server-get-payed.md)
   * [Descriptive reasons](the-world/economy/descriptive-reasons.md)
   * [Page 12](the-world/economy/page-12.md)
