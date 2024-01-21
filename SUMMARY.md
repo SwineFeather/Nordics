@@ -86,6 +86,8 @@
   * [Vote for the server - get payed](the-world/economy/vote-for-the-server-get-payed.md)
   * [Descriptive reasons](the-world/economy/descriptive-reasons.md)
   * [Sign Shops](the-world/economy/sign-shops.md)
+  * [Taxes](the-world/economy/taxes/README.md)
+    * [Town Tax](the-world/economy/taxes/town-tax.md)
 * [🗺 Maps](the-world/maps/README.md)
   * [Regions](the-world/maps/regions/README.md)
     * [Sweden](the-world/maps/regions/sweden.md)
