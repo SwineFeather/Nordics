@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🏘 Towny Guide
 
 **Wondering how Towny works?**&#x20;
@@ -11,7 +25,7 @@ This guide is designed to walk you through the basics of managing Towns and Nati
 * `/plot menu`
 * `/towny menu`
 
-:homes: **Creating a Town:**
+### :homes: **Creating a Town:**
 
 * **Command:** `/town new [town-name]`
 * **Cost:** €250
@@ -24,7 +38,7 @@ This guide is designed to walk you through the basics of managing Towns and Nati
 
 :three: Run the command.&#x20;
 
-:homes: **Expanding a Town:**
+#### :homes: **Expanding a Town:**
 
 * **Command:** `/town claim`
 * **Cost:** €5 per plot
@@ -47,14 +61,14 @@ This guide is designed to walk you through the basics of managing Towns and Nati
 :two: Make sure your town have enough money.\
 :three: Run the command.&#x20;
 
-:handshake: **Joining/leaving a Town/Nation:**
+### :handshake: **Joining/leaving a Town/Nation:**
 
 * **Join a town:** `/town join [town-name]`
 * **Join a nation:** `/nation join [nation-name`
 * **Leave a town:** `/town leave`
 * **Leave a nation:** `/nation leave`
 
-**💬 Channels & Toggles:**
+### **💬 Channels & Toggles:**
 
 * **Global Chat Message:** Type `![message]`
 * **Global Chat Toggle On:** Type `/g`
@@ -63,7 +77,7 @@ This guide is designed to walk you through the basics of managing Towns and Nati
 * **Nation Chat Message:** Type `/nc [message]`
 * **Nation Chat Toggle ON:** Type `/nc`
 
-**💰 Money Info:**
+#### **💰 Money Info:**
 
 * **Start Money:** €60
 * **Send money:** Type `/pay [name]`

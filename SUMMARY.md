@@ -5,7 +5,7 @@
 ## 🥳 New Players
 
 * [Welcome page](new-players/welcome-page.md)
-* [How to join a town](new-players/how-to-join-a-town.md)
+* [🏘 Towny Guide](new-players/towny-guide.md)
 * [Common rules](new-players/server-rules.md)
 
 ## 🏘 The World
@@ -22,11 +22,7 @@
 * [Towns](towny/towns/README.md)
   * [🇫🇮 Finland Region](towny/towns/finland-region/README.md)
     * [🗼 Outposts](the-world/towns/finland-region/outposts.md)
-    * [☑ Aquavale](towny/towns/finland-region/aquavale/README.md)
-      * [Aquaria Residents](towny/towns/finland-region/aquavale/aquaria-residents/README.md)
-        * [👤 Redapo15](towny/towns/finland-region/aquavale/aquaria-residents/redapo15.md)
-        * [👤 Jipes](towny/towns/finland-region/aquavale/aquaria-residents/jipes.md)
-        * [👤 Frogzforlaifu](towny/towns/finland-region/aquavale/aquaria-residents/frogzforlaifu.md)
+    * [☑ Aquavale](the-world/towns/finland-region/aquavale.md)
     * [☑ Garvia](towny/towns/finland-region/garvia/README.md)
       * [Church of Garvia](towny/towns/finland-region/garvia/church-of-garvia.md)
       * [👥 Garvian Residents](towny/towns/finland-region/garvia/garvian-residents/README.md)
@@ -121,7 +117,6 @@
   * [Town Arenas - PVP](the-world/town-administration/town-arenas-pvp.md)
   * [Prisons](the-world/town-administration/prisons.md)
   * [Page 7](the-world/town-administration/page-7.md)
-  * [🏘 Towny Guide](the-world/town-administration/towny-guide.md)
 
 ## 💻 Additional Guides & Commands
 
