@@ -5,10 +5,10 @@
 ## 🥳 New Players
 
 * [Welcome page](new-players/welcome-page.md)
-* [🏘 Towny Guide](new-players/towny-guide.md)
+* [🏘 Towny Guide](the-world/town-administration/towny-guide.md)
 * [Common rules](new-players/server-rules.md)
 
-## 🏘 The World
+## 🌍 The World
 
 * [Nations](towny/nations/README.md)
   * [Present Nations](towny/nations/present-nations/README.md)
@@ -22,7 +22,7 @@
 * [Towns](towny/towns/README.md)
   * [🇫🇮 Finland Region](towny/towns/finland-region/README.md)
     * [🗼 Outposts](the-world/towns/finland-region/outposts.md)
-    * [☑ Aquavale](the-world/towns/finland-region/aquavale.md)
+    * [☑ Aquavale](towny/towns/finland-region/aquavale/README.md)
     * [☑ Garvia](towny/towns/finland-region/garvia/README.md)
       * [Church of Garvia](towny/towns/finland-region/garvia/church-of-garvia.md)
       * [👥 Garvian Residents](towny/towns/finland-region/garvia/garvian-residents/README.md)

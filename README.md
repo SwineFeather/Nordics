@@ -50,7 +50,7 @@ shntshntshnt
 
 ### Important information:
 
-* [Towny Guide](new-players/towny-guide.md)
+* [Towny Guide](the-world/town-administration/towny-guide.md)
 * [Server rules](new-players/server-rules.md)
 * How to make money
 
