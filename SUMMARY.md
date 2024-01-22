@@ -203,7 +203,7 @@
   * [Cheating and Technical Issues](rules-and-penalties/practice/cheating-and-technical-issues.md)
   * [Behaviors](rules-and-penalties/practice/behaviors.md)
   * [Communication](rules-and-penalties/practice/communication.md)
-  * [Buildings](rules-and-penalties/practice/buildings.md)
+  * [4. Buildings](rules-and-penalties/practice/buildings.md)
   * [Griefing & Vandalism](rules-and-penalties/practice/griefing-and-vandalism.md)
   * [Compensation in case of death](rules-and-penalties/practice/compensation-in-case-of-death.md)
   * [Lending of money and items](rules-and-penalties/practice/lending-of-money-and-items.md)
