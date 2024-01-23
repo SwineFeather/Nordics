@@ -192,7 +192,7 @@
 * [Other commands](additional-guides-and-commands/other-commands.md)
 * [Patchnotes](additional-guides-and-commands/changelog-updates/README.md)
   * [Overview](additional-guides-and-commands/changelog-updates/overview.md)
-* [How to become a collaborator for wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-wiki.md)
+* [How to become a collaborator for Nordics wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-nordics-wiki.md)
 
 ## ⁉ Rules and penalties
 
