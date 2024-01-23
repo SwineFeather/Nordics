@@ -1,6 +1,6 @@
 # Suspended indefinitely
 
-In addition to being banned from Kottcraft due to rule violations, it is also possible to be suspended. There are some differences between being banned and being suspended, the most important of which are as follows:
+In addition to being banned from Nordics due to rule violations, it is also possible to be suspended. There are some differences between being banned and being suspended, the most important of which are as follows:
 
 * Bans always have an expiration date, while suspensions are in effect until they are manually removed.&#x20;
 * A suspension is rarely based on violating any of Nordics rules.
