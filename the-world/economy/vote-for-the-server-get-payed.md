@@ -1,16 +1,14 @@
 # Vote for the server - get payed
 
-If you want to help Kottcraft, you are welcome to go to planetminecraft.come/nordics and vote for the server. By doing so, you contribute to making Kottcraft grow, as the server will rank higher in the server list on planetminecraft
+If you want to help Nordics, you are welcome to go to planetminecraft.com/nordics and vote for the server. By doing so, you contribute to making Nordics grow, as the server will rank higher in the server list on planetminecraft
 
-You can vote once a day for the server. For each vote you cast, you will receive 1,000 money as a thank you, or 2,000 if you are a VIP member. This means that you can get approximately 30,000 minemynts every month (60,000 if you are a VIP), just by voting for the server!
+You can vote once a day for the server. For each vote you cast, you will receive 25 euro as a thank you, or 40 if you are a patreon member. This means that you can get approximately 30,000 euro every month (60,000 if you are a patron), just by voting for the server!
 
-&#x20;                                                                            <mark style="color:blue;">Vote for Kottcraft</mark>
+&#x20;                                                                            <mark style="color:blue;">Vote for Nordics</mark>
 
 #### If it doesn't work,
 
-&#x20;Unfortunately, you can only vote once a day from the same IP address. If multiple people are playing on Kottcraft from the same home (e.g. siblings or parents), it can be a problem if everyone tries to vote for the server, because then several people may have the same IP address.
-
-Since Kottcraft does not manage Minecraft-MP, we unfortunately cannot influence how their system works. It is not entirely easy to get around, but one possible solution if you have mobile broadband (3G, 4G, etc.) is to vote via your mobile device, using your mobile broadband. The mobile broadband typically has a different IP address than your home network.
+&#x20;Unfortunately, you can only vote once a day from the same IP.
 
 #### Delayed reward distribution&#x20;
 
