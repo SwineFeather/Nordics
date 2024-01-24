@@ -44,13 +44,15 @@ description: List of all involved in server development
 
 Wiki scribers,&#x20;
 
+**Kevork:** Management, patches: 1, 1.1, 1.2&#x20;
+
 **CosmicWaffles: M**ap creator
 
 **VPswede:** Admin and backend
 
 **Svardmastaren:** Developer, patches: Oct24, Oct 23, Oct 21&#x20;
 
-**MigningSM**: Spawn builder
+**MigningSM**: Spawn builder&#x20;
 
 ***
 
