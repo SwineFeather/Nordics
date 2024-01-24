@@ -6,23 +6,21 @@ description: List of all involved in server development
 
 ### <mark style="color:blue;">Staff</mark>
 
-#### &#x20;                                                                                   Management
+#### &#x20;                                                                                    Management
 
 <div align="center" data-full-width="true">
-
-<figure><img src="../../../.gitbook/assets/KevorkDK (1).png" alt=""><figcaption><p><a href="server-developers/kevork.md">KevorkDK</a></p></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p><a href="swinefeather.md">SwineFeather</a></p></figcaption></figure>
 
 </div>
 
-#### &#x20;                                                                                 Administrators
+#### &#x20;                                                                                   Administrators
 
-#### &#x20;                                                                                    Moderators
+<figure><img src="../../../.gitbook/assets/KevorkDK (1).png" alt=""><figcaption><p><a href="server-developers/kevork.md">KevorkDK</a></p></figcaption></figure>
 
-#### &#x20;                                                                              Chat Moderators
+#### &#x20;                                                                                     Moderators
+
+#### &#x20;                                                                                Chat Moderators
 
 ***
 
@@ -59,13 +57,13 @@ Wiki scribers,&#x20;
 ### Supporters
 
 **Golden Kala**<img src="../../../.gitbook/assets/GoldenKala (1).png" alt="" data-size="line">\
-Occypolojee, communistraika, SwineFeather, TheCanadian
+[Occypolojee](../../../towny/towns/baltics-region/superalko/superalko-residents/occypolojee.md),communistraika, [SwineFeather](swinefeather.md), TheCanadian
 
 **Fancy Kala**<img src="../../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
-CosmicWaffles
+[CosmicWaffles](../../../towny/towns/finland-region/garvia/garvian-residents/cosmicwaffles.md), Jakeybobble
 
 **Kala** <img src="../../../.gitbook/assets/Kala.png" alt="" data-size="line">\
-EiraHS, Cobwebblox
+EiraHS, Cobwebblox, _Neighbor kid, Milkyway_
 
 
 
