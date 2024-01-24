@@ -96,7 +96,7 @@
     * [Nationtax](the-world/economy/taxes/nationtax.md)
     * [If tax cannot be payed](the-world/economy/taxes/if-tax-cannot-be-payed.md)
   * [💰 Make money](the-world/economy/make-money.md)
-* [🗺 Maps](the-world/maps/README.md)
+* [Maps](the-world/maps/README.md)
   * [Regions](the-world/maps/regions/README.md)
     * [Sweden](the-world/maps/regions/sweden.md)
     * [Denmark](the-world/maps/regions/denmark.md)
@@ -120,6 +120,7 @@
 
 ## 💻 Additional Guides & Commands
 
+* [✏ How to become a collaborator for Nordics wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-nordics-wiki.md)
 * [Others](additional-guides-and-commands/others/README.md)
   * [Stats](additional-guides-and-commands/others/stats.md)
   * [Server dates)](additional-guides-and-commands/others/server-dates/README.md)
@@ -186,7 +187,6 @@
 * [Other commands](additional-guides-and-commands/other-commands.md)
 * [Patchnotes](additional-guides-and-commands/changelog-updates/README.md)
   * [Overview](additional-guides-and-commands/changelog-updates/overview.md)
-* [How to become a collaborator for Nordics wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-nordics-wiki.md)
 
 ## ⁉ Rules and penalties
 
