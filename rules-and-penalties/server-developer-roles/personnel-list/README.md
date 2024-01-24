@@ -56,15 +56,23 @@ _Wiki scribers_: SwineFeather,&#x20;
 
 #### _<mark style="color:red;">First server contributors</mark>_
 
-**GoldFire:** Staff member
+**GoldFire:** Admin
 
-**Kevork**: Staff member
+**Raxiam:** Management
+
+**Kevork**: Management
+
+**Svardmastaren**: Staff member
 
 **Redapo**: Event holder (Kalasseum) & Helper
 
 **Jacob**: Developer
 
-: Builder
+_DefineAs_
+
+_Brynte:_
+
+**Vekezu**: Builder
 
 : Builder
 
