@@ -191,7 +191,7 @@
 ## ⁉ Rules and penalties
 
 * [Server staff roles](server-guides/server-developer-roles/README.md)
-  * [The Nordics Staff & helpers](rules-and-penalties/server-developer-roles/personnel-list/README.md)
+  * [🌟 The Nordics Staff & helpers](rules-and-penalties/server-developer-roles/personnel-list/README.md)
     * [SwineFeather](rules-and-penalties/server-developer-roles/personnel-list/swinefeather.md)
     * [Prior helpers](rules-and-penalties/server-developer-roles/personnel-list/server-developers/README.md)
       * [MigningSM](rules-and-penalties/server-developer-roles/personnel-list/server-developers/migningsm.md)

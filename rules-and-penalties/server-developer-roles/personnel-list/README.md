@@ -2,7 +2,7 @@
 description: List of all involved in server development
 ---
 
-# The Nordics Staff & helpers
+# 🌟 The Nordics Staff & helpers
 
 ### <mark style="color:blue;">Staff</mark>
 
@@ -38,11 +38,9 @@ description: List of all involved in server development
 
 ***
 
-### Community Helpers
+### <mark style="color:orange;">Notable Contributors</mark>
 
-#### <mark style="color:orange;">Notable Contributors</mark>
-
-Wiki scribers: SwineFeather,&#x20;
+_Wiki scribers_: SwineFeather,&#x20;
 
 **Kevork:** _Management_, patches: 1, 1.1, 1.2&#x20;
 
@@ -53,6 +51,28 @@ Wiki scribers: SwineFeather,&#x20;
 **Svardmastaren:** _Developer_, patches: Oct24, Oct 23, Oct 21&#x20;
 
 **MigningSM**: _Spawn builder_&#x20;
+
+
+
+#### _<mark style="color:red;">First server contributors</mark>_
+
+**GoldFire:** Staff member
+
+**Kevork**: Staff member
+
+**Redapo**: Event holder (Kalasseum) & Helper
+
+**Jacob**: Developer
+
+: Builder
+
+: Builder
+
+: Builder
+
+{% hint style="info" %}
+_Some contributors are missing due to lack of information_
+{% endhint %}
 
 ***
 
