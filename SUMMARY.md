@@ -93,7 +93,7 @@
   * [Sign Shops](the-world/economy/sign-shops.md)
   * [Taxes](the-world/economy/taxes/README.md)
     * [Town Tax](the-world/economy/taxes/town-tax.md)
-    * [Nationtax](the-world/economy/taxes/nationtax.md)
+    * [Nation tax](the-world/economy/taxes/nationtax.md)
     * [If tax cannot be payed](the-world/economy/taxes/if-tax-cannot-be-payed.md)
   * [💰 Make money](the-world/economy/make-money.md)
 * [Maps](the-world/maps/README.md)
