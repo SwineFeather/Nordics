@@ -10,13 +10,13 @@ description: List of all involved in server development
 
 <div align="center" data-full-width="true">
 
-<figure><img src="../../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p><a href="swinefeather.md">SwineFeather</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p><a href="swinefeather.md">SwineFeather</a></p></figcaption></figure>
 
 </div>
 
 #### &#x20;                                                                                   Administrators
 
-<figure><img src="../../../.gitbook/assets/KevorkDK (1).png" alt=""><figcaption><p><a href="server-developers/kevork.md">KevorkDK</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KevorkDK (1).png" alt=""><figcaption><p><a href="server-developers/kevork.md">KevorkDK</a></p></figcaption></figure>
 
 #### &#x20;                                                                                     Moderators
 
@@ -28,7 +28,7 @@ description: List of all involved in server development
 
 #### &#x20;                                                                                          Builders
 
-<figure><img src="../../../.gitbook/assets/MigningSM.png" alt=""><figcaption><p><a href="server-developers/migningsm.md"><mark style="color:green;">MigningSM</mark></a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MigningSM.png" alt=""><figcaption><p><a href="server-developers/migningsm.md"><mark style="color:green;">MigningSM</mark></a></p></figcaption></figure>
 
 #### &#x20;                                                                                        Developer
 
@@ -74,6 +74,10 @@ _Brynte:_
 
 **Vekezu**: Builder
 
+42Alfred
+
+AugustusLego
+
 : Builder
 
 : Builder
@@ -88,13 +92,13 @@ _Some contributors are missing due to lack of information_
 
 Past and present supporters
 
-**Golden Kala**<img src="../../../.gitbook/assets/GoldenKala (1).png" alt="" data-size="line">\
-[Occypolojee](../../../towny/towns/baltics-region/superalko/superalko-residents/occypolojee.md),communistraika, [SwineFeather](swinefeather.md), TheCanadian/_David_
+**Golden Kala**<img src="../../.gitbook/assets/GoldenKala (1).png" alt="" data-size="line">\
+[Occypolojee](../../towny/towns/baltics-region/superalko/superalko-residents/occypolojee.md),communistraika, [SwineFeather](swinefeather.md), TheCanadian/_David_
 
-**Fancy Kala**<img src="../../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
-[CosmicWaffles](../../../towny/towns/finland-region/garvia/garvian-residents/cosmicwaffles.md), Jakeybobble
+**Fancy Kala**<img src="../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
+[CosmicWaffles](../../towny/towns/finland-region/garvia/garvian-residents/cosmicwaffles.md), Jakeybobble
 
-**Kala** <img src="../../../.gitbook/assets/Kala.png" alt="" data-size="line">\
+**Kala** <img src="../../.gitbook/assets/Kala.png" alt="" data-size="line">\
 EiraHS, Cobwebblox, _Neighbor kid, Milkyway_
 
 ***

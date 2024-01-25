@@ -23,7 +23,7 @@ layout:
 <figure><img src=".gitbook/assets/NU BannerFlags (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-This wiki is under constant construction. Please let [SwineFeather](rules-and-penalties/server-developer-roles/personnel-list/swinefeather.md) know if you find any wrong or missing information!
+This wiki is under constant construction. Please let [SwineFeather](rules-and-penalties/personnel-list/swinefeather.md) know if you find any wrong or missing information!
 {% endhint %}
 
 ### &#x20;<mark style="color:green;">Server  IP:</mark> `nordics.world:25612`
@@ -62,7 +62,7 @@ shntshntshnt
 
 ***
 
-We need information, lore, and pictures from [The 2022 Nordics server](additional-guides-and-commands/others/the-2022-nordics-server/).
+We need information, lore, and pictures from [The 2022 Nordics server](additional-guides-and-commands/the-2022-nordics-server/).
 
 * Submit to #SwineFeather in DM, or any nation Discord.
 
