@@ -1,7 +1,9 @@
 # Fishing database
 
 * `/sellfish` & `/sellfish all` Sell gui
-* `/lfish catalog`
+* `/lfish catalo`
+
+You can enable default fishing in the fishing catalog `/lfish catalog`
 
 
 
