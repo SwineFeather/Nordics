@@ -13,7 +13,7 @@ There are many ways to earn Euro, and often, only imagination (and the rules!) s
 * ~~Vote on the server - a quick way to get 20 Euros daily (30 if you are a Patron).~~ [Read more](vote-for-the-server-get-payed.md)
 * ~~Participate and win in competitions.~~
 * Fishing and selling the fish using `/sellfish all`
-* Selling Haybales with `/sell all` [Read more](make-money/)
+* Selling Haybales with `/sell all` [Read more](make-money.md)
 
 #### Things one must pay for&#x20;
 
