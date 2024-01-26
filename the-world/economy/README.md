@@ -1,2 +1,2 @@
-# 💰 Economy
+# 🪙 Economy
 

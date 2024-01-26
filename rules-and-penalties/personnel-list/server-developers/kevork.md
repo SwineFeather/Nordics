@@ -1,6 +1,0 @@
----
-description: Server Admin
----
-
-# Kevork
-
