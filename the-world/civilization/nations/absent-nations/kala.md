@@ -42,11 +42,69 @@ Kala eventually became the weakest nation on the server and a shadow of its form
 
 ### North Karelian War
 
+<div>
+
+<figure><img src="../../../../.gitbook/assets/nw1.png" alt="" width="215"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/nw2.png" alt="" width="217"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/nw3.png" alt="" width="218"><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/nw4.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/nw5.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/nw6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
 ### Siege of Alesia
 
 ### North Karelian Peace Treaty
 
 ### Northstar Treaty
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/n1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/n2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/n3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../../../.gitbook/assets/n4.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/n5.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/n6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Oulo Incident
 
