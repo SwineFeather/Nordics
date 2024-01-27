@@ -1,4 +1,4 @@
-# ☄ Patreon ranks & Cosmetics
+# Patreon ranks & Cosmetics
 
 * **Minecraft Patreon Benefits:**
   * Cosmetics-menu can be opened with `/uc menu`, anyone can purchase treasure-chests and gain the same cosmetics as supporters. If you are currently a Patreon supporter, and want to receive the benefits, reply to the latest Patreon post or DM @𝐒𝐰𝐢𝐧𝐞𝐅𝐞𝐚𝐭𝐡𝐞𝐫 through Discord with your in-game name; an automated system will be released in a future update.

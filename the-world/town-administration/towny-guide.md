@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🏘 Towny Guide
+# Towny Guide
 
 **Wondering how Towny works?**&#x20;
 
