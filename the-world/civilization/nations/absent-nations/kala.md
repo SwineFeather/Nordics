@@ -22,6 +22,8 @@ layout:
 
 <table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th></th><th data-card-cover data-type="files"></th><th data-hidden data-type="checkbox"></th><th data-hidden data-type="files"></th></tr></thead><tbody><tr><td></td><td>Leaders: <a href="../../towns/finland-region/aquaria/aquaria-residents/redapo15.md">Redapo15</a>, <a href="../../towns/finland-region/aquaria/aquaria-residents/jipes.md">Jipes</a></td><td>Capital: <a href="../../towns/finland-region/aquaria/">Aquaria</a></td><td>Previous Towns: <a href="../../towns/finland-region/garvia/">Garvia</a>, <a href="../../towns/finland-region/muurmanni.md">Muurmanni</a>, <a href="../../towns/finland-region/north-karelia.md">North Karelia</a>, <a href="../../towns/other-regions/aquashore.md">Aquashore</a>, <a href="../../towns/finland-region/blobbenheim.md">Blobbenheim</a>, </td><td></td><td>true</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/hakkapeliitat320x.png" alt="" data-size="original"></td><td>               Flag of Kala</td><td></td><td></td><td></td><td>false</td><td></td></tr><tr><td>Region: <a href="../../towns/finland-region/">Finland</a></td><td>Population at peak: 60</td><td>Founded: </td><td></td><td></td><td>false</td><td></td></tr></tbody></table>
 
+***
+
 
 
 ### History
@@ -37,6 +39,22 @@ Kala had three other towns: Muurmani, North Karelia, and Garvia. Muurmani was a 
 Kala's downfall began when it lost its builders and its players. Kala had focused too much on war and conquest and neglected its infrastructure and development. Its towns became dilapidated and deserted. Kala also suffered from internal strife and external threats. Its people became unhappy and unfulfilled, and its enemies became stronger and bolder. Kala's glory faded, and its power waned.
 
 Kala eventually became the weakest nation on the server and a shadow of its former self. It was abandoned by their players and reduced to a single town, Aquaria. It became an independent town and a relic of the past. It still bears the name of Kala, but it no longer claims to be an empire. It is a peaceful and friendly town but also a lonely and forgotten one. It is a town that once belonged to a nation that once ruled the Nordics Minecraft server but is now a ghost town.
+
+***
+
+### North Karelian War
+
+### Siege of Alesia
+
+### North Karelian Peace Treaty
+
+### Northstar Treaty
+
+### Oulo Incident
+
+
+
+
 
 
 
