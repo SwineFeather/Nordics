@@ -7,19 +7,19 @@ coverY: 0
 
 **Major Updates:** **New Features & income source:**
 
-* **Fishing System:** ![🎣](https://ptb.discord.com/assets/71e6146bb83147655005.svg)
+* **Fishing System:** 🎣
   * _New fishing features added! Enjoy a minigame while fishing and sell your catch._
   * Use `/sellfish` to sell your fish.
   * To access a **catalog** of all the fish species you have caught, type in `/lfish catalog`.
   * On average, each fish costs **€0.4** per kg, and their weight can vary from 0 to 5 kg.
-* **Bounties:**![🗡️](https://ptb.discord.com/assets/5ac411b465bd48ed8c86.svg)
+* **Bounties: ⚔**
   * _Feeling frustrated with unruly players? Take charge and set a bounty to uphold fairness._
   * `/bounty raise <player>` **sets a bounty** on a player. (_Only items_)
   * `/bounty list` Displays the list of active bounties.
   * `/bounty silentraise <player>` Raises the bounty for a player, hiding the benefactor's identity.
   * `/bounty reset <player>`removes a player's bounty.
 
-**Changes:** ![🗺️](https://ptb.discord.com/assets/01ed664095379d9ac097.svg)
+**Changes:**&#x20;
 
 * Repaired broken terrain in Sweden-region
 * Smoothed out steep lakes in Finland & Sweden-region
@@ -38,7 +38,7 @@ coverY: 0
 
 **Update**
 
-* **Cultivation** ![🌾](https://ptb.discord.com/assets/029e37598557e3ad93a2.svg)
+* **Cultivation** **🌾**
   * _You can now make money from harvesting wheat!_
   * Use the command `/sell all` to sell all **Hay Bales** in your inventory
     * One stack of Hay Bale will give `€5.76` _(Price may fluctuate)_
