@@ -1,14 +1,22 @@
 ---
-description: Province of Garvia
+description: Town
 ---
 
 # ☑ Garvia
 
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Founder:</strong> <a href="garvian-residents/aytte.md">Aytte</a></td><td><strong>Mayor:</strong> MineSkate1<br><br><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md"><strong>Constellation</strong></a><br><br><strong>Outposts:</strong> <a href="cometfall-crossroads.md">Cometfall Crossroads</a></td><td></td></tr><tr><td><img src="../../../../../.gitbook/assets/Garvia500 (1).png" alt="Flag of Garvia" data-size="original"></td><td></td><td></td></tr><tr><td><p><strong>Region:</strong> <a href="../">Finland</a></p><p><strong>Residents at peak:</strong> 11</p></td><td><strong>Founded:</strong> <a href="../../../../../additional-guides-and-commands/others/server-dates/september-23.md#sep-10">Sep 10 2023</a></td><td></td></tr></tbody></table>
+
+***
+
+<figure><img src="../../../../../.gitbook/assets/Garvia OverviewNov.png" alt=""><figcaption><p>Overview image November-23</p></figcaption></figure>
+
+***
+
+### History
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Founder:</strong> Aytte</td><td><strong>Mayor:</strong> MineSkate1<br><br><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md"><strong>Constellation</strong></a></td><td></td></tr><tr><td><img src="../../../../../.gitbook/assets/Garvia500 (1).png" alt="Flag of Garvia" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Residents at peak:</strong> 11</td><td><strong>Founded:</strong> Sep 10 2023</td><td></td></tr></tbody></table>
 
-### \[​Lore]
+### Lore
 
 This is the tale of a place where faith and industry intertwine. A place where the echoes of history still whisper through the streets and gardens. It is a testament to the indomitable spirit of those who found their way to this land, carving a vibrant tapestry of life upon its sacred soil.
 
