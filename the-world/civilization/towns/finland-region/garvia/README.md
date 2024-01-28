@@ -6,7 +6,7 @@ description: Province of Garvia
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Founder:</strong> Aytte</td><td><strong>Mayor:</strong> MineSkate1<br><br><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md"><strong>Constellation</strong></a></td><td></td></tr><tr><td><img src="../../../../../.gitbook/assets/Garvia500 (1).png" alt="Flag of Garvia" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Residents at peak:</strong> 10</td><td><strong>Founded:</strong> Sep 10 2023</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Founder:</strong> Aytte</td><td><strong>Mayor:</strong> MineSkate1<br><br><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md"><strong>Constellation</strong></a></td><td></td></tr><tr><td><img src="../../../../../.gitbook/assets/Garvia500 (1).png" alt="Flag of Garvia" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Residents at peak:</strong> 11</td><td><strong>Founded:</strong> Sep 10 2023</td><td></td></tr></tbody></table>
 
 ### \[​Lore]
 

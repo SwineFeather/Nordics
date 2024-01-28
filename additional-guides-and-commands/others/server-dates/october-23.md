@@ -2,4 +2,4 @@
 
 ### Oct 14th:
 
-Normannburg was created.
+[Normannburg ](../../../the-world/civilization/towns/finland-region/normannburg/)was created. After that [Province of Garvia](../../../the-world/civilization/towns/finland-region/province-of-garvia.md).
