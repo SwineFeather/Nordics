@@ -24,6 +24,7 @@
     * [🇫🇮 Finland Region](the-world/civilization/towns/finland-region/README.md)
       * [🗼 Outposts](the-world/civilization/towns/finland-region/outposts.md)
       * [☑ Aquavale](the-world/civilization/towns/finland-region/aquavale.md)
+      * [Province of Garvia](the-world/civilization/towns/finland-region/province-of-garvia.md)
       * [☑ Garvia](the-world/civilization/towns/finland-region/garvia/README.md)
         * [Church of Garvia](the-world/civilization/towns/finland-region/garvia/church-of-garvia.md)
         * [👥 Garvian Residents](the-world/civilization/towns/finland-region/garvia/garvian-residents/README.md)

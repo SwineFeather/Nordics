@@ -6,6 +6,8 @@ description: Province of Garvia
 
 
 
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Founder:</strong> Aytte</td><td><strong>Mayor:</strong> MineSkate1<br><br><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md"><strong>Constellation</strong></a></td><td></td></tr><tr><td><img src="../../../../../.gitbook/assets/Garvia500 (1).png" alt="Flag of Garvia" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Residents at peak:</strong> 10</td><td><strong>Founded:</strong> Sep 10 2023</td><td></td></tr></tbody></table>
+
 ### \[​Lore]
 
 This is the tale of a place where faith and industry intertwine. A place where the echoes of history still whisper through the streets and gardens. It is a testament to the indomitable spirit of those who found their way to this land, carving a vibrant tapestry of life upon its sacred soil.
