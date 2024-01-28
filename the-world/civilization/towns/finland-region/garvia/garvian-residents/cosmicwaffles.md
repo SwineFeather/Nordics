@@ -6,7 +6,7 @@ description: Cosmic the Pathfinder
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Nation: <a href="../../../../nations/present-nations/constellation.md">Constellation</a><br>Town: <a href="../../normannburg/">Normannburg</a></td><td>Alias: _Cosmic_Waffles</td><td></td></tr><tr><td><img src="../../../../../../.gitbook/assets/download (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Nation: <a href="../../../../nations/present-nations/constellation.md">Constellation</a><br>Town: <a href="../../normannburg.md">Normannburg</a></td><td>Alias: _Cosmic_Waffles</td><td></td></tr><tr><td><img src="../../../../../../.gitbook/assets/download (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 ### Early presence
 
