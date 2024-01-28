@@ -127,7 +127,7 @@
 * [Others](additional-guides-and-commands/others/README.md)
   * [Stats](additional-guides-and-commands/others/stats.md)
   * [Server dates)](additional-guides-and-commands/others/server-dates/README.md)
-    * [September-23](additional-guides-and-commands/others/server-dates/september-23.md)
+    * [September-23](additional-guides-and-commands/others/server-dates/september-23/README.md)
     * [October-23](additional-guides-and-commands/others/server-dates/october-23.md)
     * [November-23](additional-guides-and-commands/others/server-dates/november-23.md)
     * [December-23](additional-guides-and-commands/others/server-dates/december-23.md)
