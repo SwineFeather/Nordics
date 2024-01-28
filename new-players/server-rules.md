@@ -1,10 +1,4 @@
-# Common rules
-
-:books: **Frequently Asked Questions**&#x20;
-
-_What Are the Rules for the Nordics Minecraft Server?_ \
-\
-Disclaimer: The extent of penalties for rule violations will consider factors such as the duration of the offense and the benefits gained. Individuals who have not extensively contravened the rules or derived significant advantages from their actions may receive less severe penalties.
+# Simplified rules
 
 [Rules for Nordics](../server-guides/rules.md)
 

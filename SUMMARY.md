@@ -6,7 +6,7 @@
 
 * [Welcome page](new-players/welcome-page.md)
 * [Towny Guide](the-world/town-administration/towny-guide.md)
-* [Common rules](new-players/server-rules.md)
+* [Simplified rules](new-players/server-rules.md)
 
 ## 🌍 The World
 

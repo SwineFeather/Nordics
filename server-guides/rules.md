@@ -6,6 +6,8 @@ description: >-
 
 # Rules for Nordics
 
+Disclaimer: The extent of penalties for rule violations will consider factors such as the duration of the offense and the benefits gained. Individuals who have not extensively contravened the rules or derived significant advantages from their actions may receive less severe penalties.
+
 ### 1. **Cheating and Technical Issues**&#x20;
 
 **1.1 Use of Cheats:** Those who use any form of cheats, mods, or programs that provide unfair advantages in the game will be convicted of cheating. This includes, but is not limited to, resource and texture packs that conceal certain blocks, speed and flight cheats, as well as x-ray. Those caught using these will face severe penalties.
