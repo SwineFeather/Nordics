@@ -6,25 +6,25 @@ description: >-
 
 # Rules for Nordics
 
-Disclaimer: The extent of penalties for rule violations will consider factors such as the duration of the offense and the benefits gained. Individuals who have not extensively contravened the rules or derived significant advantages from their actions may receive less severe penalties.
+Disclaimer: The extent of penalties for rule violations will consider factors such as the duration of the offence and the benefits gained. Individuals who have not extensively contravened the rules or derived significant advantages from their actions may receive less severe penalties.
 
 ### 1. **Cheating and Technical Issues**&#x20;
 
-**1.1 Use of Cheats:** Those who use any form of cheats, mods, or programs that provide unfair advantages in the game will be convicted of cheating. This includes, but is not limited to, resource and texture packs that conceal certain blocks, speed and flight cheats, as well as x-ray. Those caught using these will face severe penalties.
+**1.1 Use of Cheats:** Those who use any form of cheats, mods, or programs that provide unfair advantages in the game will be convicted of cheating. This includes, but is not limited to, resource and texture packs that conceal certain blocks, speed and flight cheats, and x-ray. Those caught using these will face severe penalties.
 
-**1.1.1. Unauthorized Automation:** Those who use functions to automatically create mouse clicks, movements, keyboard presses, or any other form of automated behavior that may provide advantages will be convicted of unauthorized automation.
+**1.1.1. Unauthorized Automation:** Those who use functions to automatically create mouse clicks, movements, keyboard presses, or any other form of automated behaviour that may provide advantages will be convicted of unauthorized automation.
 
 **1.2 Assisting in Cheating:** Those who collaborate or trade with players where it is evident that the other player is breaking the prohibition in the previous section will be convicted of assisting in cheating.
 
-**1.3 Exploiting Technical Issues:** Those who exploit obvious technical issues for their own or another player's advantage will be convicted of exploiting technical issues. This also applies to those who are active through another player account during a ban or suspension.
+**1.3 Exploiting Technical Issues:** Those who exploit obvious technical issues for their own or another player's advantage will be convicted of exploiting technical issues. This also applies to those active through another player account during a ban or suspension.
 
-**1.4 Multi Accounting:** Players are only allowed to be logged in on a maximum of 1 account at a time. Those who are active on multiple accounts simultaneously will be convicted of multi accounting. Additionally, those who exploit multiple accounts to generate in-game currency on the server will be convicted of multi accounting. (Accepted if it's for "role-playing" purposes only)
+**1.4 Multi Accounting:** Players can only be logged in on a maximum of 1 account. Those who are active on multiple accounts simultaneously will be convicted of multi-accounting. Additionally, those who exploit multiple accounts to generate in-game currency on the server will be convicted of multi-accounting. (Accepted if it's for "role-playing" purposes only)
 
 ### 2. Behaviors
 
 &#x20;**2.1 Deception:** Those who intentionally deceive or otherwise knowingly or negligently deceive other players will be convicted of deception. This also applies to those who unlawfully attempt to mimic another player's or moderator's identity or other characteristics on the server.
 
-**2.2 Unlawful Killing:** Those who kill another player will be convicted of unlawful killing. This prohibition does not apply if the killing is in self-defense or if there is an agreement between the victim and the perpetrator that allows killing. (Bounties are available, but if they continue killing, as a way of bullying, it will be unlawful)
+**2.2 Unlawful Killing:** Those who kill another player will be convicted of unlawful killing. This prohibition does not apply if the killing is in self-defence or if there is an agreement between the victim and the perpetrator that allows killing. (Bounties are available, but if they continue killing as a way of bullying, it will be unlawful)
 
 **2.3 Theft:** Those who unlawfully take items owned by an active player or an active town will be convicted of theft.
 
@@ -54,7 +54,7 @@ Disclaimer: The extent of penalties for rule violations will consider factors su
 
 **4.2 Unauthorized engineering work:** Anyone who constructs or uses farms where nether wart is automatically planted or harvested is judged for unauthorized engineering work. Unauthorized engineering work also applies to those who build redstone circuits, elytra cannons, or other constructions that noticeably negatively affect the server's performance. This rule also includes turtle farms. For more information, [click here.](../rules-and-penalties/practice/buildings.md#id-4.2-unlawful-engineering-work)
 
-**4.3 Unauthorized construction:** Anyone who intentionally constructs a trap, an arena, or other structure with the purpose of harming or killing players is judged for unauthorized construction. The prohibition does not apply if the traps, arenas, or the construction in question and its risks are clearly marked. Those who construct something that meets the criteria for "3.1 inappropriate language use" or "3.2 provocation" are judged for either unauthorized construction, inappropriate language use, or provocation.
+**to harm or kill4.3 Unauthorized construction:** Anyone who intentionally constructs a trap, an arena, or other structure with the purpose of harming or killing players is judged for unauthorized construction. The prohibition does not apply if the traps, arenas, or the construction in question and its risks are clearly marked. Those who construct something that meets the criteria for "3.1 inappropriate language use" or "3.2 provocation" are judged for either unauthorized construction, inappropriate language use, or provocation.
 
 **4.4 Unauthorized financial activities:** Anyone who organizes lotteries, casino games, or other types of games where a fee needs to be paid to participate is judged for unauthorized financial activities. Also, players who engage in activities that collect nominal interest on loaned euros or items are judged for unauthorized financial activities. _Permission can be given from moderators. For more information, click here._
 

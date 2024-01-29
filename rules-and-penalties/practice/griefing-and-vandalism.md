@@ -11,7 +11,7 @@
 * The items are returned to the owner either as items or money.
 * The offender may need to pay damages to the victim.
 
-Vandalism in nature Rule 4.1 also applies in nature. It is prohibited to destroy or take anything you have not built or own. This is classified as vandalism ("griefing"), which leads to a ban depending on the value of the items.
+Vandalism in nature Rule 4.1 also applies in nature. Destroying or taking anything you have not built or own is prohibited. This is classified as vandalism ("griefing"), which leads to a ban depending on the value of the items.
 
 Note: If you build in nature, the state is not obligated to return your materials. The player who did the vandalism will be banned and punished, but no items will be returned to the victim. You choose whether you want to build on town land and be under the protection of the nation (then you are somewhat sure to receive compensation in case of vandalism or theft) or in nature, where players can destroy your builds without compensation in case of vandalism.
 

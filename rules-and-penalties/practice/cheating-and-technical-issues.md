@@ -8,8 +8,8 @@ The rules state that anyone who uses any form of cheating, add-ons, or programs 
 
 List of allowed modifications and their guidelines:
 
-* **Client mods:** Players are prohibited from using client mods known to cause server crashes or instability. Any client mods that have the potential to disrupt the server/player performance or cause crashes are strictly forbidden. Any concerns about specific mods should be brought to the attention of the server administrators for evaluation and approval before use.F
-* Freecam mods are only allowed in matters of building, in terms of war, events and conflicts is not allowed. In terms of media and videos, you will need permission from moderators.
+* **Client mods:** Players are prohibited from using client mods known to cause server crashes or instability. Any client mods that have the potential to disrupt the server/player performance or cause crashes are strictly forbidden. Any concerns about specific mods should be brought to the attention of the server administrators for evaluation and approval before use.
+* Freecam mods are only allowed in matters of building; in terms of war, events and conflicts are not allowed. Also allowed in terms of media and videos
 
 Performance-enhancing
 
@@ -52,8 +52,8 @@ If you have a modification you want to use that is not on the list, ask first if
 List of bugs that are allowed to be used. These bugs are allowed to be used because it is too difficult to control who is using them or because they do not noticeably negatively impact the server.
 
 * Block bug, placing blocks in a place where you cannot place blocks, and thus being able to jump on them in the air.
-* Water bucket bug, placing water with a bucket where1 you should not be able to, and thus being able to stand in non-existent water.
-* Nether ceiling, it is not forbidden to get up on the ceiling (above level 128), but you die instantly because the area is declared as void.
+* Water bucket bug, placing water with a bucket where you should not be able to, and thus being able to stand in non-existent water.
+* Nether ceiling, it is not forbidden to get up on the ceiling (above level 128), but you die instantly because the area is declared void.
 
 1.4 **Multi-accounting**
 

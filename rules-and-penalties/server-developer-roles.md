@@ -48,16 +48,14 @@ Administrators are moderators with greater responsibility and rights to ensure t
 * Responsibility for all common events.
 * Each administrator normally has a specific area of responsibility to manage and administer.
 * Support for mayors who need help with land and/or want to build advanced things or special buildings with functions that help or positively impact the server.
-* Support for Management in changing parts of the world.
+* Support for Management-team in changing parts of the world.
 * Voting for new moderators and chat moderators.&#x20;
 * High proficiency in building techniques, design, and creativity.
 * Generally, have a good understanding of Minecraft blocks and building techniques, including redstone and logical functions.
 * Writing and contributing information to the Wiki.
 * Have the right to use and assign temporary permissions to players as needed to solve certain tasks.
 
-Administrators can be regular players. However_, alternative accounts are suggested_. They can have cities and engage in trade, but not with the help of rights that come with their rank. All gaming MUST be conducted under the same conditions as regular players. They can help regular players with various construction or demolition, but only in survival mode. Administrators may not use state resources to build houses for players or repair players' tools.
-
-In addition to being able to function as a moderator, there are extra high demands for creativity, knowledge of blocks, redstone, Worldedit, and a good eye for design and function.
+Administrators can be regular players. However_, alternative accounts are suggested_. They can have cities and engage in trade, but not with the help of rights that come with their rank. All gaming MUST be conducted under the same conditions as regular players. They can help regular players with various construction or demolition, but only in survival mode.
 
 #### **Management - **<mark style="color:blue;">**\[**</mark><mark style="color:purple;">**A**</mark><mark style="color:blue;">**]**</mark>
 
@@ -81,11 +79,11 @@ There are high demands for responsibility, judgment, adaptability, understanding
 
 ### **With Great Power Comes Great Responsibility**&#x20;
 
-Personal members have greater responsibility and higher expectations for their behavior and conduct. The punishment for a staff member who knowingly and severely abuses their rights can be much harsher than for a player. If a staff member is found to be abusing their rights and/or trust, the responsible administrator judges the case and determines any penalties. Those on the staff have been entrusted to be staff members and mustn't abuse that trust.
+Personnel members have greater responsibility and higher expectations for their behaviour and conduct. The punishment for a staff member who knowingly and severely abuses their rights can be much harsher than for a player. If a staff member is found to be abusing their rights and/or trust, the responsible administrator judges the case and determines any penalties. Those on the staff have been entrusted to be staff members and mustn't abuse that trust.
 
 #### **Voluntary Work**
 
-It is important to understand that all of the staff are regular people. They are often young individuals with different strengths and weaknesses but share a common interest. And they are all here voluntarily. The work on the server takes place in the same free time as you play, and there is no form of financial or material compensation. The "compensation" instead comes in the form of experiences and lessons in many areas: Minecraft, people, organization, ethics and morals, leadership, problem-solving, and what it means sometimes to be vulnerable. These are lessons that can be useful in real life.
+It is important to understand that all of the staff are regular people. They are often young individuals with different strengths and weaknesses but share a common interest. And they are all here voluntarily. The work on the server takes place in the same free time as you play, and there is no form of financial or material compensation. The "compensation" instead comes in the form of experiences and lessons in many areas: Minecraft, people, organization, ethics and morals, leadership, problem-solving, coding, software learning, and what it means sometimes to be vulnerable. These are lessons that can be useful in real life.
 
 Since this is voluntary, placing excessive demands on the time a staff member must dedicate to the server is difficult. Different staff members are skilled or experienced in different areas. Some staff members have less time, while others have more. Therefore, it is necessary to respect that fewer staff members are logged in at certain times or periods, and sometimes there may be more. Ensuring that there are often enough staff members logged in is something that the management continuously works on.
 
@@ -97,8 +95,8 @@ Staff members also have permission to make mistakes to a certain extent. One lea
 
 One can become a part of the Nordics staff by applying when there is an open application form or by contacting anyone in the moderation team.
 
-A staff member should be driven by a desire to contribute to creating a good gaming environment that works for as many people as possible and to create order and structure. A staff member must also enjoy personal growth, even in areas that they find challenging. One is often new and inexperienced at the beginning, but over time can grow and learn many things, and it is during this journey that one also grows and gains experience.
+A staff member should be driven to create a good gaming environment that works for as many people as possible and creates order and structure. A staff member must also enjoy personal growth, even in areas that they find challenging. One is often new and inexperienced at the beginning, but over time can grow and learn many things, and it is during this journey that one also grows and gains experience.
 
-As a staff member, one is also very vulnerable and easily accused of making mistakes or wrong decisions. This must be managed, and one must understand that meeting all players' needs or desires is impossible. Therefore, the selection process for staff is quite difficult.
+Staff members are also very vulnerable and easily accused of making mistakes or wrong decisions. This must be managed, and one must understand that meeting all players' needs or desires is impossible. Therefore, the selection process for staff is quite difficult.
 
-**One cannot nag their way to a rank on Nordics.** If one does, they have not understood the reason why we have selections and how an organization is built through the selection of the best-suited individuals.
+**One cannot nag their way to a rank on Nordics.** If one does, they have not understood why we have selections and how an organization is built by selecting the best-suited individuals.

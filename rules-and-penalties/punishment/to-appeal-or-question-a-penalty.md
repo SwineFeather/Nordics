@@ -2,7 +2,7 @@
 
 Even though the moderators do their best to make balanced assessments when it comes to imposing penalties, there are occasions when mistakes occur. For this reason, a penalized player has the right to appeal or question their penalty once. This can be done if the player believes they have been wrongly convicted or if they feel they have been penalized too harshly.
 
-Appeals are only handled if they are sent to the support team on the website and are usually handled by the moderator who issued the penalty. When appealing a penalty, it is important to:
+Appeals are only handled if sent to the support team and are usually handled by the moderator who issued the penalty. When appealing a penalty, it is important to:
 
 * Tell the truth
 * Explain what you think is wrong with the penalty
