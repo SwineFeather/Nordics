@@ -22,7 +22,10 @@ description: Abandoned town
 
 ### Founding of Aquaria
 
+The town of Aquaria on the Nordics Minecraft server boasts a rich history rooted in the collaborative efforts of its founders, Jipes, Redapo, and the Kala Community. Their shared vision and dedication laid the foundation for the town's inception, with the support of generous donations from the community, contributing to the creation of the town and the nation.
 
+In the lead-up to the server launch, a meticulous process unfolded as the community embarked on the task of determining the optimal location for Aquaria. Utilizing modern tools such as Google Maps, individuals engaged in a collective endeavour to pinpoint the perfect setting within the Finnish landscape.\
+Following the server's launch, players encountered formidable challenges in their quest to reach the designated location amidst the dense, hazardous Finnish forests that were rife with hostile mobs. Despite these obstacles, the community's indomitable spirit prevailed, ultimately leading to the establishment and flourishing of Aquaria.
 
 ### Initial Growth
 
