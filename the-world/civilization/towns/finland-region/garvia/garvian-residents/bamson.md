@@ -30,3 +30,5 @@ Bamson also played a significant role in constructing the [Church of Garvia](../
 In addition to these structures, Bamson built a market where players could exchange goods and services. He was especially proud of his train station, a brick and sandstone building that connected Garvia with Northstar, a nearby town. He also designed lighthouses along the coast to guide and protect the ships that sailed to and from Garvia.\
 \
 Bamson made a significant contribution to the development of Garvia. He worked hard to create a friendly, safe, and thriving community for players to enjoy.
+
+(Edit)

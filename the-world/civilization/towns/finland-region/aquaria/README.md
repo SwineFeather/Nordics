@@ -22,22 +22,20 @@ description: Abandoned town
 
 ### Founding of Aquaria
 
-The town of Aquaria boasts a rich history rooted in the collaborative efforts of its founders, Jipes, Redapo, and the Kala Community. Their shared vision and dedication laid the foundation for the town's inception, with the support of generous donations from the community, contributing to the creation of the town and the nation.
+Aquaria is a town with a rich history that was founded by Jipes, Redapo, and the Kala Community. They worked together and received donations from the community to make it a reality. Before the server's launch, the community used tools like Google Maps to find the perfect location in Finland. Once the server was launched, players had to overcome challenges like dense forests and hostile mobs to reach the designated spot. But the community's spirit was unbroken, and they established and grew Aquaria.
 
-In the lead-up to the server launch, a meticulous process unfolded as the community determined the optimal location for Aquaria. Utilizing modern tools such as Google Maps, individuals collectively endeavoured to pinpoint the perfect setting within the Finnish landscape.\
-Following the server's launch, players encountered formidable challenges to reach the designated location amidst the dense, hazardous Finnish forests rife with hostile mobs. Despite these obstacles, the community's indomitable spirit prevailed, ultimately leading to the establishment and flourishing of Aquaria.
+
 
 ### Initial Growth
 
-Aquaria's initial growth is a testament to the community's ingenuity and collaborative spirit. As the server launched, each member was tasked with choosing an occupation, ranging from farming, mining, forestry, and more. It was evident from the start that farming would become a crucial element in combating hunger amidst the harsh terrain. The members worked tirelessly to create farms and fishing spots, marking significant milestones in addressing the sustenance needs of the burgeoning town.
-
-The community's efforts to enhance the fishing experience were particularly noteworthy. They excavated riverbanks, enabling access to better loot through fishing. This provided a source of food and became an essential part of the town's economy, as members could trade fish for other resources. Meanwhile, the industrious miners, led by Adamski, played a vital role in driving the town's prosperity. Adamski made a name for himself as the leading diamond gatherer on the server, providing much-needed resources for the community.
-
-As Aquaria grew, the need for a central hub for planning and meetings became apparent. The community's dedicated builders rose to the challenge and constructed the town hall, which became the focal point for the expansion plans of the Kala Nation. The skilled contributions of builder Serp were particularly noteworthy, elevating the aesthetic appeal of Aquaria and establishing it as one of the most visually captivating towns on the server.
-
-The pioneering members of Aquaria, driven by a collaborative spirit, sought to foster further growth by forging connections with neighbouring towns such as Muurmani and North Karelia. They blazed new paths, expanding Aquaria's reach within the server community and establishing it as a vital regional player.\
+Aquaria's early growth showcases the collaborative spirit and resourcefulness of its community. Each member chose a profession, such as farming, mining, forestry, etc., and farming quickly became a key element in addressing 0hunger in a challenging environment. The community worked tirelessly to establish farms and fishing spots, achieving significant milestones in meeting the town's sustenance needs.\
 \
-The remarkable initial growth of Aquaria was marked by diverse occupations and individual contributions, laying the foundation for a prosperous community that would continue to thrive in the Nordics world.
+The community's efforts to improve fishing were especially impressive. They dug up riverbanks to access better loot, making fishing a source of food and a critical part of the town's economy. Members could trade fish for other resources. Meanwhile, the hardworking miners, led by Adamski, played a crucial role in driving the town's prosperity. Adamski became the top diamond gatherer on the server, providing much-needed resources for the community.\
+\
+As Aquaria grew, the need for a central hub for planning and meetings became apparent. The community's skilled builders rose to the challenge and constructed the town hall, which became the focal point for the expansion plans of the Kala Nation. Builder Serp's contributions were particularly noteworthy, elevating the town's aesthetic appeal and making it one of the most visually stunning towns on the server.\
+\
+Inspired by a collaborative spirit, the pioneering members of Aquaria sought to promote further growth by establishing connections with neighboring towns such as Muurmani and North Karelia. They blazed new trails, expanding Aquaria's reach within the server community and establishing it as a crucial regional player. Aquaria's impressive early growth was marked by diverse occupations and individual contributions, laying the groundwork for a prosperous community that would continue to thrive in the Nordics world.\
+(Edit)
 
 
 
@@ -45,13 +43,12 @@ The remarkable initial growth of Aquaria was marked by diverse occupations and i
 
 #### Mending hunt
 
-The Mending Hunt in Aquaria was a thrilling pursuit that captivated the entire community. Given the Kala people's deep-rooted fishing tradition, it was only natural for fishing to become a prominent activity on the server. As the Kala nation had a strong military focus, acquiring valuable loot from the sea was crucial for the players; with Mending books being exceedingly rare and highly sought after, the race to obtain them became an intense competition.&#x20;
-
-The scarcity of Mending books on the new server meant that they held significant value, prompting nearly every resident of Aquaria to take up fishing in hopes of securing this prized possession. The eagerness for Mending books was so intense that players even built houses along the river to optimize their fishing opportunities. Ultimately, the hunt to be the first to obtain a Mending book and fully outfit oneself with Mending-enchanted gear became a spirited race that consumed the inhabitants of Aquaria.
-
-In the early days of Aquaria, the Mending Book Hunt became a shared experience, uniting players in their common pursuit. It wasn't just about enchantments; it was a communal endeavor that defined the server's early dynamics.
-
-
+In Aquaria, the pursuit of the Mending Hunt was a thrilling activity that caught everyone's attention. Fishing became a significant pastime because the Kala people had a strong fishing tradition, and getting valuable loot from the sea was essential for players. The race to obtain the rare and highly sought-after Mending books became a fierce competition, and everyone wanted to be the first to get one.\
+\
+Mending books were so scarce that they had significant value, and everyone in Aquaria took up fishing to try and secure one. Players even built houses along the river to get the best fishing spots. The competition to fully outfit oneself with Mending-enchanted gear became a spirited race that consumed the inhabitants of Aquaria.\
+\
+In the early days of Aquaria, the Mending Book Hunt became a shared experience that brought players together. It was more than just enchantments; it was a communal effort that defined the server's early dynamics.\
+(Edit text)
 
 ### Construction and Landmarks
 
