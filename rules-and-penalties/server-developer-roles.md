@@ -8,19 +8,19 @@ For social channels, game servers, and internet forums to function well, a group
 
 There are five levels of staff roles to distinguish staff members who have different areas of responsibility. The higher the rank, the greater the responsibility:
 
-#### Chat Moderator - <mark style="color:blue;">**\[C]**</mark>
+#### Helper - <mark style="color:blue;">**\[H]**</mark>
 
-A chat moderator supports new players and maintains order in the game's chat channel.
+An Helper supports new players and maintains order in the game's chat channel.
 
 * Duties include warning and banning players who misbehave in the chat channel.
 * Their responsibility is limited to the global chat channel, not within towns or nations.
 * They should be able to assist players in answering questions about how the server functions.
-* Chat moderators generally do not handle rule violations.&#x20;
+* Helpers generally do not handle rule violations.&#x20;
 * They should also act as moderators to assist in events, conflict resolution, and rule infractions.
 
-Chat moderators usually do not handle rule violations outside the global chat. Still, they can occasionally intervene in serious rule infractions that harm the server or players if no moderators are present.
+Helpers usually do not handle rule violations outside the global chat. Still, they can occasionally intervene in serious rule infractions that harm the server or players if no moderators are present.
 
-Being a chat moderator is typically an entry-level role for those who have applied to become a moderator on the server. It requires the ability to express oneself to other players in text. One must not be afraid of conflicts, feel responsible for the chat, and be able to assist players with simpler problems easily.
+Being an Helper is typically an entry-level role for those who have applied to become a moderator on the server. It requires the ability to express oneself to other players in text. One must not be afraid of conflicts, feel responsible for the chat, and be able to assist players with simpler problems easily.
 
 #### **Moderator - **<mark style="color:blue;">**\[M]**</mark>&#x20;
 
@@ -57,7 +57,7 @@ Administrators are moderators with greater responsibility and rights to ensure t
 
 Administrators can be regular players. However_, alternative accounts are suggested_. They can have cities and engage in trade, but not with the help of rights that come with their rank. All gaming MUST be conducted under the same conditions as regular players. They can help regular players with various construction or demolition, but only in survival mode.
 
-#### **Management - **<mark style="color:blue;">**\[**</mark><mark style="color:purple;">**A**</mark><mark style="color:blue;">**]**</mark>
+#### **Management - **<mark style="color:red;">**\[A]**</mark>
 
 The manager is a form of administrator (abbreviated admin with a purple A instead of turquoise) who is part of the management group. The manager is responsible for the entire server.
 
