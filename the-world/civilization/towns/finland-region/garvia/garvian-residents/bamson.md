@@ -27,8 +27,17 @@ After completing his previous project, Bamson created a gate connecting Garvia w
 \
 Bamson also played a significant role in constructing the [Church of Garvia](../church-of-garvia.md), a majestic building that symbolized the town's faith and unity. He worked tirelessly to ensure that every detail of the church was perfect, from the stained glass windows to the mirrored floor interior.\
 \
-In addition to these structures, Bamson built a market where players could exchange goods and services. He was especially proud of his train station, a brick and sandstone building that connected Garvia with Northstar, a nearby town. He also designed lighthouses along the coast to guide and protect the ships that sailed to and from Garvia.\
+In addition to these structures, Bamson built a market where players could exchange goods and services. He was especially proud of his train statio n, a brick and sandstone building that connected Garvia with Northstar, a nearby town. He also designed lighthouses along the coast to guide and protect the ships that sailed to and from Garvia.\
 \
 Bamson made a significant contribution to the development of Garvia. He worked hard to create a friendly, safe, and thriving community for players to enjoy.
 
+***
+
 (Edit)
+
+Garvia:\
+Bamson arrived in a newly made town with the name of Garvia where many of his former companions from Hansan settled. With much expectation and a bustling town, Bamson felt right at home. Quickly after entering the town, he began building and immersing himself in the town's development.  &#x20;
+
+As a skilled builder and a mind for business, he set to work on his first building which was the Fishing hut. From previous knowledge, he knew how vital fishing was and wanted to create a cozy and welcoming place to catch fish.
+
+After completing the first project, Bamson wanted to ensure Garvia's borders and connect Garvia with the rest of the server. It was done by making a gate at a highly trafficked path going from North Karelia to Aquaria. As it was right in an intersection, he gave it the name [Cometfall Crossroads](../cometfall-crossroads.md). Which became a safe and secure passage across the eastern side of the [Finland Region](../../).
