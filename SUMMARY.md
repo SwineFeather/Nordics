@@ -37,7 +37,7 @@
           * [👤 Aytte](the-world/civilization/towns/finland-region/garvia/garvian-residents/aytte.md)
           * [👤 Bamson](the-world/civilization/towns/finland-region/garvia/garvian-residents/bamson.md)
         * [Cometfall Crossroads](the-world/civilization/towns/finland-region/garvia/cometfall-crossroads.md)
-        * [Garvia picture gallery](the-world/civilization/towns/finland-region/garvia/garvia-pictures.md)
+        * [Garvia picture gallery](the-world/civilization/towns/finland-region/garvia/garvia-pictures/README.md)
       * [☑ Helsinki](the-world/civilization/towns/finland-region/helsinki.md)
       * [☑ Normannburg](the-world/civilization/towns/finland-region/normannburg.md)
       * [Oulu](the-world/civilization/towns/finland-region/oulu.md)
