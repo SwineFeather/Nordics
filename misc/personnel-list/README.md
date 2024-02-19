@@ -2,9 +2,9 @@
 description: List of all involved in server development
 ---
 
-# 🌟 The Nordics Staff & helpers
+# 🌟 The Nordics Staff & Collaborators
 
-### <mark style="color:blue;">Staff</mark>
+### <mark style="color:blue;">Operators</mark>
 
 #### &#x20;                                                                                    Management
 
@@ -18,23 +18,23 @@ description: List of all involved in server development
 
 <figure><img src="../../.gitbook/assets/KevorkDK (1).png" alt=""><figcaption><p><a href="server-developers/kevork.md">KevorkDK</a></p></figcaption></figure>
 
-#### &#x20;                                                                                     Moderators
+#### &#x20;                                                                                      Moderators
 
-#### &#x20;                                                                                Chat Moderators
+#### &#x20;                                                                                        Developers
+
+<figure><img src="../../.gitbook/assets/MigningSM.png" alt=""><figcaption><p><a href="migningsm.md">MigningSM</a></p></figcaption></figure>
 
 ***
 
-### <mark style="color:green;">Team Members</mark>
+## <mark style="color:green;">Associates</mark>
 
-#### &#x20;                                                                                          Builders
+#### &#x20;                                                                                         Builders
 
-<figure><img src="../../.gitbook/assets/MigningSM.png" alt=""><figcaption><p><a href="server-developers/migningsm.md"><mark style="color:green;">MigningSM</mark></a></p></figcaption></figure>
-
-#### &#x20;                                                                                        Developer
+#### &#x20;                                                                          Helper/Chat Moderators
 
 #### &#x20;                                                                                           Media
 
-#### &#x20;                                                                                           **Scriber**
+#### &#x20;                                                                                           **Scribers**
 
 ***
 

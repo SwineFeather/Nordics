@@ -178,10 +178,10 @@
 
 ## Misc
 
-* [🌟 The Nordics Staff & helpers](misc/personnel-list/README.md)
+* [🌟 The Nordics Staff & Collaborators](misc/personnel-list/README.md)
   * [SwineFeather](misc/personnel-list/swinefeather.md)
+  * [MigningSM](misc/personnel-list/migningsm.md)
   * [Prior helpers](misc/personnel-list/server-developers/README.md)
-    * [MigningSM](misc/personnel-list/server-developers/migningsm.md)
     * [Kevork](misc/personnel-list/server-developers/kevork.md)
     * [VPSwede](misc/personnel-list/server-developers/vpswede.md)
     * [CosmicWaffles](misc/personnel-list/server-developers/cosmicwaffles.md)
