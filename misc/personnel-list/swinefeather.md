@@ -19,7 +19,7 @@ layout:
 
 Biography:
 
-> Greetings, this is SwineFeather also knows as Aytte.
+> Greetings, this is Alexander but also known as SwineFeather and Aytte.  I'm deeply commited in my role as the manager of the Nordics server as it's been a long-standing aspiration since I started playing Minecraft. My love for learning has been a guiding force in my life, and I have eagerly pursued new knowledge and skills, particularly in the realms of visual effects and 3D. This passion was kindled from the moment I first laid hands on a computer, and since then, I have wholeheartedly delved into various creative pursuits, constantly seeking to expand my base knowledge.
 >
 >
 
