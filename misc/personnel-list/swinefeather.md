@@ -35,8 +35,9 @@ Biography:
 
 Current fields
 
-* Scriber
-* Advertiser
 * Developer
+* Media
+* Writer
+* Builder
 * Administrator
 
