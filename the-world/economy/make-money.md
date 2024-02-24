@@ -23,5 +23,6 @@ Every time you kill a monster, there’s a chance that you’ll get some money. 
 * Fishing is no longer as simple as regular minecraft, you will need to successfully complete a short minigame. Hit the correct block multiple times to win and a chance to increse it's rarity level to win better items.
 * Use `/sellfish` or `/sellfish all` to sell your fish.
 * To access a **catalog** of all the fish species you have caught, type in `/lfish catalog`. You can also view the leaderboard of most fish caught and weight for each fish.
+*
 
 \

@@ -22,7 +22,6 @@
       * [Atlantian Imperium](the-world/civilization/nations/absent-nations/atlantian-imperium.md)
   * [Towns](the-world/civilization/towns/README.md)
     * [🇫🇮 Finland Region](the-world/civilization/towns/finland-region/README.md)
-      * [🗼 Outposts](the-world/civilization/towns/finland-region/outposts.md)
       * [Aquaria](the-world/civilization/towns/finland-region/aquaria/README.md)
         * [Aquaria Residents](the-world/civilization/towns/finland-region/aquaria/aquaria-residents/README.md)
           * [👤 Redapo15](the-world/civilization/towns/finland-region/aquaria/aquaria-residents/redapo15.md)

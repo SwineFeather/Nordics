@@ -1,6 +1,6 @@
 # 🇫🇮 Finland Region
 
-Finland is characterized by its dense woodlands, where towering spruce trees and lush foliage create an opportunity for players to gather wood, and establish their woodland settlements. The region is home to numerous serene lakes and winding rivers, providing opportunities for fishing, boating, and the construction of waterfront structures. Its diverse topography, from plains to rocky outcrops, offers an ideal canvas for players to construct their unique settlements.\
+Finland is characterized by its dense woodlands, where towering spruce trees and lush foliage create an opportunity for players to gather wood, and establish their woodland settlements. The region is home to numerous serene lakes and winding rivers, providing opportunities for fishing, boating, and the construction of waterfront structures.\
 Due to its grand landscapes, the Finland region has been the birthplace of numerous towns and settlements such as:
 
 * [Muurmani](muurmanni.md)

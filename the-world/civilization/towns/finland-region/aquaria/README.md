@@ -8,7 +8,7 @@ description: Abandoned town
 
 ***
 
-<figure><img src="../../../../../.gitbook/assets/2023-12-02_19.56.03.png" alt=""><figcaption><p><em>Aerial view of Aquaria</em></p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/2023-12-02_19.56.03.png" alt="" width="375"><figcaption><p><em>Aerial view of Aquaria</em></p></figcaption></figure>
 
 ***
 

@@ -42,7 +42,7 @@ This wiki is under constant construction. Please let [SwineFeather](misc/personn
 
 ***
 
-### About
+### About the server
 
 shntshntshnt
 
@@ -52,7 +52,7 @@ shntshntshnt
 
 * [Towny Guide](the-world/town-administration/towny-guide.md)
 * [Server rules](new-players/server-rules.md)
-* How to make money
+* [How to make money](the-world/economy/make-money.md)
 
 #### Interesting articles to read:
 
