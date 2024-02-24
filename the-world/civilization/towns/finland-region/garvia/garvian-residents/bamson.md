@@ -12,7 +12,7 @@ description: Builder & architect
 
 _**Hansan Traders:**_
 
-Bamson was a wanderer, builder, and trader with a talent for identifying the best locations to settle down and the most lucrative goods to trade. Prior to the server's launch, he was among the founding members of Hansan Traders. Under his guidance and expertise, the town thrived. He contributed to the town's development by designing and constructing the townhouses, making use of his wood-chopping skills. He supplied the server with abundant cheap wood, which helped him earn a reputation as a dependable and generous merchant. Additionally, he also designed and constructed the Kalasseum for Hakkapelitatt...
+Before the server launch, he was one of the founding members of Hansan Traders and during the server, Bamos was a trader and a builder for Hansan Traders. He had a talent for identifying the best locations and the most lucrative goods to trade. Making use of his wood-chopping skills. He supplied the server with abundant cheap wood, which helped him earn a reputation as a trustworthy and helpful merchant. Additionally, he also designed and constructed the Kalasseum for Hakkapelitatt.
 
 \
 **2023 Nordics Server**
@@ -24,13 +24,19 @@ As a skilled builder and a mind for business, he set to work on his first buildi
 
 After completing the first project, Bamson wanted to ensure Garvia's borders and connect Garvia with the rest of the server. It was done by making a gate at a highly used path going from North Karelia to Aquaria. As it was right in an intersection, he gave it the name [Cometfall Crossroads](../cometfall-crossroads.md). Which became a safe and secure passage across the eastern side of the [Finland Region](../../).
 
-During the first days of the town. MineSkate planned and built the Church of Garvia. Building a church alone is a hard task, Bamson noticed the time it took to bulid it, and thought it needed some more detailing. So he took initiative to design the detail work.
+During the first days of the town. MineSkate planned and built the [Church of Garvia](../church-of-garvia.md). Building a church alone was a challenging task, Bamson noticed the time it took to build it and felt that the church required some more detailing, so took the initiative to design the details.
 
-\
-\
-Bamson also played a significant role in constructing the [Church of Garvia](../church-of-garvia.md), a majestic building that symbolized the town's faith and unity. He worked tirelessly to ensure that every detail of the church was perfect, from the stained glass windows to the mirrored floor interior.\
-\
-In addition to these structures, Bamson built a market where players could exchange goods and services. He was especially proud of his train statio n, a brick and sandstone building that connected Garvia with Northstar, a nearby town. He also designed lighthouses along the coast to guide and protect the ships that sailed to and from Garvia.
+In addition to these buildings, Bamson built the market, train station that was connected with Northstar, and the lighthouse along the coast of the northern island.
+
+February 2024, Bamson rebuilt two town buildings and continued with the Cometfall Crossroads, featuring The Blazeheart Forge.
+
+<figure><img src="../../../../../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Newer version</p></figcaption></figure>
+
+<figure><img src="../../../../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>The Blazeheart Forge</p></figcaption></figure>
+
+
+
+
 
 ***
 
