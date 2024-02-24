@@ -15,7 +15,7 @@
     * [Present Nations](the-world/civilization/nations/present-nations/README.md)
       * [Constellation](the-world/civilization/nations/present-nations/constellation.md)
       * [Kesko Corporation](the-world/civilization/nations/present-nations/kesko-corporation/README.md)
-        * ["Pictures"?](the-world/civilization/nations/present-nations/kesko-corporation/pictures.md)
+        * [Pictures](the-world/civilization/nations/present-nations/kesko-corporation/pictures.md)
     * [Absent Nations](the-world/civilization/nations/absent-nations/README.md)
       * [Denmark](the-world/civilization/nations/absent-nations/denmark.md)
       * [Kala](the-world/civilization/nations/absent-nations/kala.md)
