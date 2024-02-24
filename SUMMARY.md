@@ -110,7 +110,6 @@
     * [Nation tax](the-world/economy/taxes/nationtax.md)
     * [If tax cannot be payed](the-world/economy/taxes/if-tax-cannot-be-payed.md)
   * [💰 Make money](the-world/economy/make-money.md)
-    * [Referrals](the-world/economy/make-money/referrals.md)
 * [Town Administration](the-world/town-administration/README.md)
   * [Create and run a town.](the-world/town-administration/create-and-run-a-town..md)
   * [Create, sell, and rent out plots](the-world/town-administration/create-sell-and-rent-out-plots.md)

@@ -1,4 +1,4 @@
-# 1.3.9
+# pre1.3.9
 
 **Team Update:** We are introducing our newest developer, \[D] MigningSM, to the Operators team! With his extensive experience in Server administration we're confident that he will be valuable to the Nordics. In addition, has brought the following update.\
 **Minor Update**
@@ -19,3 +19,4 @@
 * Increased simulation distance
 * Use /fish catalog instead of /lfish catalog
 * removed ping under the tablist
+* max town tax changed from 25% to 10%
