@@ -40,7 +40,7 @@
       * [☑️ Helsinki](the-world/civilization/towns/finland-region/helsinki.md)
       * [☑️ Normannburg](the-world/civilization/towns/finland-region/normannburg.md)
       * [☑️ Thornfield](the-world/civilization/towns/finland-region/thornfield/README.md)
-        * [👤 CosmicWaffles](the-world/civilization/towns/finland-region/thornfield/cosmicwaffles.md)
+        * [👤 CosmicWaffles](the-world/civilization/towns/finland-region/garvia/garvian-residents/cosmicwaffles.md)
       * [Oulu](the-world/civilization/towns/finland-region/oulu.md)
       * [North Karelia](the-world/civilization/towns/finland-region/north-karelia.md)
       * [Muurmanni](the-world/civilization/towns/finland-region/muurmanni.md)

@@ -96,7 +96,7 @@ Past and present supporters
 [Occypolojee](../../the-world/civilization/towns/baltics-region/superalko/superalko-residents/occypolojee.md),communistraika, [SwineFeather](swinefeather.md), TheCanadian/_David_
 
 **Fancy Kala**<img src="../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
-[CosmicWaffles](../../the-world/civilization/towns/finland-region/thornfield/cosmicwaffles.md), Jakeybobble
+[CosmicWaffles](../../the-world/civilization/towns/finland-region/garvia/garvian-residents/cosmicwaffles.md), Jakeybobble
 
 **Kala** <img src="../../.gitbook/assets/Kala.png" alt="" data-size="line">\
 EiraHS, Cobwebblox, _Neighbor kid, Milkyway_
