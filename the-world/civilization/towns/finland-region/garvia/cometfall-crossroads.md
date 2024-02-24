@@ -8,7 +8,11 @@ The Cometfall Crossroads was built by the Garvian resident Bamson and is located
 
 The idea behind the building was to create an opportunity for travelers to rest and park their horses within its walls, where no mobs or outlaws could cause harm. At the same time, MineSkate and Aytte sought to define the borders of the town and later on protect the Province, which the gate would fulfill.
 
-Not only does it have a function, but it's a welcoming sight for all travelers on their journey across the region. Its foundation is made of stone materials such as cobblestone, stone, and stone bricks.
+Not only does it have a function, but it's a welcoming sight for all travelers on their journey across the region.
+
+<figure><img src="../../../../../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>February 2024</p></figcaption></figure>
+
+
 
 <details>
 
