@@ -74,7 +74,7 @@
       * [☑️ SuperAlko](the-world/civilization/towns/baltics-region/superalko/README.md)
         * [🗽 Statue of Liberty](the-world/civilization/towns/baltics-region/superalko/statue-of-liberty.md)
         * [👥 SuperAlko Residents](the-world/civilization/towns/baltics-region/superalko/superalko-residents/README.md)
-          * [Occypolojee](the-world/civilization/towns/baltics-region/superalko/superalko-residents/occypolojee.md)
+          * [👤 Occypolojee](the-world/civilization/towns/baltics-region/superalko/superalko-residents/occypolojee.md)
       * [☑️ Hiiumaa](the-world/civilization/towns/baltics-region/hiiumaa.md)
     * [🌎 Other Regions](the-world/civilization/towns/other-regions/README.md)
       * [Atlantis](the-world/civilization/towns/other-regions/atlantis.md)
