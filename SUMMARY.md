@@ -204,7 +204,6 @@
   * [Kalavala](misc/the-2022-nordics-server/kalavala/README.md)
     * [Kalasseum](misc/the-2022-nordics-server/kalavala/kalasseum.md)
 * [⚙️ Patchnotes](misc/changelog-updates/README.md)
-  * [Overview](misc/changelog-updates/overview.md)
   * [1.0-1.0.15 (After-Release Patches)](misc/changelog-updates/1.0-1.0.15-after-release-patches/README.md)
     * [1.0.1](misc/changelog-updates/1.0-1.0.15-after-release-patches/1.0.1.md)
     * [1.0.2a](misc/changelog-updates/1.0-1.0.15-after-release-patches/1.0.2a.md)
