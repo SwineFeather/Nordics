@@ -26,6 +26,6 @@ The community's response to the incident was to conduct targeted rollbacks to un
 
 </details>
 
-### Server development
+### Server contribution
 
-Regarding the server's development, Cosmic was one of the original developers of the Nordics server and created the world map all by himself. His contribution to the server's development was significant and helped shape the Nordics server into what it is today.
+Cosmic was one of the founders of the Nordics server and created the custom world map.
