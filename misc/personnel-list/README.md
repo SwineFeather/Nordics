@@ -16,8 +16,6 @@ description: List of all involved in server development
 
 #### &#x20;                                                                                   Administrators
 
-<figure><img src="../../.gitbook/assets/KevorkDK (1).png" alt=""><figcaption><p><a href="server-developers/kevork.md">KevorkDK</a></p></figcaption></figure>
-
 #### &#x20;                                                                                      Moderators
 
 #### &#x20;                                                                                        Developers
@@ -34,23 +32,25 @@ description: List of all involved in server development
 
 #### &#x20;                                                                                           Media
 
-#### &#x20;                                                                                           **Scribers**
+#### &#x20;                                                                                           **Writers**
 
 ***
 
 ### <mark style="color:orange;">Notable Contributors</mark>
 
-_Wiki scribers_: SwineFeather,&#x20;
+_Wiki writers_:
 
-**Kevork:** _Management_, patches: 1, 1.1, 1.2&#x20;
+**Kevork:** _Management:_ _Updates_: [1.0](../changelog-updates/1.0-1.0.15-after-release-patches/) - [1.1](../changelog-updates/1.1-1.1.7-the-nether-update/)
 
-**CosmicWaffles: **_**M**ap creator_
+**CosmicWaffles: **_**M**ap creator of_ [_1.0_](../changelog-updates/1.0-1.0.15-after-release-patches/)
 
-**VPswede:** _Admin and backend_
+**VPswede:** _Admin and backend:_ [1.0](../changelog-updates/1.0-1.0.15-after-release-patches/)
 
-**Svardmastaren:** _Developer_, patches: Oct24, Oct 23, Oct 21&#x20;
+**Svardmastaren:** _Developer_, _patches_: [1.1.9](../changelog-updates/1.1-1.1.7-the-nether-update/1.1.9.md) [1.1.10](../changelog-updates/1.1-1.1.7-the-nether-update/1.1.10.md) [1.1.11](../changelog-updates/1.1-1.1.7-the-nether-update/1.1.11.md)
 
-**MigningSM**: _Spawn builder_&#x20;
+**MigningSM**: _Builder_ [_1.0_](../changelog-updates/1.0-1.0.15-after-release-patches/)_, Developer from_ [_1.3.9_](../changelog-updates/1.3-1.3.8-economy-and-features/1.3.9.md)
+
+**SwineFeather:** _Management:_ _Updates_: [1.2](../changelog-updates/1.2-1.2.2-end-update/)  [1.3](../changelog-updates/1.3-1.3.8-economy-and-features/)
 
 
 
@@ -96,7 +96,7 @@ Past and present supporters
 [Occypolojee](../../the-world/civilization/towns/baltics-region/superalko/superalko-residents/occypolojee.md),communistraika, [SwineFeather](swinefeather.md), TheCanadian/_David_
 
 **Fancy Kala**<img src="../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
-[CosmicWaffles](../../the-world/civilization/towns/finland-region/garvia/garvian-residents/cosmicwaffles.md), Jakeybobble
+[CosmicWaffles](../../the-world/civilization/towns/finland-region/garvia/garvian-residents/cosmicwaffles.md), Jakeybobble, [Bamson](../../the-world/civilization/towns/finland-region/garvia/garvian-residents/bamson.md)
 
 **Kala** <img src="../../.gitbook/assets/Kala.png" alt="" data-size="line">\
 EiraHS, Cobwebblox, _Neighbor kid, Milkyway_

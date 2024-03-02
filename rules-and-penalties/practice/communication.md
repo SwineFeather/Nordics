@@ -10,14 +10,6 @@ It is completely okay to talk about things unrelated to Nordics. But if it's a p
 
 You can be punished if your writing leads others to interpret it as inappropriate.
 
-#### 3.3 Spam&#x20;
-
-Trash messages can include messages that contain extremely many meaningless characters or primarily capital letters. Examples that are not okay are as follows:
-
-* EJGJASDFASLDFKAWELOKFASDKF!!!!"#!"¤!"!
-* DOES ANYONE waaaaaaaaant a diiiiiiaaaaaaaaamond FOR ONLY 10 EURO!"#!"!
-* PLEEEEEASE GIVE ME 10000 EURO I'M NEW HERE AND I HAVE NO MONEY.
-
 #### 3.5 Unlawful opposition
 
 &#x20;Constructive criticism: "Constructive criticism usually refers to criticism intended to improve the criticized, for example, by providing suggestions for change."
