@@ -1,10 +1,21 @@
 ---
-description: Maps created by SwineFeath
+description: Created by SwineFeather
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Historical Political Maps
+# 🗺️ Historical Political Maps
 
-
+<figure><img src="../../../../.gitbook/assets/Political Map y24week8.5.png" alt=""><figcaption><p>Week 8, 2024-02-24</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/Political Map 1.png" alt=""><figcaption><p>Week 1, 2024-01-06</p></figcaption></figure>
 
