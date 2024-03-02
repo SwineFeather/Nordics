@@ -44,7 +44,7 @@ This wiki is under constant construction. Please let [SwineFeather](misc/personn
 
 ### About the server
 
-shntshntshnt
+Survival Town-SMP server which features a vibrant economy, allowing you to establish your town or kingdom.
 
 ***
 
@@ -58,13 +58,9 @@ shntshntshnt
 
 * The absent [Nation of Kala](the-world/civilization/nations/absent-nations/kala.md)
 * The [Federation of Kesko Corporation](the-world/civilization/nations/present-nations/kesko-corporation/)
-* Player profile: [\_Bams](the-world/civilization/towns/finland-region/garvia/garvian-residents/bamson.md)on
+* Player profile: [\_Bams](the-world/civilization/towns/finland-region/garvia/garvian-residents/bamson.md)[on](the-world/civilization/towns/finland-region/garvia/garvian-residents/bamson.md)
 
 ***
-
-We need information, lore, and pictures from [The 2022 Nordics server](misc/the-2022-nordics-server/).
-
-* Submit to #SwineFeather in DM, or any nation Discord.
 
 
 

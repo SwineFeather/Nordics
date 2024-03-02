@@ -4,7 +4,6 @@
 
 ## 🥳 New Players
 
-* [Welcome page](new-players/welcome-page.md)
 * [Towny Guide](the-world/town-administration/towny-guide.md)
 * [Simplified rules](new-players/server-rules.md)
 
@@ -154,7 +153,7 @@
     * [🐠 Page 4](additional-guides-and-commands/fishing-features/species-catergory/page-4.md)
     * [🍥 Page 5](additional-guides-and-commands/fishing-features/species-catergory/page-5.md)
     * [🦐 Page 6](additional-guides-and-commands/fishing-features/species-catergory/page-6.md)
-* [Patreon ranks & Cosmetics](additional-guides-and-commands/cosmetics.md)
+* [Patreon ranks & Benefits](additional-guides-and-commands/cosmetics.md)
 * [Other commands](additional-guides-and-commands/other-commands.md)
 
 ## ⁉️ Rules and penalties
