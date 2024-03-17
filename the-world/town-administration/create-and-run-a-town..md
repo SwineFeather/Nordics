@@ -1,22 +1,43 @@
+---
+description: /town menu
+---
+
 # Create and run a town.
 
-An option if you do not want to join an existing town is to create a new one. By creating a new town, you become the mayor of the town and have more overall control than if you were a regular member. Owning a town also means increased responsibility, especially when it comes to maintaining a good economy.
+#### Creating a Town
+
+To create a town, type `/t new <town name>`. This will create a town on the chunk you are standing on. For example, `/t new London` will create a town called 'London', centered on the chunk you are standing on. This chunk is called your _homeblock_ and you will spawn there if you die.
+
+Once you have created a town, you can view its information by typing `/t <name of your town>`. This displays important information such as:
+
+* Your town's residents and their ranks
+* Your town's size - in other words, how many chunks you have claimed and the claim limit
+
+{% hint style="info" %}
+Avoid starting a town near another town. It can limit the opportunities for both towns to grow in the future.
+{% endhint %}
+
+#### Inviting Other Players
+
+You can invite other players to your town using `/t add <player name>`. They will need to do `/accept <name of your town>` to join. You can privately talk to players in your town by switching to town chat by typing `/tc`. You can return to general chat by typing `/g`.
+
+#### Claiming Land
+
+Your town has a limit on how many chunks (townblocks) it can claim. Each resident increases this limit by 8 _(need to double check)_ chunks. To claim a chunk for your town, type `/t claim`. It must be next to an existing claim. This will deduct €5 from your town bank. To deposit money in your town bank, type `/t deposit <amount>`. You can view chunk borders with `/resident toggle constantplotborder.`
+
+You can also buy additional townblocks with `/t buy bonus <amount of chunks`>. Joining or creating a nation will also increase the townblock limit.
 
 When you own a town, you can decide for yourself whether it should be open to everyone or if all new members should need to be invited to join. To facilitate the daily work, you can appoint assistants who share the tasks within the town.
 
-Important things to consider: It is good to have some friends who want to join when starting a new town, at least 3-4 people. Running a town completely alone is very time-consuming. If you have created a town, you must ensure that there is money in its town treasury. If you do not, there is a risk that the town cannot pay the national tax, which can result in the town going under.
+<details>
 
-#### Starting a town&#x20;
+<summary>Important things to consider: </summary>
 
-To start a new town, you first need to find a suitable place to start it. If you have difficulty finding a good place, you can get a lot of inspiration by taking the train and getting off at a station you have not previously visited. It is also possible to use the map to find a suitable place. Avoid starting a town near another town. It can limit the opportunities for both towns to grow in the future.
-
-Minimum distance from other towns To create a new town, you must stand at least 2,000 blocks from all other town starting points and at least 400 blocks from all other town land blocks. However, we recommend that you find a place where the distance is much longer than that to all other towns. This avoids problems with claiming land in the future.
-
-`/town new [town-name]` The town name chosen must not violate the rules. When you have created a town or changed the name of a tow
-
-`/town add [player-name]` Once the town is created, you can invite members with this command.
-
-#### Maintain your town&#x20;
+It is good to have some friends who want to join when starting a new town, at least 3-4 people. Running a town completely alone is very time-consuming. If you have created a town, you must ensure that there is money in its town treasury. If you do not, there is a risk that the town cannot pay the national tax, which can result in the town going under.
 
 When you own a town, it comes with automatic responsibilities, mainly to ensure that you can pay for the town's expenses. For every plot your town has, there is a fee of €0.2 per plot and an additional €5 base cost.\
 The bigger the town, the more money you will need to gain from the members. One way is to set up taxes, read more about taxes [here](../economy/taxes/town-tax.md)
+
+</details>
+
+####
