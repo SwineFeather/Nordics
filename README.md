@@ -26,9 +26,7 @@ layout:
 This wiki is under constant construction. Please let [SwineFeather](misc/personnel-list/swinefeather.md) know if you find any wrong or missing information!
 {% endhint %}
 
-### &#x20;<mark style="color:green;">Server  IP:</mark> `nordics.world`
-
-
+### <mark style="color:green;">Server IP:</mark> `nordics.world`
 
 ### Quicklinks
 
@@ -55,8 +53,3 @@ Survival Town-SMP server which features a vibrant economy, allowing you to estab
 * [How to make money](the-world/economy/make-money.md)
 
 ***
-
-
-
-
-

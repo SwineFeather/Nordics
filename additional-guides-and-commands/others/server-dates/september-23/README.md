@@ -4,34 +4,20 @@
 
 ### Sep 8
 
-
-
 <details>
 
 <summary>Images</summary>
-
-
-
-
 
 * Server launch
 *
 
 **Discord announcements**
 
-<img src="../../../../.gitbook/assets/Screenshot 2023-12-20 130054 (1).png" alt="" data-size="original">
-
-<img src="../../../../.gitbook/assets/image (60).png" alt="" data-size="original">
-
-<img src="../../../../.gitbook/assets/image (67).png" alt="" data-size="original">
-
-<img src="../../../../.gitbook/assets/image (68).png" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/Screenshot 2023-12-20 130054 (1).png" alt="" data-size="original"> <img src="../../../../.gitbook/assets/image (60).png" alt="" data-size="original"> <img src="../../../../.gitbook/assets/image (67).png" alt="" data-size="original"> <img src="../../../../.gitbook/assets/image (68).png" alt="" data-size="original">
 
 </details>
 
 ### Sep 9
-
-
 
 <details>
 
@@ -67,4 +53,3 @@ The first nation on the server is created [The Kingdom of Denmark](../../../../t
 ### Sep 17
 
 ### Sep 18
-
