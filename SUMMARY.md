@@ -115,8 +115,8 @@
   * [💰 Make money](the-world/economy/make-money.md)
 * [Town Administration](the-world/town-administration/README.md)
   * [Create and run a town.](the-world/town-administration/create-and-run-a-town..md)
-  * [Create, sell, and rent out plots](the-world/town-administration/create-sell-and-rent-out-plots.md)
-  * [Town rank](the-world/town-administration/town-rank.md)
+  * [Town Management](the-world/town-administration/town-rank.md)
+  * [Plot Management](the-world/town-administration/create-sell-and-rent-out-plots.md)
   * [Town Arenas - PVP](the-world/town-administration/town-arenas-pvp.md)
   * [Prisons](the-world/town-administration/prisons.md)
 
