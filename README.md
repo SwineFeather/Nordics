@@ -26,7 +26,7 @@ layout:
 This wiki is under constant construction. Please let [SwineFeather](misc/personnel-list/swinefeather.md) know if you find any wrong or missing information!
 {% endhint %}
 
-### &#x20;<mark style="color:green;">Server  IP:</mark> `nordics.world:25612`
+### &#x20;<mark style="color:green;">Server  IP:</mark> `nordics.world`
 
 
 
@@ -53,12 +53,6 @@ Survival Town-SMP server which features a vibrant economy, allowing you to estab
 * [Towny Guide](the-world/town-administration/towny-guide.md)
 * [Server rules](new-players/server-rules.md)
 * [How to make money](the-world/economy/make-money.md)
-
-#### Interesting articles to read:
-
-* The absent [Nation of Kala](the-world/civilization/nations/absent-nations/kala.md)
-* The [Federation of Kesko Corporation](the-world/civilization/nations/present-nations/kesko-corporation/)
-* Player profile: [\_Bams](the-world/civilization/towns/finland-region/garvia/garvian-residents/bamson.md)[on](the-world/civilization/towns/finland-region/garvia/garvian-residents/bamson.md)
 
 ***
 
