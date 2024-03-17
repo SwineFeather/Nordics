@@ -4,8 +4,6 @@ One may want to send money to other players, and one should know how the command
 
 `/pay recipient amount reason`&#x20;
 
-The recipient is the player's name who is to receive money from oneself.
-
 **The amount** is how much money will be sent to the recipient, and it should always be a positive integer. The number should only contain numbers, no spaces or anything else.
 
 Most of the time, one finds it quite obvious what the recipient and amount are, but on the other hand, reason can raise some questions.

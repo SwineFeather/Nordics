@@ -25,4 +25,4 @@ One can assume that one has to pay town tax if one lives in a town. It is a sum 
 
 #### Fines and damages:&#x20;
 
-If one commits a rule violation, they may sometimes have to pay fines or damages. Both fines and damages are things one is required to pay, but the purpose differs slightly. Fines are paid as punishment, and the money goes to the nation. Damages are not part of a punishment but something paid as compensation to one or more players who have been harmed due to the rule violation committed. For example, if one unlawfully kills someone and does not have the items the victim dropped, they may be required to pay damages equivalent to the value of the items.
+If one commits a rule violation, they may sometimes have to pay fines or damages. Both fines and damages are things one is required to pay, but the purpose differs slightly. Fines are paid as punishment, and the money goes to the nation. Damages are not part of a punishment but something paid as compensation to one or more players who have been harmed due to the rule violation committed.
