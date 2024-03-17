@@ -4,9 +4,7 @@ description: Cosmic the Pathfinder
 
 # 👤 CosmicWaffles
 
-
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Registered:</strong> Sep 8, 2023</p><p><strong>Alias</strong>: _Cosmic_Waffles</p><p></p><p><strong>Nation</strong>: <a href="../../../../nations/present-nations/constellation.md">Constellation</a></p><p><strong>Town</strong>: <a href="../../thornfield/">Thornfield</a></p><p></p><p><strong>Occupation</strong>: Mayor</p></td><td></td><td></td></tr><tr><td><img src="../../../../../../.gitbook/assets/_Cosmic_Waffles-skin.png" alt=""></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Registered:</strong> Sep 8, 2023</p><p><strong>Alias</strong>: _Cosmic_Waffles</p><p><strong>Nation</strong>: <a href="../../../../nations/present-nations/constellation.md">Constellation</a></p><p><strong>Town</strong>: <a href="../../thornfield/">Thornfield</a></p><p><strong>Occupation</strong>: Mayor</p></td></tr><tr><td><img src="../../../../../../.gitbook/assets/_Cosmic_Waffles-skin.png" alt=""></td></tr></tbody></table>
 
 ### Early presence
 
