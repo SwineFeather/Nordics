@@ -1,8 +1,12 @@
 ---
-description: Town
+description: >-
+  Garvia is a town within the nation Constellation and is the province capital
+  of the Province of Garvia.
 ---
 
-# ☑ Garvia
+# ☑️ Garvia
+
+_Garvia, the town beyond compare. Where past and present blend with ease._ - Motto of Garvia.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Founder:</strong> <a href="garvian-residents/aytte.md">Aytte</a></td><td><strong>Mayor:</strong> MineSkate1<br><br><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md"><strong>Constellation</strong></a><br><br><strong>Outposts:</strong> <a href="cometfall-crossroads.md">Cometfall Crossroads</a></td><td></td></tr><tr><td><img src="../../../../../.gitbook/assets/Garvia500 (1).png" alt="Flag of Garvia" data-size="original"></td><td></td><td></td></tr><tr><td><p><strong>Region:</strong> <a href="../">Finland</a></p><p><strong>Residents at peak:</strong> 11</p></td><td><strong>Founded:</strong> <a href="../../../../../additional-guides-and-commands/others/server-dates/september-23/#sep-10">Sep 10 2023</a></td><td></td></tr></tbody></table>
 
@@ -13,8 +17,6 @@ description: Town
 ***
 
 ### History
-
-
 
 ### Lore
 
@@ -31,8 +33,6 @@ Architect: MineSkate1
 Designer: \_Bamson
 
 Builders: Aytte, MineSkate1, EiraHS, Bamson\_
-
-
 {% endtab %}
 
 {% tab title="Vineyard" %}
@@ -41,14 +41,6 @@ alexxxandra
 <figure><img src="../../../../../.gitbook/assets/2023-11-12_09.44.09.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../../.gitbook/assets/2023-11-12_09.44.22.png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Lighthouse" %}
-
-{% endtab %}
-
-{% tab title="Parks" %}
-
 {% endtab %}
 
 {% tab title="Images" %}
@@ -63,8 +55,3 @@ alexxxandra
 <figure><img src="../../../../../.gitbook/assets/2023-11-06_22.04.56.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
