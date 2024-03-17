@@ -33,7 +33,7 @@
         * [👥 Garvian Residents](the-world/civilization/towns/finland-region/garvia/garvian-residents/README.md)
           * [👤 Aytte](the-world/civilization/towns/finland-region/garvia/garvian-residents/aytte.md)
           * [👤 Bamson](the-world/civilization/towns/finland-region/garvia/garvian-residents/bamson.md)
-          * [👤 MineSkate](the-world/civilization/towns/finland-region/garvia/garvian-residents/aytte-1.md)
+          * [👤 MineSkate](the-world/civilization/towns/finland-region/garvia/garvian-residents/mineskate.md)
         * [Cometfall Crossroads](the-world/civilization/towns/finland-region/garvia/cometfall-crossroads.md)
         * [Garvia picture gallery](the-world/civilization/towns/finland-region/garvia/garvia-pictures/README.md)
       * [☑️ Helsinki](the-world/civilization/towns/finland-region/helsinki.md)
