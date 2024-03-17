@@ -1,26 +1,4 @@
 # Prisons
 
-Prisons are plots and buildings where banned players end up while they are banned. It is not possible to leave the prison, but it is possible to stay in your cell, albeit without the ability to talk or chat on our chat channel.
 
-This does not mean, for example, that mayors or assistants can put people in prison even if there is a prison in their town. Those who end up in prison are determined by the moderators by banning them. The banned person can end up in any prison, as long as it has been approved by the prison director. When someone is banned, the server randomly selects a prison with at least one available cell, and then a random available cell in that prison is chosen. Moderators do not have the ability to influence which prison or cell a banned player is placed in.
-
-Getting your prison approved by the prison director is key to the whole process; if your prison has not been approved, no prisoners will be placed there.
-
-Prison Director The state has a prison director (PD), and the prison director is the one who decides on the requirements and rules, as well as the appearance of what a prison must look like. The purpose of this is that a prison should not consist of just dirt and stone. We want reasonably nice modern prisons on Kottcraft. The prison director is the one who approves and is responsible for the state's prisons.
-
-Rules for town prisons There is no exact definition of what it means for a building to be suitable as a prison, but the following building standards serve as guidelines, and a prison that does not meet them is unlikely to be approved. If you want inspiration on how to design a prison, feel free to visit Tantofängelset in Tantolunden and the prison in Zimbatown.
-
-The prison may not be built in the nether or the end. Only one prison per town. There must not be a prison already in the town. The prison must be on its own dedicated plot. The plot should cover the entire prison building. Each cell must be isolated from every other cell. It should not be possible to move between cells. Each cell must have a closed iron door, and each door should lead to a common area. Outside each cell, there should be an empty sign and a lever. The cells must not be smaller than 3×3 blocks, and they must not be larger than 10×10 blocks. The height must not be less than 4 blocks. There must not be a real bed in the cell, as the spawn point can be placed in the cell if you sleep. It is advised to create a fake bed using slabs and carpets. It should not be possible to leave a cell other than through the iron door. All cells should maintain a comparably similar standard. There may be minor variations, but no cell should deviate too much from any other. The number of cells allowed is based on the town's residents. See the table below. It is possible to get a waiver to have more than 40 cells, but it generally requires that it is a large town with several hundred residents.
-
-Here is the translation from Swedish to English:
-
-There should be a wall around the prison. The wall should consist of hard materials such as stone or concrete. It should also be possible to walk around the prison building, so make sure there is at least 3 blocks between the main prison building and the wall. The wall should also be at least 3 blocks high. There should be a reception area for visitors, including a waiting room. There should be at least one guard tower 5 blocks above the top block of the main building. A meeting room should be available when visiting the prison client. A dining hall should be available for the incarcerated to eat.
-
-Number of residents in the town Maximum number of cells 20 or fewer 5 21-40 10 41-80 20 81-160 30 161 or more 40 It is also possible to apply for more cells when the town reaches the specified number of players.
-
-What do you get in return? We understand that it can take a lot of time and resources to build a prison, and it would be a bit tragic in this context if you didn't get anything back. Therefore, the state will distribute minemynts as compensation. This compensation is our way of thanking you for allowing us to use your prison when we need to ban players, and the compensation comes in two forms: 50 minemynts every time a player is imprisoned in a city-owned prison. 50 minemynts for each player imprisoned in a city-owned prison at midnight, when taxes are collected. This means that you will always get at least something for each player placed in the city's prison, even if the ban expires before the next tax collection.
-
-The plot will be locked If an application is submitted and a building is deemed suitable as a prison, it will be locked. This means that no one except the state will be able to change, modify, add to, or otherwise alter the plot. Therefore, think very carefully about where the prison is placed, so that it does not cause problems when the city grows or otherwise in the future. Also, if you create a teleportation point to the prison, create it outside the plot on which the prison is located. Otherwise, no one will be able to teleport there because all rights are removed.
-
-How do you apply? As the mayor of a town, you can apply for a town prison by filling out an application form. The application is made after the prison is completed.
 
