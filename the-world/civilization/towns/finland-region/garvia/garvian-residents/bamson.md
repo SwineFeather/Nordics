@@ -4,7 +4,7 @@ description: Builder & architect
 
 # 👤 Bamson
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Nation</strong>: <a href="../../../../nations/present-nations/constellation.md">Constellation</a></td><td><strong>Town</strong>: <a href="../">Garvia</a></td><td><strong>Alias</strong>: _Bamson</td></tr><tr><td><img src="../../../../../../.gitbook/assets/download (2).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Registered:</strong> <a href="broken-reference/">Sep 14, 2023</a></td><td><strong>Occupation</strong>: Builder &#x26; Architect</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Registered:</strong> Sep 14, 2023</p><p><strong>Alias</strong>: _Bamson</p><p></p><p><strong>Nation</strong>: <a href="../../../../nations/present-nations/constellation.md">Constellation</a></p><p><strong>Town</strong>: <a href="../">Garvia</a></p><p></p><p><strong>Occupation</strong>: Builder &#x26; Architect</p></td><td></td><td></td></tr><tr><td><img src="../../../../../../.gitbook/assets/_Bamson-skin.png" alt="" data-size="original"></td><td></td><td></td></tr></tbody></table>
 
 **2022 Nordics Server:**
 
@@ -35,3 +35,4 @@ February 2024, Bamson rebuilt two town buildings and continued with the Cometfal
 ***
 
 (Edit)
+

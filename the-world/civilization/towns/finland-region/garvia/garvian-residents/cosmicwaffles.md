@@ -6,7 +6,7 @@ description: Cosmic the Pathfinder
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Nation: <a href="../../../../nations/present-nations/constellation.md">Constellation</a><br>Town: <a href="../../normannburg.md">Normannburg</a></td><td>Alias: _Cosmic_Waffles</td><td></td></tr><tr><td><img src="../../../../../../.gitbook/assets/download (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Registered:</strong> Sep 8, 2023</p><p><strong>Alias</strong>: _Cosmic_Waffles</p><p></p><p><strong>Nation</strong>: <a href="../../../../nations/present-nations/constellation.md">Constellation</a></p><p><strong>Town</strong>: <a href="../../thornfield/">Thornfield</a></p><p></p><p><strong>Occupation</strong>: Mayor</p></td><td></td><td></td></tr><tr><td><img src="../../../../../../.gitbook/assets/_Cosmic_Waffles-skin.png" alt=""></td><td></td><td></td></tr></tbody></table>
 
 ### Early presence
 
@@ -22,7 +22,7 @@ The community's response to the incident was to conduct targeted rollbacks to un
 
 <summary>Pictures from event</summary>
 
-![](<../../../../../../.gitbook/assets/image (57).png>)![](<../../../../../../.gitbook/assets/image (58).png>)
+<img src="../../../../../../.gitbook/assets/image (57).png" alt="" data-size="original"><img src="../../../../../../.gitbook/assets/image (58).png" alt="" data-size="original">
 
 </details>
 
