@@ -91,7 +91,7 @@ _Some contributors are missing due to lack of information_
 Past and present supporters
 
 **Golden Kala**<img src="../../.gitbook/assets/GoldenKala (1).png" alt="" data-size="line">\
-[Occypolojee](../../the-world/civilization/towns/baltics-region/superalko/superalko-residents/occypolojee.md),communistraika, [SwineFeather](swinefeather.md), TheCanadian/_David_
+[Occypolojee](../../the-world/civilization/players/occypolojee.md), [communistraika](../../the-world/civilization/players/communistraikia.md), [SwineFeather](swinefeather.md), TheCanadian/_David_
 
 **Fancy Kala**<img src="../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
 [CosmicWaffles](../../the-world/civilization/players/cosmicwaffles.md), Jakeybobble, [Bamson](../../the-world/civilization/players/bamson.md)
