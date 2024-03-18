@@ -4,7 +4,7 @@ description: Abandoned town
 
 # Aquaria
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Founder</strong>: <a href="aquaria-residents/redapo15.md">Redapo15 </a>&#x26; Jipes</td><td><strong>Mayor</strong>: <a href="aquaria-residents/redapo15.md">Redapo15 </a>&#x26; Jipes</td><td><br><strong>Capital of</strong> <a href="../../../nations/absent-nations/kala.md"><strong>Kala</strong></a></td></tr><tr><td><img src="../../../../../.gitbook/assets/hakkapeliitat500x (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><p><strong>Region:</strong> <a href="../">Finland</a></p><p><strong>Residents at peak:</strong> 30</p></td><td><strong>Founded</strong>: <a href="../../../../../additional-guides-and-commands/others/server-dates/september-23/#sep-8">Sep 8 2023</a><br><strong>Disbanded</strong>: <a href="../../../../../additional-guides-and-commands/others/server-dates/december-23.md#dec-30">Dec 30 2023</a><br><br><strong>Motto:</strong> <em>“May the Kala be with us”</em></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Founder</strong>: <a href="aquaria-residents/redapo15.md">Redapo15 </a>&#x26; Jipes</td><td><strong>Mayor</strong>: <a href="aquaria-residents/redapo15.md">Redapo15 </a>&#x26; Jipes</td><td><br><strong>Capital of</strong> <a href="../../../nations/absent-nations/kala.md"><strong>Kala</strong></a></td></tr><tr><td><img src="../../../../../.gitbook/assets/hakkapeliitat500x (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><p><strong>Region:</strong> <a href="../">Finland</a></p><p><strong>Residents at peak:</strong> 30</p></td><td><strong>Founded</strong>: <a href="../../../../../additional-guides-and-commands/others/server-dates/september-23.md#sep-8">Sep 8 2023</a><br><strong>Disbanded</strong>: <a href="../../../../../additional-guides-and-commands/others/server-dates/december-23.md#dec-30">Dec 30 2023</a><br><br><strong>Motto:</strong> <em>“May the Kala be with us”</em></td><td></td></tr></tbody></table>
 
 ***
 
@@ -14,17 +14,11 @@ description: Abandoned town
 
 ## History
 
-
-
 ### Breif Summary
-
-
 
 ### Founding of Aquaria
 
 Aquaria is a town with a rich history that was founded by Jipes, Redapo, and the Kala Community. They worked together and received donations from the community to make it a reality. Before the server's launch, the community used tools like Google Maps to find the perfect location in Finland. Once the server was launched, players had to overcome challenges like dense forests and hostile mobs to reach the designated spot. But the community's spirit was unbroken, and they established and grew Aquaria.
-
-
 
 ### Initial Growth
 
@@ -36,8 +30,6 @@ As Aquaria grew, the need for a central hub for planning and meetings became app
 \
 Inspired by a collaborative spirit, the pioneering members of Aquaria sought to promote further growth by establishing connections with neighboring towns such as Muurmani and North Karelia. They blazed new trails, expanding Aquaria's reach within the server community and establishing it as a crucial regional player. Aquaria's impressive early growth was marked by diverse occupations and individual contributions, laying the groundwork for a prosperous community that would continue to thrive in the Nordics world.\
 (Edit)
-
-
 
 ### Historic Events
 
@@ -52,11 +44,9 @@ In the early days of Aquaria, the Mending Book Hunt became a shared experience t
 
 ### Construction and Landmarks
 
-
-
 #### Nether-Highway
 
-#### Underground ways 
+#### Underground ways
 
 #### Buildings
 
@@ -80,17 +70,11 @@ Currently serves as [Aquavale](../aquavale.md)
 {% tab title="Castle" %}
 <figure><img src="../../../../../.gitbook/assets/2023-12-09_19.27.42.png" alt="" width="563"><figcaption><p>Throne room</p></figcaption></figure>
 
-
-
 <figure><img src="../../../../../.gitbook/assets/2023-12-09_19.26.59.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../../../../.gitbook/assets/2023-12-09_19.29.39.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../../../../.gitbook/assets/2023-12-09_19.28.17 (1).png" alt="" width="563"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Courthouse" %}
-
 {% endtab %}
 
 {% tab title="Images" %}

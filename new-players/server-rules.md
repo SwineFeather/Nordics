@@ -1,6 +1,6 @@
 # Simplified rules
 
-[Rules for Nordics](../server-guides/rules.md)
+[Rules for Nordics](../rules-and-penalties/rules.md)
 
 * :shield: **Fair Play**: Utilizing 'clever use of game mechanics' or manipulating in-game mechanics to gain an unfair advantage is prohibited.
 * :no\_entry: **Monster Farms & AFK Fishing**: The use of monster farms and AFK fishing is completely prohibited, anywhere, on the server.
@@ -11,4 +11,4 @@
 * **No Active Redstone:** Additionally, passive redstone is accepted for more general (non-farm) use cases, so long it doesn't affect the server considerably. In cases of uncertainty, request guidance from an admin. Creating or using lag machines, whether using redstone or not, is strictly prohibited.
 * **No Steer, Steal, or Grief active players:** No player is allowed to interfere with the gameplay of **active** players in a way that disrupts their experience. This includes but is not limited to intentionally steering/manipulating their actions, stealing their in-game possessions, or causing grief.
 
-\
+\\

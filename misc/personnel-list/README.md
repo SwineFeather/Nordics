@@ -6,7 +6,7 @@ description: List of all involved in server development
 
 ### <mark style="color:blue;">Operators</mark>
 
-#### &#x20;                                                                                    Management
+#### Management
 
 <div align="center" data-full-width="true">
 
@@ -14,11 +14,11 @@ description: List of all involved in server development
 
 </div>
 
-#### &#x20;                                                                                   Administrators
+#### Administrators
 
-#### &#x20;                                                                                      Moderators
+#### Moderators
 
-#### &#x20;                                                                                        Developers
+#### Developers
 
 <figure><img src="../../.gitbook/assets/MigningSM.png" alt=""><figcaption><p><a href="migningsm.md">MigningSM</a></p></figcaption></figure>
 
@@ -26,13 +26,13 @@ description: List of all involved in server development
 
 ## <mark style="color:green;">Associates</mark>
 
-#### &#x20;                                                                                         Builders
+#### Builders
 
-#### &#x20;                                                                          Helper/Chat Moderators
+#### Helper/Chat Moderators
 
-#### &#x20;                                                                                           Media
+#### Media
 
-#### &#x20;                                                                                           **Writers**
+#### **Writers**
 
 ***
 
@@ -40,19 +40,17 @@ description: List of all involved in server development
 
 _Wiki writers_:
 
-**Kevork:** _Management:_ _Updates_: [1.0](../changelog-updates/1.0-1.0.15-after-release-patches/) - [1.1](../changelog-updates/1.1-1.1.7-the-nether-update/)
+**Kevork:** _Management:_ _Updates_: [1.0](../changelog-updates/1.0-1.0.15-after-release-patches) - [1.1](../changelog-updates/1.1-1.1.7-the-nether-update)
 
-**CosmicWaffles: **_**M**ap creator of_ [_1.0_](../changelog-updates/1.0-1.0.15-after-release-patches/)
+**CosmicWaffles: \_M**ap creator of\_ [_1.0_](../changelog-updates/1.0-1.0.15-after-release-patches)
 
-**VPswede:** _Admin and backend:_ [1.0](../changelog-updates/1.0-1.0.15-after-release-patches/)
+**VPswede:** _Admin and backend:_ [1.0](../changelog-updates/1.0-1.0.15-after-release-patches)
 
 **Svardmastaren:** _Developer_, _patches_: [1.1.9](../changelog-updates/1.1-1.1.7-the-nether-update/1.1.9.md) [1.1.10](../changelog-updates/1.1-1.1.7-the-nether-update/1.1.10.md) [1.1.11](../changelog-updates/1.1-1.1.7-the-nether-update/1.1.11.md)
 
-**MigningSM**: _Builder_ [_1.0_](../changelog-updates/1.0-1.0.15-after-release-patches/)_, Developer from_ [_1.3.9_](../changelog-updates/1.3-1.3.8-economy-and-features/1.3.9.md)
+**MigningSM**: _Builder_ [_1.0_](../changelog-updates/1.0-1.0.15-after-release-patches)_, Developer from_ [_1.3.9_](../changelog-updates/1.3-1.3.8-economy-and-features/1.3.9.md)
 
-**SwineFeather:** _Management:_ _Updates_: [1.2](../changelog-updates/1.2-1.2.2-end-update/)  [1.3](../changelog-updates/1.3-1.3.8-economy-and-features/)
-
-
+**SwineFeather:** _Management:_ _Updates_: [1.2](../changelog-updates/1.2-1.2.2-end-update) [1.3](../changelog-updates/1.3-1.3.8-economy-and-features)
 
 #### _<mark style="color:red;">First server contributors</mark>_
 
@@ -96,7 +94,7 @@ Past and present supporters
 [Occypolojee](../../the-world/civilization/towns/baltics-region/superalko/superalko-residents/occypolojee.md),communistraika, [SwineFeather](swinefeather.md), TheCanadian/_David_
 
 **Fancy Kala**<img src="../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
-[CosmicWaffles](../../the-world/civilization/towns/finland-region/garvia/garvian-residents/cosmicwaffles.md), Jakeybobble, [Bamson](../../the-world/civilization/towns/finland-region/garvia/garvian-residents/bamson.md)
+[CosmicWaffles](../../the-world/civilization/players/cosmicwaffles.md), Jakeybobble, [Bamson](../../the-world/civilization/players/bamson.md)
 
 **Kala** <img src="../../.gitbook/assets/Kala.png" alt="" data-size="line">\
 EiraHS, Cobwebblox, _Neighbor kid, Milkyway_
