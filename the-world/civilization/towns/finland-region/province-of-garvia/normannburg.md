@@ -4,7 +4,9 @@ description: Golli
 
 # ☑️ Normannburg
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Founder</strong>: Golli1432</td><td><strong>Mayor</strong>: Golli1432</td><td><br><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md"><strong>Constellation</strong></a><br><br></td></tr><tr><td><img src="../../../../../.gitbook/assets/normannburg500 (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region:</strong> <a href="../">Finland</a><br><strong>Residents</strong>: 6</td><td><strong>Founded</strong>: Oct 14 2023</td><td></td></tr></tbody></table>
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Founder</strong>: Golli1432</p><p><strong>Mayor</strong>: Golli1432</p></td><td></td><td><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md"><strong>Constellation</strong></a></td></tr><tr><td><img src="../../../../../.gitbook/assets/normannburg500 (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region:</strong> <a href="../">Finland</a><br><strong>Residents</strong>: 6</td><td><strong>Founded</strong>: Oct 14 2023</td><td></td></tr></tbody></table>
 
 ***
 
