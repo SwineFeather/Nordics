@@ -48,7 +48,7 @@ Survival Town-SMP server which features a vibrant economy, allowing you to estab
 
 ### Important information:
 
-* [Towny Guide](the-world/town-administration/towny-guide.md)
+* [Towny Guide](new-players/towny-guide.md)
 * [Server rules](new-players/server-rules.md)
 * [How to make money](the-world/economy/make-money.md)
 

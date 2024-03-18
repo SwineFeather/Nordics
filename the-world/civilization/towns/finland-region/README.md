@@ -5,14 +5,12 @@ Due to its grand landscapes, the Finland region has been the birthplace of numer
 
 * [Muurmani](muurmanni.md)
 * [Aquaria](aquaria/)
-* [Garvia](garvia/)
+* [Garvia](province-of-garvia/garvia/)
 * [Blobbenheim](blobbenheim.md)
-* [Normannburg](normannburg.md)
+* [Normannburg](province-of-garvia/normannburg.md)
 * [Helsinki](helsinki.md)
 * Thornfield
 * [Inferno](inferno.md)
 * [Anhyi](anhyi.md)
-
-
 
 Here you can view the [Finland maps](../../maps/regions/finland-region-map.md)
