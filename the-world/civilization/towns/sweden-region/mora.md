@@ -1,3 +1,3 @@
 # Mora
 
-Founded by [Volymskala](northstar/northstar-residents/volymskala.md)
+Founded by [Volymskala](../../players/volymskala.md)

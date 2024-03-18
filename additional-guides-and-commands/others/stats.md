@@ -41,7 +41,7 @@
 
 \[PlayerStats] Top 10 Times Mined (Spruce Log)
 
-1. [Volymskala ](../../the-world/civilization/towns/sweden-region/northstar/northstar-residents/volymskala.md).................. 77,328
+1. [Volymskala ](../../the-world/civilization/players/volymskala.md).................. 77,328
 2. ChaosValky .................. 10,408
 3. FreezFallin .................. 5,222
 4. 4ANKKAs .................... 3,109
