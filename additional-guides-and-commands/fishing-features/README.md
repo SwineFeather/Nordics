@@ -19,7 +19,9 @@ You can enable default fishing in the fishing catalog `/lfish catalog`
 
 ### Chances to get mending:
 
-From treasures, you have a 0.7% chance of getting a mending book
+From each treasure barrel, you have a 0.7% chance of getting a mending book
+
+From each throw, you have a 0.28% chance of getting a Legendary.
 
 ### Money
 

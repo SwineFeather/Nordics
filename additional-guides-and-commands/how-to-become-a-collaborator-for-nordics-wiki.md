@@ -1,6 +1,6 @@
-# ✏ How to become a collaborator for Nordics wiki
+# ✏️ How to become a collaborator for Nordics wiki
 
-We appreciate your interest in becoming a collaborator for our Nordics wiki! We welcome contributors who are passionate about the Nordic region and are willing to help us improve and expand our content. If you're interested in becoming a collaborator, here's how you can get started through GitHub:
+We appreciate your interest in becoming a collaborator for our Nordics wiki! We welcome contributors who are passionate about the server and are willing to help us improve and expand our content. If you're interested in becoming a collaborator, here's how you can get started through GitHub:
 
 1. **Create a GitHub account:** If you don't already have one, you'll need to sign up for a GitHub account. It's free and easy to do.
 2. **Fork our Nordics wiki repository:** Once you have a GitHub account, you can fork our Nordics wiki repository to your own GitHub account. You can find our repository at [https://github.com/SwineFeather/Nordics](https://github.com/SwineFeather/Nordics). This will create a copy of the repository that you can freely modify and work on.
