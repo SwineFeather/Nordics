@@ -4,7 +4,7 @@ Finland is characterized by its dense woodlands, where towering spruce trees and
 Due to its grand landscapes, the Finland region has been the birthplace of numerous towns and settlements such as:
 
 * [Muurmani](muurmanni.md)
-* [Aquaria](aquaria/)
+* [Aquaria](aquaria.md)
 * [Garvia](province-of-garvia/garvia/)
 * [Blobbenheim](blobbenheim.md)
 * [Normannburg](province-of-garvia/normannburg.md)
