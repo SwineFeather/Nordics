@@ -8,7 +8,7 @@ description: Cosmic the Pathfinder
 
 ### Early presence
 
-At the start of the server launch, Cosmic played a significant role in leading the Kala people to settle in [Aquaria](../towns/finland-region/aquaria/). Later on, he created the path for the next town by the name of [Muurmanni](../towns/finland-region/muurmanni.md), which would expand [Kala](../nations/absent-nations/kala.md)'s borders up north. Later still, he founded another town called Normannburg, situated south of Aquaria. Cosmic's contribution to the towns was notable and earned him respect among the community.
+At the start of the server launch, Cosmic played a significant role in leading the Kala people to settle in [Aquaria](../towns/finland-region/aquaria.md). Later on, he created the path for the next town by the name of [Muurmanni](../towns/finland-region/muurmanni.md), which would expand [Kala](../nations/absent-nations/kala.md)'s borders up north. Later still, he founded another town called Normannburg, situated south of Aquaria. Cosmic's contribution to the towns was notable and earned him respect among the community.
 
 ### Events
 
