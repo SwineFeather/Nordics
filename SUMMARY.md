@@ -141,8 +141,6 @@
     * [Resource gatherers](additional-guides-and-commands/others/occupations/resource-gatherers.md)
   * [Server Events](additional-guides-and-commands/others/server-events/README.md)
     * [Northstar captive](additional-guides-and-commands/others/server-events/northstar-captive.md)
-    * [🗡️ Oulu Massacre](additional-guides-and-commands/others/server-events/oulu-massacre.md)
-    * [🧱 The relocation of Normannburg](additional-guides-and-commands/others/server-events/the-relocation-of-normannburg.md)
     * [North Karelian war](additional-guides-and-commands/others/server-events/north-karelian-war.md)
     * [🔥 The Danish forest fire](additional-guides-and-commands/others/server-events/the-danish-forest-fire.md)
     * [Battle of Alesia](additional-guides-and-commands/others/server-events/battle-of-alesia.md)
