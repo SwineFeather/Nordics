@@ -167,7 +167,6 @@
   * [4. Buildings](rules-and-penalties/practice/buildings.md)
   * [5. Griefing & Vandalism](rules-and-penalties/practice/griefing-and-vandalism.md)
   * [6. Compensation in case of death](rules-and-penalties/practice/compensation-in-case-of-death.md)
-  * [7. Lending of money and items](rules-and-penalties/practice/lending-of-money-and-items.md)
 * [Management of violations](rules-and-penalties/management-of-violations.md)
 * [Evidence, assessment and decision](rules-and-penalties/evidence-assessment-and-decision.md)
 * [Punishment](rules-and-penalties/punishment/README.md)

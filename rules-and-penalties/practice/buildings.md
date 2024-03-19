@@ -16,25 +16,7 @@ Compensation for vandalism in nature. If the damage is done to unprotected land,
 
 Downward farm: It is okay to harvest all the downwards in a farm simultaneously using water buckets in a dispenser activated by a lever or a button.
 
-### 4.4 Unlawful financial operations
-
-&#x20;Interest is a concept that can be tricky to understand, especially if you are younger. We can easily say that there are two types of interest. Nominal interest and interest in the form of an origination fee. Nominal interest is prohibited, while an origination fee may be allowed. The different types are explained further below, and examples of what is allowed and what is not are at the end.
-
-Nominal interest: It is a fee paid at regular intervals. Usually, it is a percentage of the remaining loan that is paid each time. The disadvantage of this type of interest is that it is unclear how much one has to pay back as the cost of the loan increases over time. We have chosen to prohibit it because it can be difficult for everyone to understand.
-
-Origination fee: It is a fixed one-time cost for the loan. The total amount repaid for the loan will not change over time. The origination fee mustn't be unreasonably high.
-
-Examples of what is not allowed:
-
-* You can borrow my pickaxe, and then you have to pay an extra €100 each day until I get it back.
-* You can borrow €1000 if you pay back the same amount with 100% interest daily.
-
-Examples of what may be reasonable:
-
-* You can borrow my pickaxe if you pay me €100 and return it within a month.
-* You can borrow €5,000 if you repay the amount + €500 within a month.
-
-### 4.5 Unlawful aircraft
+### 4.4 Unlawful aircraft
 
 &#x20;It is only allowed to build machines (aircraft) in controlled forms if they meet certain criteria:
 
