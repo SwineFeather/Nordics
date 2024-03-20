@@ -18,7 +18,7 @@ Today, Garvia is the community where the players of the old Nordic Union server 
 
 <details>
 
-<summary>Citizens</summary>
+<summary><strong>Residents</strong></summary>
 
 * EiraHS
 * SeanMac00
