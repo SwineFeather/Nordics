@@ -1,9 +1,3 @@
----
-description: >-
-  Some rules might become an exception in cases of Warfare, events or
-  role-playing.
----
-
 # Rules for Nordics
 
 Disclaimer: The extent of penalties for rule violations will consider factors such as the duration of the offence and the benefits gained. Individuals who have not extensively contravened the rules or derived significant advantages from their actions may receive less severe penalties.
@@ -18,21 +12,17 @@ Disclaimer: The extent of penalties for rule violations will consider factors su
 
 **1.3 Exploiting Technical Issues:** Those who exploit obvious technical issues for their own or another player's advantage will be convicted of exploiting technical issues. This also applies to those active through another player account during a ban or suspension.
 
-**1.4 Multi-Accounting:** Those who exploit multiple accounts to generate in-game currency on the server will be convicted of multi-accounting. Role-playing with multiple accounts is allowed.
+**1.4 Multi-Accounting:** Those who exploit multiple accounts to generate in-game currency on the server will be convicted of multi-accounting.
 
 ### 2. Behaviors
 
 &#x20;**2.1 Deception:** Those who intentionally deceive or otherwise knowingly or negligently deceive other players will be convicted of deception. This also applies to those who unlawfully attempt to mimic another player's or moderator's identity or other characteristics on the server.
 
-**2.2 Unlawful Killing:** Those who kill another player will be convicted of unlawful killing. This prohibition does not apply if the killing is in self-defence or if there is an agreement between the victim and the perpetrator that allows killing. (Bounties are available, but if they continue killing as a way of bullying, it will be unlawful)
+**2.2 Theft:** Those who unlawfully take large amount of items owned by an active player or an active town will be convicted of theft.
 
-**2.3 Theft:** Those who unlawfully take items owned by an active player or an active town will be convicted of theft.
+**2.3 Disobedience to Authority:** Anyone who does not follow the written instructions of the serving moderator is convicted of disobedience against the authorities. Even those who ignore a moderator are convicted of disobedience against the authorities. This applies to both Discord and the server.
 
-**2.4 Livestock Trespass:** Those who unlawfully kill or move animals owned by another player or town will be convicted of livestock trespass.
-
-**2.5 Disobedience to Authority:** Anyone who does not follow the written instructions of the serving moderator is convicted of disobedience against the authorities. Even those who ignore a moderator are convicted of disobedience against the authorities. This applies to both Discord and the server.
-
-**2.6 Incitement to violate rules.** Anyone who incites other players to commit a rule violation is judged for incitement to violate rules.
+**2.4 Incitement to violate rules.** Anyone who incites other players to commit a rule violation is judged for incitement to violate rules.
 
 ### 3. Communication channels
 
@@ -52,12 +42,10 @@ Disclaimer: The extent of penalties for rule violations will consider factors su
 
 &#x20;**4.1 Vandalism:** Anyone who **unlawfully** destroys or otherwise demolishes creations built by **active** players is judged for vandalism.
 
-**4.2 Unauthorized engineering work:** Anyone who constructs or uses farms where nether wart is automatically planted or harvested is judged for unauthorized engineering work. Unauthorized engineering work also applies to those who build redstone circuits, elytra cannons, or other constructions that noticeably negatively affect the server's performance. This rule also includes turtle farms. For more information, [click here.](../rules-and-penalties/practice/buildings.md#id-4.2-unlawful-engineering-work)
+**4.2 Unauthorized engineering work:** Anyone who constructs or uses farms where nether wart is automatically planted or harvested is judged for unauthorized engineering work. Unauthorized engineering work also applies to those who build redstone circuits, elytra cannons, or other constructions that noticeably negatively affect the server's performance.&#x20;
 
-**4.3 Unauthorized construction:** Anyone who intentionally constructs a trap, an arena, or other structure to harm or kill players is judged for unauthorized construction. The prohibition does not apply if the traps, arenas, or the construction in question and its risks are marked. Those who construct something that meets the criteria for "3.1 inappropriate language use" or "3.2 provocation" are judged for either unauthorized construction, inappropriate language use, or provocation.
+**4.3 Unauthorized construction:** Intentionally constructs a trap, an arena, or other structure to harm or kill players in a **public** town Those who construct something that meets the criteria for "3.1 inappropriate language use" or "3.2 provocation" are judged for either unauthorized construction, inappropriate language use, or provocation.
 
-**4.4 Unauthorized financial activities:** Anyone who organizes lotteries, casino games, or other types of games where a fee needs to be paid to participate is judged for unauthorized financial activities. Also, players who engage in activities that collect nominal interest on loaned euros or items are judged for unauthorized financial activities. _Permission can be given from moderators if there is a clear outline._
-
-**4.5 Unauthorized aircraft:** Anyone who builds or uses aircraft that do not meet the requirements for building aircraft is judged for building or using unauthorized aircraft.
+**4.4 Unauthorized aircraft:** Anyone who builds or uses aircraft that do not meet the requirements for building aircraft is judged for building or using unauthorized aircraft.
 
 #### 4.6 Redstone rules:&#x20;

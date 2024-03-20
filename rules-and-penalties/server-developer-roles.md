@@ -2,7 +2,7 @@
 
 
 
-### Personal Roles
+### Roles
 
 For social channels, game servers, and internet forums to function well, a group of dedicated individuals is needed, whose task often involves helping and ensuring that participants, members, players, etc., adhere to specified guidelines and rules. A staff member can also be a person who facilitates a conversation between different parties to have an interesting debate that does not devolve into personal attacks or mudslinging.
 
@@ -10,7 +10,7 @@ There are five levels of staff roles to distinguish staff members who have diffe
 
 #### Helper - <mark style="color:blue;">**\[H]**</mark>
 
-An Helper supports new players and maintains order in the game's chat channel.
+A Helper supports new players and maintains order in the game's chat channel.
 
 * Duties include warning and banning players who misbehave in the chat channel.
 * Their responsibility is limited to the global chat channel, not within towns or nations.
@@ -20,7 +20,7 @@ An Helper supports new players and maintains order in the game's chat channel.
 
 Helpers usually do not handle rule violations outside the global chat. Still, they can occasionally intervene in serious rule infractions that harm the server or players if no moderators are present.
 
-Being an Helper is typically an entry-level role for those who have applied to become a moderator on the server. It requires the ability to express oneself to other players in text. One must not be afraid of conflicts, feel responsible for the chat, and be able to assist players with simpler problems easily.
+Being a Helper is typically an entry-level role for those who have applied to become a moderator on the server. It requires the ability to express oneself to other players in text. One must not be afraid of conflicts, feel responsible for the chat, and be able to assist players with simpler problems easily.
 
 #### **Moderator - **<mark style="color:blue;">**\[M]**</mark>&#x20;
 
@@ -79,7 +79,7 @@ There are high demands for responsibility, judgment, adaptability, understanding
 
 ### **With Great Power Comes Great Responsibility**&#x20;
 
-Personnel members have greater responsibility and higher expectations for their behaviour and conduct. The punishment for a staff member who knowingly and severely abuses their rights can be much harsher than for a player. If a staff member is found to be abusing their rights and/or trust, the responsible administrator judges the case and determines any penalties. Those on the staff have been entrusted to be staff members and mustn't abuse that trust.
+Personnel members have greater responsibility and higher expectations for their behavior and conduct. The punishment for a staff member who knowingly and severely abuses their rights can be much harsher than for a player. If a staff member is found to be abusing their rights and/or trust, the responsible administrator judges the case and determines any penalties. Those on the staff have been entrusted to be staff members and mustn't abuse that trust.
 
 #### **Voluntary Work**
 
