@@ -1,5 +1,5 @@
 ---
-description: the bird, built by Adamis1
+description: the bird, built by Adamism1
 ---
 
 # 🐔 The Bird
