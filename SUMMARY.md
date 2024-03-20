@@ -38,6 +38,7 @@
       * [Blobbenheim](the-world/civilization/towns/finland-region/blobbenheim.md)
       * [Alesia](the-world/civilization/towns/finland-region/alesia.md)
       * [Anhyi](the-world/civilization/towns/finland-region/anhyi.md)
+      * [Sheepomen Town](the-world/civilization/towns/finland-region/sheepomen-town.md)
     * [🇸🇪 Sweden Region](the-world/civilization/towns/sweden-region/README.md)
       * [☑️ Northstar](the-world/civilization/towns/sweden-region/northstar/README.md)
         * [Northstar Industries](the-world/civilization/towns/sweden-region/northstar/northstar-industries/README.md)
