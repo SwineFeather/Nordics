@@ -38,7 +38,7 @@ description: List of all involved in server development
 
 ### <mark style="color:orange;">Notable Contributors</mark>
 
-_Wiki writers_:
+_Wiki writers_: [Bamson](../../the-world/civilization/players/bamson.md)
 
 **Kevork:** _Management:_ _Updates_: [1.0](../changelog-updates/1.0-1.0.15-after-release-patches) - [1.1](../changelog-updates/1.1-1.1.7-the-nether-update)
 
@@ -90,7 +90,7 @@ _Some contributors are missing due to lack of information_
 
 Past and present supporters
 
-**Golden Kala**<img src="../../.gitbook/assets/GoldenKala (1).png" alt="" data-size="line">\
+**Golden Kala**<img src="../../.gitbook/assets/GoldenKala (1) (1).png" alt="" data-size="line">\
 [Occypolojee](../../the-world/civilization/players/occypolojee.md), [communistraika](../../the-world/civilization/players/communistraikia.md), [SwineFeather](swinefeather.md), TheCanadian/_David_
 
 **Fancy Kala**<img src="../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
