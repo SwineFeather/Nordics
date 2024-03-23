@@ -33,7 +33,7 @@ The moderator is Nordics most important function and is the server's universal t
 * Be active and involved in most decisions regarding the server.
 * Vote for new moderators.
 * Create activities and engage players with small events, competitions, or similar.
-* They may have specialist roles responsible for, for example, War, event constructions, PVP arenas, NPC Quests, World Building etc.
+* They may have specialist roles responsible for, for example, War, event constructions, Quests, World Building etc.
 * Provide support to mayors who need advanced help with the city.&#x20;
 * Write and contribute information to the Wiki and handle support cases.
 
@@ -59,16 +59,15 @@ Administrators can be regular players. However_, alternative accounts are sugges
 
 #### **Management - **<mark style="color:red;">**\[A]**</mark>
 
-The manager is a form of administrator (abbreviated admin with a purple A instead of turquoise) who is part of the management group. The manager is responsible for the entire server.
+The manager is a form of administrator who is part of the management group. The manager is responsible for the entire server.
 
 * Responsible for the total function and administration of the server.
 * Responsibility for all moderators and all ranks.
 * Responsible for recruitment and decision-making regarding ranks and permissions.&#x20;
 * Establishes rules and directives for players and moderators.
 * Manages more complex problems and conflicts, including conflicts involving moderators.
-* Together with the administrators, it drives the state's development of buildings and state functions.
 * Together with the developers, drives the development of features and additions ("plugins")
-* Responsible for all information in the library.
+* Responsible for all information in the wiki.
 * The manager can make exceptions to current rules and practices when necessary.
 
 A head administrator/chief administrator is ultimately responsible for the server's operations and functions. The head administrator has the final say in all major decisions or decisions tied to votes. The head administrator is chosen by the server owner and the management team. Therefore, it does not have to be the server owner who is ultimately responsible.

@@ -3,7 +3,7 @@ cover: ../../../.gitbook/assets/Cultivation (1).webp
 coverY: 0
 ---
 
-# 1.3-1.3.8 (Economy & Features)
+# 1.3-1.3.9 (Economy & Features)
 
 **Major Updates:** **New Features & income source:**
 
@@ -94,3 +94,76 @@ coverY: 0
 
 * Tab list now features new info: ping, /rules, /einfo commands, Dynmap link, and Discord link, with a sleek new look and animations. Ranks will now show as a Prefix to the player names.
 * Dynmap-Towny info-window now displays expanded details, including bank balances, upkeep, taxes, residents count, town quotes, mayor, and most importantly, town and nation flags.
+
+**Hotfix**
+
+* You can now enable default fishing through `/lfish catalog`
+* Town upkeep reduced, from `0.3` to `0.2`
+* Dynmap chat enabled, it will remember your IP so no register needed, but if it doesn't work use command `/dynmap webregister` ingame.
+* `/dynmap URL` will return the user a link to the dynmap
+
+**Minor Update**
+
+New Features:
+
+* **Structures** have been placed randomly across the map, including shipwrecks, mineshafts, and custom mineshafts
+
+New Commands:
+
+`/helpop <message>` - Message online admins.&#x20;
+
+`/getpos` - Get current position/coordinates with a compass.&#x20;
+
+`/afk` - Let others know you're AFK.
+
+&#x20;`/seen` - Check the last online date or playtime of a player.&#x20;
+
+`/time` - See the world time in chat.&#x20;
+
+`/list` - View all online players and their ranks.
+
+New Server Ranks Prefixes:
+
+* Patreon supporter prefixes updated with finer colors: Blue for Kala/Supporter, Green for Fancy Kala, and Gold for Golden Kala.
+* Staff prefixes added: Admin, Moderator, and Helper/Chat Mod in Blue color; Developer in Grey color; and Management/Head Admin in red color.
+
+Additional Changes:
+
+* Player Join/Leave text updated with simpler \[+] and \[-].
+
+**Team Update:** We are introducing our newest developer, \[D] MigningSM, to the Operators team! With his extensive experience in Server administration we're confident that he will be valuable to the Nordics. In addition, has helped with the following update.
+
+#### New Features:
+
+* Now, you can connect to the server with a client version **older** or **newer** than the server version.
+* **Gravestones**: your inventory will be stored in a gravestone, allowing you to reclaim your items. _The grave will decay after 2 minutes, which leaves your items vulnerable._
+
+#### New Commands:
+
+* //calc \[math] - Supporters :kala: In-Game calculator in chat
+* /discord - Sends the user a clickable invite link to the Nordics discord.
+
+#### Additional Changes:
+
+* Increased simulation distance
+* Use `/fish catalog` instead of /lfish catalog
+* removed ping under the tablist
+
+#### Nation Upkeep System and Taxes:
+
+* **Nation per plot Upkeep** - Uses the total number of plots that a nation has across all of its towns to determine upkeep. `€0.1` per plot
+* Nation capitals can now pay nation tax
+* max town/nation tax changed from `25%` to `10%`
+* Flat taxes now have a maximum cap
+  * Plot tax - `€10`
+  * Town tax - `€15`
+  * Nation tax - `€30`
+
+**Minor Update:**
+
+* Changed Prismarine Crystals recipe: _Glowstone dust & Glow Ink Sack_
+* Changed Prismarine Shard recipe: _Clay & Glow Ink Sack, will appear after next restart_
+* Cleared chunks in Nether/End that have not been active for more than 2 minutes in total. _(Clear memory and lag)_
+* Updated the appearance of the Dynmap
+* Swapped Kala and Fancy Kala colors, Kala is now Green and Fancy Kala is now blue.
+

@@ -1,6 +1,6 @@
 # Simplified rules
 
-[Rules for Nordics](../rules-and-penalties/rules.md)
+[Rules for Nordics](../rules-and-moderation/rules/)
 
 * :shield: **Fair Play**: Utilizing 'clever use of game mechanics' or manipulating in-game mechanics to gain an unfair advantage is prohibited.
 * :no\_entry: **Monster Farms & AFK Fishing**: The use of monster farms and AFK fishing is completely prohibited, anywhere, on the server.

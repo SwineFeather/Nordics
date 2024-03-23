@@ -1,3 +1,2 @@
-# pre1.3.10
+# pre1.3.9.2
 
-Swapped Kala and Fancy Kala colors, Kala is now Green and Fancy Kala is now blue.
