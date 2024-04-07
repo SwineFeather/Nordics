@@ -1,6 +1,6 @@
 ---
 description: Everything related to the Nordics Minecraft server can be found here!
-cover: .gitbook/assets/Kala Empire (1).png
+cover: .gitbook/assets/2024-03-23_10.34.12.png
 coverY: 0
 layout:
   cover:
