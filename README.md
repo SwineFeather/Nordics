@@ -53,3 +53,8 @@ Survival Town-SMP server which features a vibrant economy, allowing you to estab
 * [How to make money](the-world/economy/make-money.md)
 
 ***
+
+### Interesting articles
+
+* [Town of Garvia](the-world/civilization/towns/finland-region/province-of-garvia/garvia/)
+* [Nation of Constellation](the-world/civilization/nations/present-nations/constellation.md)
