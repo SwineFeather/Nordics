@@ -1,5 +1,7 @@
 ---
 description: Abandoned town
+cover: ../../../../.gitbook/assets/2024-01-05_22.25.26.png
+coverY: 0
 ---
 
 # Aquaria

@@ -29,7 +29,7 @@
           * [Cometfall Crossroads](the-world/civilization/towns/finland-region/province-of-garvia/garvia/cometfall-crossroads.md)
           * [Garvia picture gallery](the-world/civilization/towns/finland-region/province-of-garvia/garvia/garvia-pictures.md)
         * [☑️ Normannburg](the-world/civilization/towns/finland-region/province-of-garvia/normannburg.md)
-        * [☑️ Thornfield](the-world/civilization/towns/finland-region/province-of-garvia/thornfield.md)
+        * [Thornfield](the-world/civilization/towns/finland-region/province-of-garvia/thornfield.md)
       * [☑️ Helsinki](the-world/civilization/towns/finland-region/helsinki.md)
       * [Oulu](the-world/civilization/towns/finland-region/oulu.md)
       * [North Karelia](the-world/civilization/towns/finland-region/north-karelia.md)

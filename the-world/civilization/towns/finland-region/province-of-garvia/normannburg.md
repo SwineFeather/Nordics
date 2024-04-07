@@ -1,3 +1,8 @@
+---
+cover: ../../../../../.gitbook/assets/2023-11-03_09.44.29.png
+coverY: 0
+---
+
 # ☑️ Normannburg
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Founder &#x26; Mayor</strong>: Golli1432</td><td></td><td><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md"><strong>Constellation</strong></a></td></tr><tr><td><img src="../../../../../.gitbook/assets/normannburg500 (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region:</strong> <a href="../">Finland</a><br><strong>Residents</strong>: 6</td><td><strong>Founded</strong>: <a href="../../../../../additional-guides-and-commands/others/server-dates/october-23.md#oct-14th">Oct 14 2023</a></td><td></td></tr></tbody></table>

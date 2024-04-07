@@ -1,3 +1,8 @@
+---
+cover: ../../../../.gitbook/assets/2024-03-03_18.31.42.png
+coverY: 0
+---
+
 # ☑️ Helsinki
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Founder</strong>: Fiskerguten</td><td><strong>Mayor</strong>: Fiskerguten</td><td><br><strong>Member of Kesko Corp</strong><br><br><strong>Outposts</strong>: 2</td></tr><tr><td><img src="../../../../.gitbook/assets/Helsinki500.png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region</strong>: <a href="./">Finland</a><br><strong>Residents</strong>: 4<br><strong>Founded</strong>: Nov 4 2023</td><td></td><td></td></tr></tbody></table>

@@ -1,5 +1,7 @@
 ---
 description: Town
+cover: ../../../../../.gitbook/assets/2023-12-09_19.34.28.png
+coverY: 0
 ---
 
 # ☑️ Northstar

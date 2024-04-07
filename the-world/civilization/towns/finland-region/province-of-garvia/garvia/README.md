@@ -2,13 +2,15 @@
 description: >-
   Garvia is a town within the nation Constellation and is the province capital
   of the Province of Garvia.
+cover: ../../../../../../.gitbook/assets/17672010-image_l.png
+coverY: 0
 ---
 
 # ☑️ Garvia
 
 _Garvia, the town beyond compare. Where past and present blend with ease. - Motto of Garvia_
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><p><strong>Founded:</strong> <a href="../../../../../../additional-guides-and-commands/others/server-dates/september-23.md#sep-10">Sep 10 2023</a></p><p><strong>Founder:</strong> <a href="../../../../players/aytte.md">Aytte</a></p><p><strong>Mayor:</strong> <a href="../../../../players/mineskate.md">MineSkate1</a></p><p><strong>Member of</strong> <a href="../../../../nations/present-nations/constellation.md">Constellation</a></p></td><td><p><strong>Outposts:</strong> </p><p><a href="cometfall-crossroads.md">Cometfall Crossroads</a></p><p>Westwatch Haven</p><p>Featherwind Point</p><p>Oakwater Frontier</p><p>Golden Compass </p></td><td></td></tr><tr><td><img src="../../../../../../.gitbook/assets/Garvia500 (1).png" alt="Flag of Garvia" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region:</strong> <a href="../../">Finland</a></td><td><strong>Residents:</strong> 8</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><p><strong>Founded:</strong> <a href="../../../../../../additional-guides-and-commands/others/server-dates/september-23.md#sep-10">Sep 10 2023</a></p><p><strong>Founder:</strong> <a href="../../../../players/aytte.md">Aytte</a></p><p><strong>Mayor:</strong> <a href="../../../../players/mineskate.md">MineSkate1</a></p><p><strong>Member of</strong> <a href="../../../../nations/present-nations/constellation.md">Constellation</a></p></td><td><p><strong>Outposts:</strong></p><p><a href="cometfall-crossroads.md">Cometfall Crossroads</a></p><p>Westwatch Haven</p><p>Featherwind Point</p><p>Oakwater Frontier</p><p>Golden Compass</p></td><td></td></tr><tr><td><img src="../../../../../../.gitbook/assets/Garvia500 (1).png" alt="Flag of Garvia" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region:</strong> <a href="../../">Finland</a></td><td><strong>Residents:</strong> 8</td><td></td></tr></tbody></table>
 
 After the announcement of the relaunch of the Nordic Union Minecraft server, the old Hansan Traders community began discussing the creation of a new town. There wasn't much planning before the server release, so when it opened, a group from the old Hansan Traders community, alongside Aytte and MineSkate, decided to form the town of Garvia on September 10th, 2023.
 
