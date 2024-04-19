@@ -13,4 +13,4 @@
 
 
 
-<table data-full-width="true"><thead><tr><th>Command</th><th>Purpose</th><th data-hidden></th></tr></thead><tbody><tr><td>/einfo</td><td> (Links and rules)</td><td></td></tr><tr><td>/einfo tags</td><td></td><td></td></tr><tr><td>/einfo rules</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>Command</th><th>Purpose</th><th data-hidden></th></tr></thead><tbody><tr><td>/einfo</td><td> (Links and rules)</td><td></td></tr><tr><td>/einfo tags</td><td></td><td></td></tr><tr><td>/einfo rules</td><td></td><td></td></tr><tr><td>/discord</td><td></td><td></td></tr><tr><td>/map</td><td></td><td></td></tr><tr><td>/rules</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
