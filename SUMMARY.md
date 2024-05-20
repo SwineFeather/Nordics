@@ -104,6 +104,7 @@
     * [👤 Redapo](the-world/civilization/players/redapo15.md)
     * [👤 SeeYouMan](the-world/civilization/players/seeyouman.md)
     * [👤 Svardmastaren](the-world/civilization/players/svardmastaren.md)
+    * [👤 NL\_Kommiedant](the-world/civilization/players/nl\_kommiedant.md)
     * [👤 Tigerhirsch](the-world/civilization/players/tigerhirsch.md)
     * [👤 Volymskala](the-world/civilization/players/volymskala.md)
 * [🪙 Economy](the-world/economy/README.md)
