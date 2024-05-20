@@ -4,5 +4,5 @@ Sweden is a dramatic land filled with forests, expansive plains, and shimmering 
 
 * [Northstar](northstar/)
 * [Småstan](smastan-knapplann.md)
-* [Åland](aland.md)
+* [Åland](../finland-region/aland.md)
 * [Mora](mora.md)
