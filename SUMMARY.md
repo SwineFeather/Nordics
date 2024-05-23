@@ -76,7 +76,7 @@
   * [Maps](the-world/civilization/maps/README.md)
     * [🗺️ Political Maps](the-world/civilization/maps/political-maps/README.md)
       * [🗺️ Historical Political Maps](the-world/civilization/maps/political-maps/historical-political-maps.md)
-      * [Markers & Increasing Borders](the-world/civilization/maps/political-maps/markers-and-increasing-borders.md)
+      * [Markers, Emblem & Increasing Borders](the-world/civilization/maps/political-maps/markers-and-increasing-borders.md)
       * [Regional Political Maps](the-world/civilization/maps/political-maps/regional-political-maps.md)
       * [Nation Maps](the-world/civilization/maps/political-maps/nation-maps.md)
     * [Regions](the-world/civilization/maps/regions/README.md)
