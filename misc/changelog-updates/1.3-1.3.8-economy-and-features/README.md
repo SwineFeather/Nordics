@@ -3,7 +3,7 @@ cover: ../../../.gitbook/assets/Cultivation (1).webp
 coverY: 0
 ---
 
-# 1.3-1.3.9 (Economy & Features)
+# 1.3-1.3.11 (Economy & Features)
 
 **Major Updates:** **New Features & income source:**
 
@@ -165,5 +165,25 @@ Additional Changes:
 * Changed Prismarine Shard recipe: _Clay & Glow Ink Sack, will appear after next restart_
 * Cleared chunks in Nether/End that have not been active for more than 2 minutes in total. _(Clear memory and lag)_
 * Updated the appearance of the Dynmap
-* Swapped Kala and Fancy Kala colors, Kala is now Green and Fancy Kala is now blue.
+* Swapped Kala and Fancy Kala colors, Kala is now Green and Fancy Kala is now blue.\
+
+
+**Features**
+
+* Death Locations map after death.
+* Animated Doors
+* Chat [**Emoticons**](https://wiki.nordics.world/additional-guides-and-commands/others/chat-emoticons)
+* Craftable Tipped Arrows in the\*\* Fletching Table\*\*
+
+**Misc**
+
+* New Rank Icons, _Staff & Supporters_
+* **Town & Nation Upkeep**
+* Nation, Town and Plots can now have **negative tax**, instead of taking money from the residents, negative tax will result in every resident being paid by the town bank.
+* **Nation Levels:** As the population of a nation increases, the upkeep costs will decrease accordingly.
+  * 10 residents: `10%`
+  * 20 residents: `14%`
+  * 30 residents: `16%`
+  * 40 residents: `18%`
+  * 60 residents: `20%`
 

@@ -242,7 +242,7 @@
   * [1.2-1.2.2 (End Update)](misc/changelog-updates/1.2-1.2.2-end-update/README.md)
     * [1.2.1 (Supporter Benefits)](misc/changelog-updates/1.2-1.2.2-end-update/1.2.1-supporter-benefits.md)
     * [1.2.2 (End Release)](misc/changelog-updates/1.2-1.2.2-end-update/1.2.2-end-release.md)
-  * [1.3-1.3.9 (Economy & Features)](misc/changelog-updates/1.3-1.3.8-economy-and-features/README.md)
+  * [1.3-1.3.11 (Economy & Features)](misc/changelog-updates/1.3-1.3.8-economy-and-features/README.md)
     * [1.3.1 (Custom Fishing & Bounties)](misc/changelog-updates/1.3-1.3.8-economy-and-features/1.3.1-custom-fishing-and-bounties.md)
     * [1.3.2](misc/changelog-updates/1.3-1.3.8-economy-and-features/1.3.2.md)
     * [1.3.3](misc/changelog-updates/1.3-1.3.8-economy-and-features/1.3.3.md)
