@@ -98,7 +98,7 @@ Kala eventually became the weakest nation on the server and a shadow of its form
 
 <div>
 
-<figure><img src="../../../../.gitbook/assets/n4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/n4.png" alt=""><figcaption><p>Payed off by Congosuin</p></figcaption></figure>
 
  
 
