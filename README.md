@@ -64,5 +64,5 @@ Survival Town-SMP server which features a vibrant economy, allowing you to estab
 ### News
 
 * [Northstar Forest Fire](the-world/civilization/towns/sweden-region/northstar/northstar-forest-fire.md)
-* Patch 1.3.11
+* [Patch 1.3.11](misc/changelog-updates/1.3-1.3.8-economy-and-features/1.3.11.md)
 
