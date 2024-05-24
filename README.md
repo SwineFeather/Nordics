@@ -23,7 +23,7 @@ layout:
 <figure><img src=".gitbook/assets/NU BannerFlags (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-This wiki is under constant construction. Please let [SwineFeather](misc/personnel-list/swinefeather.md) know if you find any wrong or missing information!
+This wiki is under constant construction. Please let our Collaborators know if you find any wrong or missing information!
 {% endhint %}
 
 ### <mark style="color:green;">Server IP:</mark> `nordics.world`
@@ -58,3 +58,11 @@ Survival Town-SMP server which features a vibrant economy, allowing you to estab
 
 * [Town of Garvia](the-world/civilization/towns/finland-region/province-of-garvia/garvia/)
 * [Nation of Constellation](the-world/civilization/nations/present-nations/constellation.md)
+
+***
+
+### News
+
+* Northstar Forest Fire
+* Patch 1.3.11
+

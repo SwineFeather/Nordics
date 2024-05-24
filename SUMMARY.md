@@ -76,7 +76,7 @@
   * [Maps](the-world/civilization/maps/README.md)
     * [🗺️ Political Maps](the-world/civilization/maps/political-maps/README.md)
       * [🗺️ Historical Political Maps](the-world/civilization/maps/political-maps/historical-political-maps.md)
-      * [Markers, Emblem & Increasing Borders](the-world/civilization/maps/political-maps/markers-and-increasing-borders.md)
+      * [🛡️ Markers, Emblem & Increasing Borders](the-world/civilization/maps/political-maps/markers-and-increasing-borders.md)
       * [Regional Political Maps](the-world/civilization/maps/political-maps/regional-political-maps.md)
       * [Nation Maps](the-world/civilization/maps/political-maps/nation-maps.md)
     * [Regions](the-world/civilization/maps/regions/README.md)
@@ -109,7 +109,6 @@
     * [👤 Volymskala](the-world/civilization/players/volymskala.md)
 * [🪙 Economy](the-world/economy/README.md)
   * [Euro - the virtual currency](the-world/economy/euro-the-virtual-currency.md)
-  * [Vote for the server - get payed](the-world/economy/vote-for-the-server-get-payed.md)
   * [Descriptive reasons](the-world/economy/descriptive-reasons.md)
   * [Sign Shops](the-world/economy/sign-shops.md)
   * [Taxes](the-world/economy/taxes/README.md)
@@ -121,8 +120,6 @@
   * [Create and run a town.](the-world/town-administration/create-and-run-a-town..md)
   * [Town Management](the-world/town-administration/town-rank.md)
   * [Plot Management](the-world/town-administration/create-sell-and-rent-out-plots.md)
-  * [Town Arenas - PVP](the-world/town-administration/town-arenas-pvp.md)
-  * [Prisons](the-world/town-administration/prisons.md)
 
 ## 💻 Additional Guides & Commands
 
@@ -207,7 +204,10 @@
   * [Cadastre](misc/the-2022-nordics-server/cadastre.md)
   * [Kalavala](misc/the-2022-nordics-server/kalavala/README.md)
     * [Kalasseum](misc/the-2022-nordics-server/kalavala/kalasseum.md)
-* [Archive](misc/archive.md)
+* [Archive](misc/archive/README.md)
+  * [Vote for the server - get payed](misc/archive/vote-for-the-server-get-payed.md)
+  * [Prisons](misc/archive/prisons.md)
+  * [Town Arenas - PVP](misc/archive/town-arenas-pvp.md)
 * [⚙️ Patchnotes](misc/changelog-updates/README.md)
   * [1.0-1.0.15 (After-Release Patches)](misc/changelog-updates/1.0-1.0.15-after-release-patches/README.md)
     * [1.0.1](misc/changelog-updates/1.0-1.0.15-after-release-patches/1.0.1.md)

@@ -26,7 +26,7 @@ layout:
 
 <details>
 
-<summary>Biased Text</summary>
+<summary><em>Biased Text</em></summary>
 
 Kala was a nation that rose to glory and fell to ruin in the Nordics Minecraft server. It was founded by Redapo, a visionary leader with a grand plan for his nation. He chose Finland as his territory and quickly recruited many players to join him. He named his nation Kala and declared himself the emperor of the Kala Empire.
 

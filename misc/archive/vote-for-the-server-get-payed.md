@@ -1,3 +1,7 @@
+---
+description: Economy tab
+---
+
 # Vote for the server - get payed
 
 {% hint style="danger" %}

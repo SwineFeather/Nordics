@@ -6,7 +6,7 @@ coverY: 0
 
 # Aquaria
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Founder</strong>: <a href="../../players/redapo15.md">Redapo15 </a>&#x26; Jipes_</td><td><strong>Mayor</strong>: <a href="../../players/redapo15.md">Redapo15 </a>&#x26; Jipes_</td><td><br><strong>Capital of</strong> <a href="../../nations/absent-nations/kala.md"><strong>Kala</strong></a></td></tr><tr><td><img src="../../../../.gitbook/assets/hakkapeliitat500x (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><p><strong>Region:</strong> <a href="./">Finland</a></p><p><strong>Residents at peak:</strong> 30</p></td><td><strong>Founded</strong>: <a href="../../../../additional-guides-and-commands/others/server-dates/september-23.md#sep-8">Sep 8 2023</a><br><strong>Disbanded</strong>: <a href="../../../../additional-guides-and-commands/others/server-dates/december-23.md#dec-30">Dec 30 2023</a><br><br><strong>Motto:</strong> <em>“May the Kala be with us”</em></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Founder</strong>: <a href="../../players/redapo15.md">Redapo15 </a>&#x26; <a href="../../players/jipes.md">Jipes_</a></td><td><strong>Mayor</strong>: <a href="../../players/redapo15.md">Redapo15 </a>&#x26; <a href="../../players/jipes.md">Jipes_</a></td><td><br><strong>Capital of</strong> <a href="../../nations/absent-nations/kala.md"><strong>Kala</strong></a></td></tr><tr><td><img src="../../../../.gitbook/assets/hakkapeliitat500x (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><p><strong>Region:</strong> <a href="./">Finland</a></p><p><strong>Residents at peak:</strong> 30</p></td><td><strong>Founded</strong>: <a href="../../../../additional-guides-and-commands/others/server-dates/september-23.md#sep-8">Sep 8 2023</a><br><strong>Disbanded</strong>: <a href="../../../../additional-guides-and-commands/others/server-dates/december-23.md#dec-30">Dec 30 2023</a><br><br><strong>Motto:</strong> <em>“May the Kala be with us”</em></td><td></td></tr></tbody></table>
 
 ***
 
@@ -37,12 +37,9 @@ Inspired by a collaborative spirit, the pioneering members of Aquaria sought to 
 
 #### Mending hunt
 
-In Aquaria, the pursuit of the Mending Hunt was a thrilling activity that caught everyone's attention. Fishing became a significant pastime because the Kala people had a strong fishing tradition, and getting valuable loot from the sea was essential for players. The race to obtain the rare and highly sought-after Mending books became a fierce competition, and everyone wanted to be the first to get one.\
+In Aquaria, the pursuit of the Mending Hunt was an activity that caught everyone's attention. Fishing became a significant pastime because the Kala people had a strong fishing tradition, and getting valuable loot from the sea was essential for players. The race to obtain the rare and highly sought-after Mending books became a competition, and everyone wanted to be the first to get one.\
 \
-Mending books were so scarce that they had significant value, and everyone in Aquaria took up fishing to try and secure one. Players even built houses along the river to get the best fishing spots. The competition to fully outfit oneself with Mending-enchanted gear became a spirited race that consumed the inhabitants of Aquaria.\
-\
-In the early days of Aquaria, the Mending Book Hunt became a shared experience that brought players together. It was more than just enchantments; it was a communal effort that defined the server's early dynamics.\
-(Edit text)
+Mending books were so scarce that they had significant value, and everyone in Aquaria took up fishing to try and secure one. Players even built houses along the river to get the best fishing spots. The competition to fully outfit oneself with Mending-enchanted gear became a race that consumed the inhabitants of Aquaria.
 
 ### Construction and Landmarks
 

@@ -2,7 +2,7 @@
 description: Dynmap & Political Maps
 ---
 
-# Markers, Emblem & Increasing Borders
+# 🛡️ Markers, Emblem & Increasing Borders
 
 This page will provide tips on how to increase borders, regional names, markers, and Coat of Arms. _Coat of Arms can also be known as Town Emblem, heraldry,  logo badge or shield._
 
