@@ -126,6 +126,7 @@
 * [✏️ How to become a collaborator for Nordics wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-nordics-wiki.md)
 * [Bounties](additional-guides-and-commands/bounties.md)
 * [Others](additional-guides-and-commands/others/README.md)
+  * [PlanetMinecraft Posts](additional-guides-and-commands/others/planetminecraft-posts.md)
   * [Chat Emoticons](additional-guides-and-commands/others/chat-emoticons.md)
   * [Stats](additional-guides-and-commands/others/stats.md)
   * [Server dates](additional-guides-and-commands/others/server-dates/README.md)
