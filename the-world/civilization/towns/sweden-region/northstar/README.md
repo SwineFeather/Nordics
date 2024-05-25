@@ -134,17 +134,23 @@ In the spring of 2024 a fire broke out near Northstar which consumed a majority 
 
 ### Main storage building
 
+<img src="../../../../../.gitbook/assets/Northstar Sorting House.png" alt="" data-size="original">
+
 The main storage building is located beside the market and contains an automated sorting system which can handle 192 different objects. Inside this building is also a conference room which has held many diplomatic talks, and holds many a relics and books, such as the Big Baelte treaty between [Copenhagen](../../denmark-region/copenhagen.md) and [Odens](../../denmark-region/odense.md)[e](../../denmark-region/odense.md), and [Lauras Parachute pants](#user-content-fn-1)[^1].
 
 ### Northstar luck fishing float
 
-
+<img src="../../../../../.gitbook/assets/Northstar Fishing Float.png" alt="" data-size="original">
 
 ### Northstar main station
+
+<img src="../../../../../.gitbook/assets/Northstar Station.png" alt="" data-size="original">
 
 Northstar main station was built in conjunction with the rail project, the station consists of two tracks one going west and one going east with a automatic passthrough. It would serve as a central point of the railway and mark Northstar as a transit hub and merchant town. Noteworthy features of the building was the first mosaic Northstar logo on top of the glass roof that can be seen on maps or from above, the building also had the first water elevators in the realm due to Northstar having a monopoly on soulsand.&#x20;
 
 ### Sewer
+
+<img src="../../../../../.gitbook/assets/Sewers.png" alt="" data-size="original">
 
 
 
