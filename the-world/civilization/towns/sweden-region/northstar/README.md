@@ -48,6 +48,8 @@ lil\_perre - Citizen
 
 joelsedig - Citizen
 
+TriiTrii - Finnish greatness
+
 </details>
 
 <figure><img src="../../../../../.gitbook/assets/Northstar OverviewDec (1).png" alt=""><figcaption><p>Overview image Dec-2023</p></figcaption></figure>
@@ -122,14 +124,6 @@ In the spring of 2024 a fire broke out near Northstar which consumed a majority 
 
 <details>
 
-<summary>Politics</summary>
-
-
-
-</details>
-
-<details>
-
 <summary>Important landmarks</summary>
 
 ### Main storage building
@@ -142,6 +136,8 @@ The main storage building is located beside the market and contains an automated
 
 <img src="../../../../../.gitbook/assets/Northstar Fishing Float.png" alt="" data-size="original">
 
+The Northstar luck fishing float was built to maximize reward from fishing, it started out as a chunk of lily pads but the constant threat of phantoms meant the float was needed. It was therefore constructed with the sole purpose of not affecting the fishing loot and to accommodate an ender chest and storage. All in all around 13 mending books have been caught at the float to date and therefore lures people from across the realm to fish at this lucky spot.
+
 ### Northstar main station
 
 <img src="../../../../../.gitbook/assets/Northstar Station.png" alt="" data-size="original">
@@ -152,7 +148,7 @@ Northstar main station was built in conjunction with the rail project, the stati
 
 <img src="../../../../../.gitbook/assets/Sewers.png" alt="" data-size="original">
 
-
+A sewer system was constructed under a majority of Northstar by Jakeybobble, noteworthy additions is the large water collection chamber that holds the towns jail and the storage of defensive arms.
 
 ### Shop at Northstar
 
@@ -170,22 +166,30 @@ Northstar main station was built in conjunction with the rail project, the stati
 
 <details>
 
-<summary>Sub companies of Northstar</summary>
+<summary>Companies</summary>
 
-Northstar Market
+### Parent Company
 
-Kabbe2121’s Disk shop
+[Northstar Industries (NSI)](northstar-industries/)
 
-Mora Trä
+### Subsidiaries
 
-Magical Tower of friendship
+[Northstar Industries - Sales Division](northstar-industries/northstar-industries-sales-division.md)
 
-Medieval IKEA
+[Northstar Industries - Mining Division](northstar-industries/northstar-industries-mining-division.md)
+
+[Northstar Industries - Banking Division](northstar-industries/northstar-industries-banking-division.md)
+
+[Kabbe2121’s Disk shop](northstar-industries/kabbe2121s-disk-shop.md)
+
+[Mora Trä](northstar-industries/mora-trae.md)
+
+[Magical Tower of friendship](northstar-industries/magical-tower-of-friendship.md)
+
+[Medieval IKEA](northstar-industries/medieval-ikea.md)
 
 </details>
 
 ***
-
-### Council of Northstar
 
 [^1]: Donated by Jipes
