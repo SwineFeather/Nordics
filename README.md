@@ -20,8 +20,6 @@ layout:
 
 # Nordics Minecraft Wiki
 
-<figure><img src=".gitbook/assets/NU BannerFlags (1).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 This wiki is under constant construction. Please let our Collaborators know if you find any wrong or missing information!
 {% endhint %}
@@ -30,13 +28,7 @@ This wiki is under constant construction. Please let our Collaborators know if y
 
 ### Quicklinks
 
-[Discord](https://discord.gg/nordics)
-
-[Dynmap](http://www.nordics.world:8123)
-
-[Patreon](https://www.patreon.com/nordics)
-
-[PlanetMinecraft](https://www.planetminecraft.com/server/nordics-minecraft-server/)
+[Discord](https://discord.gg/nordics) \~ [Dynmap](http://www.nordics.world:8123) \~ [Patreon](https://www.patreon.com/nordics) \~ [PlanetMinecraft](https://www.planetminecraft.com/server/nordics-minecraft-server/)
 
 ***
 
@@ -56,6 +48,7 @@ Survival Town-SMP server which features a vibrant economy, allowing you to estab
 
 ### Interesting articles
 
+* [Town of Northstar](the-world/civilization/towns/sweden-region/northstar/)
 * [Town of Garvia](the-world/civilization/towns/finland-region/province-of-garvia/garvia/)
 * [Nation of Constellation](the-world/civilization/nations/present-nations/constellation.md)
 
