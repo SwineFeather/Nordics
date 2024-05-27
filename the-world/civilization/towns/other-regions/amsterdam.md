@@ -12,7 +12,7 @@ Amsterdam was founded by [NL\_Kommiedant](../../players/nl\_kommiedant.md) with 
 
 {% tabs %}
 {% tab title="Work Progress 27/5, 2024" %}
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>May 27th, 2024</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Netherlands 27-5.png" alt=""><figcaption><p>May 27th, 2024</p></figcaption></figure>
 
 The first build steps involved the construction of a larger road to easily move across the work site, this involved a lot off tree burning that luckily and professionally was kept contained and under control.&#x20;
 {% endtab %}
