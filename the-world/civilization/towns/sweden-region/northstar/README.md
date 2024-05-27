@@ -110,7 +110,7 @@ The great Nordic railway project launched September 10th 2023, with the intent o
 
 **Terror attacks**
 
-During the building of the Northstar-Denmark railway tunnel, a player by the name of \[placeholder until name found] attacked Northmen building the tunnel. They killed the northmen and burned their gear, this included a mending axe that was carried by [Volymskala](../../../players/volymskala.md). The player continued towards Northstar, setting fire to the unprotected Railway along the way. Well in Northstar a battle commenced between Kabbe2121 and the terrorist, who proceeded to lavacast the Northstar harbor, but fortunately the terrorist crashed and Kabbe2121 succeeded in spawn trapping him in lava inside the Magical tower of friendship.
+During the building of the Northstar-Denmark railway tunnel, a player by the name of xdaggzy attacked Northmen building the tunnel. They killed the northmen and burned their gear, this included a mending axe that was carried by [Volymskala](../../../players/volymskala.md). The player continued towards Northstar, setting fire to the unprotected Railway along the way. Well in Northstar a battle commenced between Kabbe2121 and the terrorist, who proceeded to lavacast the Northstar harbor, but fortunately the terrorist crashed and Kabbe2121 succeeded in spawn trapping him in lava inside the Magical tower of friendship.
 
 [**Constellation**](../../../nations/present-nations/constellation.md)
 
@@ -128,7 +128,7 @@ In the spring of 2024 a fire broke out near Northstar which consumed a majority 
 
 <img src="../../../../../.gitbook/assets/Northstar Sorting House.png" alt="" data-size="original">
 
-The main storage building is located beside the market and contains an automated sorting system which can handle 192 different objects. Inside this building is also a conference room which has held many diplomatic talks, and holds many a relics and books, such as the Big Baelte treaty between [Copenhagen](../../denmark-region/copenhagen.md) and [Odens](../../denmark-region/odense.md)[e](../../denmark-region/odense.md), and [Lauras Parachute pants](#user-content-fn-1)[^1].
+The main storage building is located beside the market and contains an automated sorting system which can handle 192 different objects. The building also holds a conference room which has hosted many diplomatic talks, the conference room also contains relics and books of diplomatic agreements such as Northstar treaty and Big Baelte treaty. One of a kind relics such as Laura's Parachute pants and Kong Skjolds Kala killer can be seen in the room too.
 
 **Northstar luck fishing float**
 
@@ -183,5 +183,3 @@ A sewer system was constructed under a majority of Northstar by Jakeybobble, not
 </details>
 
 ***
-
-[^1]: Donated by Jipes
