@@ -122,6 +122,24 @@ In the spring of 2024 a fire broke out near Northstar which consumed a majority 
 
 <details>
 
+<summary>Politics</summary>
+
+In the birthing stages of Northstar the town took on a neutral stature towards other towns and later nations. Building connections with citizens and forming trust bonds with the town. This would later build the foundation for Northstar becoming a center of mediation and diplomatic meetings.&#x20;
+
+### Northstar treaty
+
+Northstar was approached by the Kingdom of Denmark to negotiate with Kala about a semi war that had broken out between the nations. Copenhagen had been attacked and lightly damaged in the siege, and therefore demanded peace. Svardmastaren and Seeyouman set up a meeting in a makeshift meeting room below the current enchantment house in Northstar. After a short debate and negotiation the parties agreed on a non aggression treaty and wouldn’t interfere with each other's future expansions or borders. Kala agreed to pay a fine of 64 iron ingots to Copenhagen for damages, at the time a very pricey fine, and was paid out by Raikia.
+
+### North Karelia war declaration
+
+Tensions in Kala had built up during the first few weeks of its existence, the nation had taken over the morepart of Finland and laid claim on all land unless the town united with them. North Karelia was at the time part of the Kalan Empire and was the third biggest town after Garvia. But the leader of North Karelia, Saukko505, was unhappy with how much tax the town had to pay Kala every day and wanted to leave the nation. Kala didn’t take lightly to this and demanded North Karelia to stay in the nation or face the consequences of being in Finland or Kalas claim as they saw it. Saukko505 quickly told Kala that they wouldn't comply with their demands and Redapo contacted Northstar to make a war declaration which was signed by Redapo and Svardmastaren as the overseeing body. The war was “won” by Kala and North Karelia was left to decay, but Kala lost a lot of its forces in the war due to realm restrictions.&#x20;
+
+### Stora Baelte treaty
+
+</details>
+
+<details>
+
 <summary>Important landmarks</summary>
 
 **Main storage building**
