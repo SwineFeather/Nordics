@@ -1,5 +1,7 @@
 ---
-description: Everything related to the Nordics Minecraft server can be found here!
+description: >-
+  This is the central hub for everything related to the Nordics Minecraft
+  server.
 cover: .gitbook/assets/2024-03-23_10.34.12.png
 coverY: 0
 layout:
@@ -20,10 +22,6 @@ layout:
 
 # Nordics Minecraft Wiki
 
-{% hint style="info" %}
-This wiki is under constant construction. Please let our Collaborators know if you find any wrong or missing information!
-{% endhint %}
-
 ### <mark style="color:green;">Server IP:</mark> `nordics.world`
 
 ### Quicklinks
@@ -34,13 +32,13 @@ This wiki is under constant construction. Please let our Collaborators know if y
 
 ### About the server
 
-Survival Town-SMP server which features a vibrant economy, allowing you to establish your town or kingdom.
+The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy and a custom map based on Northern Europe, featuring additional continents. Establish your town or kingdom and explore our server & community!
 
 ***
 
 ### Important information:
 
-* [Towny Guide](new-players/towny-guide.md)
+* [Create and manage your town](new-players/towny-guide.md)
 * [Server rules](new-players/server-rules.md)
 * [How to make money](the-world/economy/make-money.md)
 
@@ -58,4 +56,8 @@ Survival Town-SMP server which features a vibrant economy, allowing you to estab
 
 * [Northstar Forest Fire](the-world/civilization/towns/sweden-region/northstar/northstar-forest-fire.md)
 * [Patch 1.3.11](misc/changelog-updates/1.3-1.3.8-economy-and-features/1.3.11.md)
+
+{% hint style="info" %}
+This wiki is under constant construction. Please let our [**Collaborators** ](misc/personnel-list/)know if you find any wrong or missing information!
+{% endhint %}
 
