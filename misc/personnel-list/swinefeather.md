@@ -1,5 +1,5 @@
 ---
-description: 'Server Manager ~ Discord: swinefeather'
+description: 'Server Manager ~ Discord: @swinefeather ~ Mail: ajjaone123@gmail.com'
 layout:
   title:
     visible: true
@@ -38,5 +38,5 @@ Current fields
 * Developer
 * Media
 * Writer
-* Builder
+* _Builder_
 * Administrator
