@@ -25,6 +25,8 @@
       * [☑️ Aquavale](the-world/civilization/towns/finland-region/aquavale.md)
       * [🛡️ Province of Garvia](the-world/civilization/towns/finland-region/province-of-garvia/README.md)
         * [☑️ Garvia](the-world/civilization/towns/finland-region/province-of-garvia/garvia/README.md)
+          * [Aytte Enterprises](the-world/civilization/towns/finland-region/province-of-garvia/garvia/aytte-enterprises/README.md)
+            * [Garvia Gardenscapes](the-world/civilization/towns/finland-region/province-of-garvia/garvia/aytte-enterprises/garvia-gardenscapes.md)
           * [Church of Garvia](the-world/civilization/towns/finland-region/province-of-garvia/garvia/church-of-garvia.md)
           * [Cometfall Crossroads](the-world/civilization/towns/finland-region/province-of-garvia/garvia/cometfall-crossroads.md)
           * [Garvia picture gallery](the-world/civilization/towns/finland-region/province-of-garvia/garvia/garvia-pictures.md)
