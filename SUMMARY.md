@@ -166,7 +166,7 @@
     * [🍥 Desert](additional-guides-and-commands/fishing-features/species-catergory/page-5.md)
     * [🌊 Ocean](additional-guides-and-commands/fishing-features/species-catergory/page-6.md)
     * [🍄 Mushroom](additional-guides-and-commands/fishing-features/species-catergory/mushroom.md)
-* [Patreon ranks & Benefits](additional-guides-and-commands/cosmetics.md)
+* [Patreon/Supporter ranks & Benefits](additional-guides-and-commands/cosmetics.md)
 * [Other commands](additional-guides-and-commands/other-commands.md)
 
 ## ⁉️ Rules and Moderation

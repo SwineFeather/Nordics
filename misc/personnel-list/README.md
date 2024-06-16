@@ -110,7 +110,7 @@ Past and present supporters
 [Occypolojee](../../the-world/civilization/players/occypolojee.md), [communistraika](../../the-world/civilization/players/communistraikia.md), [SwineFeather](swinefeather.md), TheCanadian/_David_
 
 **Fancy Kala**<img src="../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
-[CosmicWaffles](../../the-world/civilization/players/cosmicwaffles.md), Jakeybobble, [Bamson](../../the-world/civilization/players/bamson.md), [VPSwede](server-developers/vpswede.md)
+[CosmicWaffles](../../the-world/civilization/players/cosmicwaffles.md), Jakeybobble, [Bamson](../../the-world/civilization/players/bamson.md), [VPSwede](server-developers/vpswede.md), [Svardmastaren](../../the-world/civilization/players/svardmastaren.md)
 
 **Kala** <img src="../../.gitbook/assets/Kala.png" alt="" data-size="line">\
 EiraHS, Cobwebblox, _Neighbor kid, Milkyway_

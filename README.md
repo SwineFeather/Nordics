@@ -55,7 +55,8 @@ The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy a
 ### News
 
 * [Northstar Forest Fire](the-world/civilization/towns/sweden-region/northstar/northstar-forest-fire.md)
-* [Patch 1.3.11](misc/changelog-updates/1.3-1.3.8-economy-and-features/1.3.11.md)
+* [Patch 1.3.12](misc/changelog-updates/1.3-1.3.8-economy-and-features/pre1.3.12.md)
+* [Svardmastaren ](the-world/civilization/players/svardmastaren.md)became a [Fancy Kala](additional-guides-and-commands/cosmetics.md)
 
 {% hint style="info" %}
 This wiki is under constant construction. Please let our [**Collaborators** ](misc/personnel-list/)know if you find any wrong or missing information!
