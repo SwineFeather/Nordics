@@ -16,7 +16,7 @@ description: Overview satellite maps
 {% endtab %}
 
 {% tab title="Garvia" %}
-<figure><img src="../../../../.gitbook/assets/Garvia OverviewNov (1) (1).png" alt=""><figcaption><p>Town of Garvia (November 2023)</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Garvia OverviewNov (2).png" alt=""><figcaption><p>Town of Garvia (November 2023)</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-12-09 213802.png" alt=""><figcaption><p>(December 2023)</p></figcaption></figure>
 {% endtab %}

@@ -31,6 +31,6 @@ layout:
 
 <img src="../../../../.gitbook/assets/Nordic Union Political Map 2023-10-10-20-13.png" alt="" data-size="original">
 
-![](<../../../../.gitbook/assets/image (72).png>)2023-10-02
+![](<../../../../.gitbook/assets/image (91).png>)2023-10-02
 
 </details>

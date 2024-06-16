@@ -6,7 +6,7 @@ The statue is made up of 3372 copper blocks, which equals 52.7 stacks in total.
 
 <div>
 
-<figure><img src="../../../../../.gitbook/assets/image (78).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (97).png" alt="" width="563"><figcaption></figcaption></figure>
 
  
 

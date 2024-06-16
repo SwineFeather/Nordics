@@ -42,11 +42,11 @@ description: List of all involved in server development
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption><p><a href="../../the-world/civilization/players/bamson.md">_Bamson</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption><p><a href="../../the-world/civilization/players/bamson.md">_Bamson</a></p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption><p><a href="../../the-world/civilization/players/svardmastaren.md">Svardmastaren</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p><a href="../../the-world/civilization/players/svardmastaren.md">Svardmastaren</a></p></figcaption></figure>
 
 </div>
 
@@ -56,17 +56,17 @@ description: List of all involved in server development
 
 _Wiki writers_: [Bamson](../../the-world/civilization/players/bamson.md), [Svardmastaren](../../the-world/civilization/players/svardmastaren.md)
 
-**Kevork:** _Management:_ _Updates_: [1.0](../changelog-updates/1.0-1.0.15-after-release-patches) - [1.1](../changelog-updates/1.1-1.1.7-the-nether-update)
+**Kevork:** _Management:_ _Updates_: [1.0](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.0-1.0.15-after-release-patches) - [1.1](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.1-1.1.7-the-nether-update)
 
-**CosmicWaffles: \_M**ap creator of\_ [_1.0_](../changelog-updates/1.0-1.0.15-after-release-patches)
+**CosmicWaffles: \_M**ap creator of\_ [_1.0_](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.0-1.0.15-after-release-patches)
 
-**VPswede:** _Admin and backend:_ [1.0](../changelog-updates/1.0-1.0.15-after-release-patches)
+**VPswede:** _Admin and backend:_ [1.0](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.0-1.0.15-after-release-patches)
 
 **Svardmastaren:** _Developer_, _patches_: [1.1.9](../changelog-updates/1.1-1.1.7-the-nether-update/1.1.9.md) [1.1.10](../changelog-updates/1.1-1.1.7-the-nether-update/1.1.10.md) [1.1.11](../changelog-updates/1.1-1.1.7-the-nether-update/1.1.11.md)
 
-**MigningSM**: _Builder_ [_1.0_](../changelog-updates/1.0-1.0.15-after-release-patches)_, Developer from_ [_1.3.9_](../changelog-updates/1.3-1.3.8-economy-and-features/1.3.9.md)
+**MigningSM**: _Builder_ [_1.0_](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.0-1.0.15-after-release-patches)_, Developer from_ [_1.3.9_](../changelog-updates/1.3-1.3.8-economy-and-features/1.3.9.md)
 
-**SwineFeather:** _Management:_ _Updates_: [1.2](../changelog-updates/1.2-1.2.2-end-update) [1.3](../changelog-updates/1.3-1.3.8-economy-and-features)
+**SwineFeather:** _Management:_ _Updates_: [1.2](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.2-1.2.2-end-update) [1.3](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.3-1.3.8-economy-and-features)
 
 #### _<mark style="color:red;">First server contributors</mark>_
 
@@ -106,7 +106,7 @@ _Some contributors are missing due to lack of information_
 
 Past and present supporters
 
-**Golden Kala**<img src="../../.gitbook/assets/GoldenKala (1) (1).png" alt="" data-size="line">\
+**Golden Kala**<img src="../../.gitbook/assets/GoldenKala (4).png" alt="" data-size="line">\
 [Occypolojee](../../the-world/civilization/players/occypolojee.md), [communistraika](../../the-world/civilization/players/communistraikia.md), [SwineFeather](swinefeather.md), TheCanadian/_David_
 
 **Fancy Kala**<img src="../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\

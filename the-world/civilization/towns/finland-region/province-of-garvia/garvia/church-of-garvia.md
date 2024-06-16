@@ -4,7 +4,7 @@ MineSkate began planning and building the Church after the first day of the town
 
 <div>
 
-<figure><img src="../../../../../../.gitbook/assets/image (76).png" alt="" width="188"><figcaption><p>Inspiration images</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (95).png" alt="" width="188"><figcaption><p>Inspiration images</p></figcaption></figure>
 
  
 

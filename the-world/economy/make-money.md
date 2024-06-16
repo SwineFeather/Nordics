@@ -13,7 +13,7 @@ description: Example of ways to make money
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (71).png" alt="" width="227"><figcaption><p>Sickle recipe, crafted with default ores</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt="" width="227"><figcaption><p>Sickle recipe, crafted with default ores</p></figcaption></figure>
 
 </div>
 

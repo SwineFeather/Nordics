@@ -28,8 +28,8 @@ In addition to these buildings, Bamson built the market, train station that was 
 
 February 2024, Bamson rebuilt two town buildings and continued with the Cometfall Crossroads, featuring The Blazeheart Forge.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>Newer version</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Newer version</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>The Blazeheart Forge</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>The Blazeheart Forge</p></figcaption></figure>
 
 ***

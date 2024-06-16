@@ -13,7 +13,7 @@
 
 **Discord announcements**
 
-<img src="../../../../.gitbook/assets/Screenshot 2023-12-20 130054 (1).png" alt="" data-size="original"> <img src="../../../../.gitbook/assets/image (60).png" alt="" data-size="original"> <img src="../../../../.gitbook/assets/image (67).png" alt="" data-size="original"> <img src="../../../../.gitbook/assets/image (68).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/Screenshot 2023-12-20 130054 (1).png" alt="" data-size="original"><img src="../../../.gitbook/assets/image (79).png" alt="" data-size="original"><img src="../../../.gitbook/assets/image (86).png" alt="" data-size="original"><img src="../../../.gitbook/assets/image (87).png" alt="" data-size="original">
 
 </details>
 
@@ -29,14 +29,14 @@
 
 ### Sep 10
 
-The first nation on the server is created [The Kingdom of Denmark](../../../../the-world/civilization/nations/absent-nations/denmark.md)
+The first nation on the server is created [The Kingdom of Denmark](../../../the-world/civilization/nations/absent-nations/denmark.md)
 
 \
 **Discord announcements**
 
-<figure><img src="../../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 ### Sep 11
 

@@ -11,7 +11,7 @@ coverY: 0
 
 ## History
 
-### [**Relocation of Normannburg**](broken-reference/)
+### [**Relocation of Normannburg**](https://github.com/SwineFeather/book/blob/main/the-world/civilization/towns/finland-region/province-of-garvia/broken-reference/README.md)
 
 Normannburg's relocation was a significant event shaped by complicated diplomacy, and challenges arose when transporting and distributing goods and resources. Initially, Normannburg, a self-governing entity, sought to align with the nation of Constellation. However, this proposal faced resistance due to the hamlet's nearness to the neighboring nation of Kala. The fear that Kala might perceive the union as a threat led to the denial of Normannburg's initial requests for working together.
 

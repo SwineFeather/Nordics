@@ -20,7 +20,7 @@ The community's response to the incident was to conduct targeted rollbacks to un
 
 <summary>Pictures from event</summary>
 
-<img src="../../../.gitbook/assets/image (57).png" alt="" data-size="original"><img src="../../../.gitbook/assets/image (58).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (76).png" alt="" data-size="original"><img src="../../../.gitbook/assets/image (77).png" alt="" data-size="original">
 
 </details>
 
