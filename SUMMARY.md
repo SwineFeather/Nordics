@@ -265,3 +265,4 @@
     * [1.3.10](misc/changelog-updates/1.3-1.3.8-economy-and-features/pre1.3.10.md)
     * [1.3.11](misc/changelog-updates/1.3-1.3.8-economy-and-features/1.3.11.md)
     * [1.3.12](misc/changelog-updates/1.3-1.3.8-economy-and-features/pre1.3.12.md)
+    * [pre1.3.13](misc/changelog-updates/1.3-1.3.8-economy-and-features/pre1.3.13.md)
