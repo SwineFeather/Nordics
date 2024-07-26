@@ -266,3 +266,6 @@
     * [1.3.11](misc/changelog-updates/1.3-1.3.8-economy-and-features/1.3.11.md)
     * [1.3.12](misc/changelog-updates/1.3-1.3.8-economy-and-features/pre1.3.12.md)
     * [pre1.3.13](misc/changelog-updates/1.3-1.3.8-economy-and-features/pre1.3.13.md)
+  * [1.4 (1.21 Update)](misc/changelog-updates/1.4-1.21-update/README.md)
+    * [1.4.0 (1.21 Release)](misc/changelog-updates/1.4-1.21-update/1.4.0-1.21-release.md)
+    * [pre1.4.1](misc/changelog-updates/1.4-1.21-update/pre1.4.1.md)
