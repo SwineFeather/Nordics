@@ -26,7 +26,7 @@ layout:
 
 ### Quicklinks
 
-[Discord](https://discord.gg/nordics) \~ [Dynmap](http://www.nordics.world:8123) \~ [Patreon](https://www.patreon.com/nordics) \~ [PlanetMinecraft](https://www.planetminecraft.com/server/nordics-minecraft-server/)
+[Discord](https://discord.gg/nordics) \~ [Dynmap](http://135.125.177.79:3200) \~ [Patreon](https://www.patreon.com/nordics) \~ [PlanetMinecraft](https://www.planetminecraft.com/server/nordics-minecraft-server/)
 
 ***
 
