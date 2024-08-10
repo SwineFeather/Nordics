@@ -1,6 +1,5 @@
 ---
 description: List of all involved in server development
-layout: editorial
 ---
 
 # 🌟 The Nordics Staff & Collaborators
