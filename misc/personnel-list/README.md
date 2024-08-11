@@ -1,16 +1,5 @@
 ---
 description: List of all involved in server development
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🌟 The Nordics Staff & Collaborators
