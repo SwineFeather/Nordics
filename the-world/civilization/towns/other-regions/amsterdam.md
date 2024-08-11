@@ -18,4 +18,4 @@ The first build steps involved the construction of a larger road to easily move 
 {% endtab %}
 {% endtabs %}
 
-[^1]: <img src="../../../../.gitbook/assets/Netherlands.png" alt="" data-size="original">
+[^1]: 
