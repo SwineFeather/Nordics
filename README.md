@@ -38,7 +38,7 @@ The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy a
 
 ### News
 
-* [The Lappland Fires](the-world/civilization/towns/finland-region/helsinki/the-lappland-fires.md)
+* [The Sápmi Fires](the-world/civilization/towns/finland-region/helsinki/the-sapmi-fires.md)
 * [1.21 Patch 1.4.0](misc/changelog-updates/1.4-1.21-update/1.4.0-1.21-release.md)
 
 ***
