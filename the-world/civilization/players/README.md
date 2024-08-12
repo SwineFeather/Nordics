@@ -4,19 +4,12 @@ description: A list of notable, influential and active players on the server.
 
 # 👥 Players
 
-* [Aytte](aytte.md)
-* [\_Bamson](bamson.md)
-* [\_Cosmic\_Waffles](cosmicwaffles.md)
-* [Frogzforlaifu](frogzforlaifu.md)
-* [Jipes\_](jipes.md)
-* [JustAVirus](justavirus.md)
-* [MineSkate1](mineskate.md)
-* [MigningSM](migningsm.md)
-* [Occypolojee](occypolojee.md)
-* [Redapo15](redapo15.md)
-* [communistraikia](communistraikia.md)
-* [SeeYouMan](seeyouman.md)
-* [Svardmastaren](svardmastaren.md)
-* [tigerhirsch](tigerhirsch.md)
-* [Volymskala](volymskala.md)
+Every player on the server, whether on this list or not, plays a valuable part in creating a friendly and accepting environment for everyone. Thanks to all the players for their efforts in creating this positive atmosphere.
 
+{% hint style="warning" %}
+If you for any reason would like your player profile removed or changed contact a Wiki collaborator.
+{% endhint %}
+
+{% hint style="danger" %}
+The list is not complete and there are many players that needs to be added.
+{% endhint %}
