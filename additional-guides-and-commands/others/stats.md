@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Stats
 
 \[PlayerStats] Top 10 Animals Bred
