@@ -8,7 +8,7 @@ Due to its grand landscapes, the Finland region has been the birthplace of numer
 * [Garvia](province-of-garvia/garvia/)
 * [Blobbenheim](blobbenheim.md)
 * [Normannburg](province-of-garvia/normannburg.md)
-* [Helsinki](helsinki.md)
+* [Helsinki](helsinki/)
 * Thornfield
 * [Inferno](inferno.md)
 * [Anhyi](anhyi.md)
