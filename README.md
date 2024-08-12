@@ -36,11 +36,10 @@ The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy a
 
 ***
 
-### Important information:
+### News
 
-* [Create and manage your town](new-players/towny-guide.md)
-* [Server rules](new-players/server-rules.md)
-* [How to make money](the-world/economy/make-money.md)
+* [The Lappland Fires](the-world/civilization/towns/finland-region/helsinki/the-lappland-fires.md)
+* [1.21 Patch 1.4.0](misc/changelog-updates/1.4-1.21-update/1.4.0-1.21-release.md)
 
 ***
 
@@ -52,10 +51,11 @@ The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy a
 
 ***
 
-### News
+### Important information:
 
-* [The Lappland Fires](the-world/civilization/towns/finland-region/helsinki/the-lappland-fires.md)
-* [1.21 Patch 1.4.0](misc/changelog-updates/1.4-1.21-update/1.4.0-1.21-release.md)
+* [Create and manage your town](new-players/towny-guide.md)
+* [Server rules](new-players/server-rules.md)
+* [How to make money](the-world/economy/make-money.md)
 
 {% hint style="info" %}
 This wiki is under constant construction. Please let our [**Collaborators** ](misc/personnel-list/)know if you find any wrong or missing information!
