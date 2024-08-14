@@ -33,7 +33,7 @@
         * [☑️ Normannburg](the-world/civilization/towns/finland-region/province-of-garvia/normannburg.md)
         * [☑️ Thornfield](the-world/civilization/towns/finland-region/province-of-garvia/thornfield.md)
       * [☑️ Helsinki](the-world/civilization/towns/finland-region/helsinki/README.md)
-        * [🔥 The Sápmi fires](the-world/civilization/towns/finland-region/helsinki/the-sapmi-fires.md)
+        * [🔥 The Sápmi forest fire](the-world/civilization/towns/finland-region/helsinki/the-sapmi-forest-fire.md)
       * [☑️ Sheepomen Town](the-world/civilization/towns/finland-region/sheepomen-town/README.md)
         * [🐔 The Bird](the-world/civilization/towns/finland-region/sheepomen-town/the-bird.md)
       * [Oulu](the-world/civilization/towns/finland-region/oulu.md)
