@@ -72,6 +72,7 @@
       * [☑️ Hiiumaa](the-world/civilization/towns/baltics-region/hiiumaa.md)
     * [🌎 Other Regions](the-world/civilization/towns/other-regions/README.md)
       * [🇳🇱 Amsterdam](the-world/civilization/towns/other-regions/amsterdam.md)
+      * [🐈 Neko No Kuni](the-world/civilization/towns/other-regions/neko-no-kuni.md)
       * [Atlantis](the-world/civilization/towns/other-regions/atlantis.md)
       * [Pickle](the-world/civilization/towns/other-regions/pickle.md)
       * [Reykjavik](the-world/civilization/towns/other-regions/reykjavik.md)
