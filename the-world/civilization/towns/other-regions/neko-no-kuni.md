@@ -14,4 +14,8 @@ Neko No Kuni is currently[^1] a part of [Constellation](../../nations/present-na
 
 The town quickly became a hub for embassies. On its first day, it had already established two embassies. The first embassy created was from [Garvia](../finland-region/province-of-garvia/garvia/) followed by an embassy from Holland.
 
+<figure><img src="../../../../.gitbook/assets/2024-08-14_17.15.14.png" alt=""><figcaption><p>The founding of the town</p></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/2024-08-15_18.51.12.png" alt=""><figcaption><p>The towns first embassy</p></figcaption></figure>
+
 [^1]: August 15, 2024
