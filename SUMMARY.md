@@ -273,3 +273,4 @@
     * [1.4.0 (1.21 Release)](misc/changelog-updates/1.4-1.21-update/1.4.0-1.21-release.md)
     * [1.4.1](misc/changelog-updates/1.4-1.21-update/1.4.1.md)
     * [1.4.1.2](misc/changelog-updates/1.4-1.21-update/1.4.1.2.md)
+    * [1.4.1.3](misc/changelog-updates/1.4-1.21-update/1.4.1.3.md)
