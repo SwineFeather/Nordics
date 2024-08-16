@@ -12,7 +12,7 @@ There are five levels of staff roles to distinguish staff members who have diffe
 
 #### Verified - <mark style="color:blue;">\[V]</mark>
 
-A Verified player acts as a trusted member of the community with the authority to kick players who are cheating or not complying with server rules. They serve as a lower-tier helper, stepping in when no other staff members are online.
+A Verified player acts as a trusted member of the community with the authority to kick players who are cheating or not complying with server rules. They serve as a lower-tier helper, stepping in when no other staff members are online. OG players are most likely to receive the Verified role.
 
 **Responsibilities include:**
 

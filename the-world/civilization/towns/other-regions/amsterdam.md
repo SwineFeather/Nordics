@@ -2,7 +2,7 @@
 description: Town
 ---
 
-# Holland
+# 🇳🇱 Holland
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p>Founded: Aug 14, 2024</p><p>Founder: <a href="../../players/nl_kommiedant.md">NL_Kommiedant</a><br>Mayor: <a href="../../players/nl_kommiedant.md">NL_Kommiedant</a><br></p></td></tr><tr><td><img src="../../../../.gitbook/assets/Holland.png" alt=""></td></tr><tr><td>Residents: 1</td></tr></tbody></table>
 

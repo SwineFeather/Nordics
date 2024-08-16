@@ -49,11 +49,32 @@ If you have a modification you want to use that is not on the list, ask first if
 
 #### **1.3 Technical Issues**&#x20;
 
-List of bugs that are allowed to be used. These bugs are allowed to be used because it is too difficult to control who is using them or because they do not noticeably negatively impact the server.
+**Examples of Unacceptable Exploits:**
 
-* Block bug, placing blocks in a place where you cannot place blocks, and thus being able to jump on them in the air.
-* Water bucket bug, placing water with a bucket where you should not be able to, and thus being able to stand in non-existent water.
-* Nether ceiling, it is not forbidden to get up on the ceiling (above level 128), but you die instantly because the area is declared void.
+1. **Unauthorized Commands:**
+   * **Example:** A `/heads` command was intended to be accessible only by certain ranks, but was discovered to be available to all players. Default players who exploited this command to gain decorative heads without permission are in violation of this rule.
+2. **World Border Exploitation:**
+   * **Example:** Due to a configuration error, the world border was set to generate terrain instead of void. Players who discovered and exploited this mistake by expanding into unintended terrain or accessing resources not meant to be available broke this rule.
+3. **Unintended Block and Water Placement:**
+   * **Example:** Players who exploit bugs allowing them to place blocks or water in areas where it should not be possible (e.g., mid-air block placements, standing in non-existent water) are not allowed to use these bugs for an advantage, even if they are known.
+4. **Nether Ceiling Access:**
+   * **Clarification:** While accessing the Nether ceiling (above Y-level 128) is not forbidden, it is treated as void, and players who survive or exploit this area by any means that bypass instant death will be penalized.
+
+**Bugs That Are Tolerated:**
+
+Some bugs are tolerated due to their minor impact or the difficulty in enforcing their prohibition:
+
+* **Block Placement Bugs:** Minor bugs allowing block placement in specific scenarios, such as placing blocks in the air or temporary block jumps, are tolerated because they do not significantly affect gameplay or server performance.
+* **Water Bucket Bugs:** Similarly, placing water in unintended places, such as creating temporary water sources in odd locations, is allowed if it does not give an unfair advantage.
+
+**Reporting and Compliance:**
+
+1. **Mandatory Reporting:** Any player who discovers a bug or unintended feature must report it to the server staff immediately. Failing to report such issues or continuing to use them will be considered an exploitation.
+2. **No Usage of Unreported Bugs:** If a bug or unintended feature is not publicly documented or known to the server staff, players must assume that its usage is prohibited until clarified otherwise. Exploiting any such unknown bug will lead to strict penalties.
+3. **Consequences of Exploitation:**
+   * **First Offense:** Players caught exploiting bugs or technical issues will face severe penalties, including item confiscation, temporary bans, or rank demotion, depending on the severity of the exploitation.
+   * **Repeat Offenses:** Repeated violations will result in permanent bans and possible rollback of affected areas.
+4. **Accountability:** This rule extends to the use of multiple accounts or accessing another player's account to exploit bugs or bypass penalties. Such actions will be treated as serious offenses and dealt with accordingly.
 
 1.4 **Multi-accounting**
 
