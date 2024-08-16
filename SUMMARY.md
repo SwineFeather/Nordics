@@ -55,7 +55,7 @@
           * [Magical Tower of friendship](the-world/civilization/towns/sweden-region/northstar/northstar-industries/magical-tower-of-friendship.md)
           * [Medieval IKEA](the-world/civilization/towns/sweden-region/northstar/northstar-industries/medieval-ikea.md)
         * [🔥 Northstar Forest Fire](the-world/civilization/towns/sweden-region/northstar/northstar-forest-fire.md)
-      * [Småstan/Knapplann](the-world/civilization/towns/sweden-region/smastan-knapplann.md)
+      * [Småstan](the-world/civilization/towns/sweden-region/smastan-knapplann.md)
       * [Mora](the-world/civilization/towns/sweden-region/mora.md)
     * [🇳🇴 Norway Region](the-world/civilization/towns/norway-region/README.md)
       * [☑️ Herrehus](the-world/civilization/towns/norway-region/herrehus.md)
