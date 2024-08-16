@@ -8,6 +8,27 @@ For social channels, game servers, and internet forums to function well, a group
 
 There are five levels of staff roles to distinguish staff members who have different areas of responsibility. The higher the rank, the greater the responsibility:
 
+
+
+#### Verified - <mark style="color:blue;">\[V]</mark>
+
+A Verified player acts as a trusted member of the community with the authority to kick players who are cheating or not complying with server rules. They serve as a lower-tier helper, stepping in when no other staff members are online.
+
+**Responsibilities include:**
+
+* Kicking players who are found cheating or breaking server rules when no staff are available.
+* Assisting in maintaining order within the server by ensuring players follow the rules.
+* Supporting other players with questions and basic issues, similar to a Helper, but with more limited authority.
+
+**Selection Criteria:**
+
+* The Verified role is granted by Admins to players who have proven themselves to be trustworthy and knowledgeable about the server rules.
+* Candidates for the Verified role are typically long-time players who have demonstrated their commitment to the community and a deep understanding of server operations.
+
+**Role Context:**
+
+* The Verified role is designed to ensure that even in the absence of higher-tier staff, there is always someone available to maintain the integrity of the server. Though their powers are limited, their presence helps uphold the server’s standards and provides a first line of defense against rule-breaking behavior.
+
 #### Helper - <mark style="color:blue;">**\[H]**</mark>
 
 A Helper supports new players and maintains order in the game's chat channel.
@@ -15,7 +36,7 @@ A Helper supports new players and maintains order in the game's chat channel.
 * Duties include warning and banning players who misbehave in the chat channel.
 * Their responsibility is limited to the global chat channel, not within towns or nations.
 * They should be able to assist players in answering questions about how the server functions.
-* Helpers generally do not handle rule violations.&#x20;
+* Helpers generally do not handle rule violations, but should report them.
 * They should also act as moderators to assist in events, conflict resolution, and rule infractions.
 
 Helpers usually do not handle rule violations outside the global chat. Still, they can occasionally intervene in serious rule infractions that harm the server or players if no moderators are present.
@@ -34,10 +55,9 @@ The moderator is Nordics most important function and is the server's universal t
 * Vote for new moderators.
 * Create activities and engage players with small events, competitions, or similar.
 * They may have specialist roles responsible for, for example, War, event constructions, Quests, World Building etc.
-* Provide support to mayors who need advanced help with the city.&#x20;
 * Write and contribute information to the Wiki and handle support cases.
 
-A moderator is also a regular player who can participate in building cities and coming up with things to do. A moderator can also be a mayor if they find time for it, however, without the help of moderator tools.
+A moderator is also a regular player who can participate in building towns and coming up with things to do. A moderator can also be a mayor if they find time for it, however, without the help of moderator tools.
 
 There are high demands for patience, insight, knowledge of commands and Minecraft, the ability to express oneself in text, and one must not be conflict-averse.
 
@@ -50,7 +70,6 @@ Administrators are moderators with greater responsibility and rights to ensure t
 * Support for mayors who need help with land and/or want to build advanced things or special buildings with functions that help or positively impact the server.
 * Support for Management-team in changing parts of the world.
 * Voting for new moderators and chat moderators.&#x20;
-* High proficiency in building techniques, design, and creativity.
 * Generally, have a good understanding of Minecraft blocks and building techniques, including redstone and logical functions.
 * Writing and contributing information to the Wiki.
 * Have the right to use and assign temporary permissions to players as needed to solve certain tasks.
@@ -69,6 +88,9 @@ The manager is a form of administrator who is part of the management group. The 
 * Together with the developers, drives the development of features and additions ("plugins")
 * Responsible for all information in the wiki.
 * The manager can make exceptions to current rules and practices when necessary.
+* Make sure the server stay alive for a very long time. Paying the server cost alone if necessary.
+
+**Ensuring Continuity:** If the Head Administrator/Manager is no longer able to fulfill their role, a new Head Administrator must be chosen through a vote, unless the server is capable of operating without one. This ensures that the server always has a guiding hand, safeguarding its future.
 
 A head administrator/chief administrator is ultimately responsible for the server's operations and functions. The head administrator has the final say in all major decisions or decisions tied to votes. The head administrator is chosen by the server owner and the management team. Therefore, it does not have to be the server owner who is ultimately responsible.
 

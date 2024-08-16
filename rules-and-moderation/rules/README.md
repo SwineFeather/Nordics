@@ -12,7 +12,7 @@ Disclaimer: The extent of penalties for rule violations will consider factors su
 
 **1.3 Exploiting Technical Issues:** Those who exploit obvious technical issues for their own or another player's advantage will be convicted of exploiting technical issues. This also applies to those active through another player account during a ban or suspension.
 
-**1.4 Multi-Accounting:** Those who exploit multiple accounts to generate in-game currency on the server will be convicted of multi-accounting.
+**1.4 Multi-Accounting:** Those who **exploit** multiple accounts to generate in-game currency on the server will be convicted of multi-accounting.
 
 ### 2. Behaviors
 

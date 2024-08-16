@@ -71,7 +71,7 @@
         * [🗽 Statue of Liberty](the-world/civilization/towns/baltics-region/superalko/statue-of-liberty.md)
       * [☑️ Hiiumaa](the-world/civilization/towns/baltics-region/hiiumaa.md)
     * [🌎 Other Regions](the-world/civilization/towns/other-regions/README.md)
-      * [Holland](the-world/civilization/towns/other-regions/amsterdam.md)
+      * [🇳🇱 Holland](the-world/civilization/towns/other-regions/amsterdam.md)
       * [🐈 Neko No Kuni](the-world/civilization/towns/other-regions/neko-no-kuni.md)
       * [Atlantis](the-world/civilization/towns/other-regions/atlantis.md)
       * [Pickle](the-world/civilization/towns/other-regions/pickle.md)
