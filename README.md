@@ -39,14 +39,15 @@ The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy a
 ### News
 
 * [The Sápmi Fires](the-world/civilization/towns/finland-region/helsinki/the-sapmi-forest-fire.md)
-* [1.21 Patch 1.4.0](misc/changelog-updates/1.4-1.21-update/1.4.0-1.21-release.md)
+* [Patch 1.4.1.3](misc/changelog-updates/1.4-1.21-update/1.4.1.3.md)
+* New town: [Neko Nu Kuni](the-world/civilization/towns/other-regions/neko-no-kuni.md)
 
 ***
 
 ### Interesting articles
 
 * [Town of Northstar](the-world/civilization/towns/sweden-region/northstar/)
-* Player profiles: [LordNovember](the-world/civilization/players/lordnovember.md)
+* [Northstar Forest Fire](the-world/civilization/towns/sweden-region/northstar/northstar-forest-fire.md)
 * [Nation of Constellation](the-world/civilization/nations/present-nations/constellation.md)
 
 ***
