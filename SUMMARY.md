@@ -121,6 +121,7 @@
     * [👤 Svardmastaren](the-world/civilization/players/svardmastaren.md)
     * [👤 Tigerhirsch](the-world/civilization/players/tigerhirsch.md)
     * [👤 Volymskala](the-world/civilization/players/volymskala.md)
+    * [👤 WhoKnew](the-world/civilization/players/whoknew.md)
 * [🪙 Economy](the-world/economy/README.md)
   * [Euro - the virtual currency](the-world/economy/euro-the-virtual-currency.md)
   * [Descriptive reasons](the-world/economy/descriptive-reasons.md)
