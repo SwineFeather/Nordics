@@ -1,2 +1,6 @@
-# ☑ Hiiumaa
+---
+hidden: true
+---
+
+# ☑️ Hiiumaa
 
