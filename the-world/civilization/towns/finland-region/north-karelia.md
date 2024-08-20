@@ -1,5 +1,6 @@
 ---
 description: Saukko505
+hidden: true
 ---
 
 # North Karelia
@@ -7,8 +8,6 @@ description: Saukko505
 ### Background
 
 Saukko505, Ylso, kinggammur, Rainbow\_12345, aftonman, Hannex1, xdAggzy
-
-
 
 ### History
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Esbjerg
 
 Founded by Tobiknut\

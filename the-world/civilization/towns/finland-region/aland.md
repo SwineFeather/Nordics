@@ -1,5 +1,6 @@
 ---
 description: 'Founder: kemoTii'
+hidden: true
 ---
 
 # Åland

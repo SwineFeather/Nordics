@@ -1,5 +1,6 @@
 ---
 description: 'Founder: Nordene'
+hidden: true
 ---
 
 # Åreborg
