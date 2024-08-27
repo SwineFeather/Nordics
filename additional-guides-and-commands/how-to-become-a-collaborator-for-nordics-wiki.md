@@ -1,4 +1,4 @@
-# ✏️ How to become a collaborator for Nordics wiki
+# How to become a collaborator for Nordics wiki
 
 We appreciate your interest in becoming a collaborator for our Nordics wiki! We welcome contributors who are passionate about the server and are willing to help us improve and expand our content. If you're interested in becoming a collaborator, here's how you can get started through GitHub:
 

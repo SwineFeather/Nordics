@@ -138,11 +138,12 @@
 
 ## 💻 Additional Guides & Commands
 
-* [✏️ How to become a collaborator for Nordics wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-nordics-wiki.md)
+* [Patreon/Supporter Benefits & Cosmetics](additional-guides-and-commands/cosmetics.md)
+* [How to become a collaborator for Nordics wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-nordics-wiki.md)
+* [Chat Emoticons](additional-guides-and-commands/chat-emoticons.md)
 * [Bounties](additional-guides-and-commands/bounties.md)
 * [Others](additional-guides-and-commands/others/README.md)
   * [PlanetMinecraft Posts](additional-guides-and-commands/others/planetminecraft-posts.md)
-  * [Chat Emoticons](additional-guides-and-commands/others/chat-emoticons.md)
   * [Stats](additional-guides-and-commands/others/stats.md)
   * [Server dates](additional-guides-and-commands/others/server-dates/README.md)
     * [September-23](additional-guides-and-commands/others/server-dates/september-23.md)
@@ -173,7 +174,6 @@
     * [🍥 Desert](additional-guides-and-commands/fishing-features/species-catergory/page-5.md)
     * [🌊 Ocean](additional-guides-and-commands/fishing-features/species-catergory/page-6.md)
     * [🍄 Mushroom](additional-guides-and-commands/fishing-features/species-catergory/mushroom.md)
-* [Patreon/Supporter Benefits & Cosmetics](additional-guides-and-commands/cosmetics.md)
 * [Other commands](additional-guides-and-commands/other-commands.md)
 
 ## ⁉️ Rules and Moderation

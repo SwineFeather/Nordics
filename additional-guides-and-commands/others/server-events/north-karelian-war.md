@@ -1,5 +1,6 @@
 ---
 description: September 23
+hidden: true
 ---
 
 # North Karelian war

@@ -2,6 +2,7 @@
 description: >-
   Feeling frustrated with unruly players? Take charge and set a bounty to uphold
   fairness.
+hidden: true
 ---
 
 # Bounties
