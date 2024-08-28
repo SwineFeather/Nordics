@@ -7,7 +7,7 @@ description: >-
 
 # Patreon/Supporter Benefits & Cosmetics
 
-**Minecraft Patron Benefits:**
+## **Minecraft Patron Benefits:**
 
 * When you become a Patron supporter, you gain access to exclusive cosmetics that are yours to keep forever. Each month, we refresh the pool of bonus cosmetics available to active supporters. Here’s how it works:
   * 🔒 **Permanent Cosmetics:** Once you become a supporter, any cosmetics in the current pool for your support tier are permanently added to your account. These are yours to keep even if you decide to stop supporting in the future.
@@ -61,28 +61,29 @@ As a token of our appreciation for your ongoing support, we’ve introduced a sp
 * **Kala** ![:kala:](https://cdn.discordapp.com/emojis/960537659846062210.webp?size=40\&quality=lossless)
   * `/hat` _(block in hand will appear as an hat)_
   * Access to turn **Item Frames invisible** (`/itf toggle`)
-  * `/nick`
+  * `/nick`**:** Allows you to change your in-game name with a `~` prefix.
+  * `/me`: Broadcast a narrative message about yourself in purple text for added style.
   * 🔒 Cosmetics:`/uc menu`
-    * 15% Discount on 🗝️Treasure Chests
-    * **Pets:** Piggy, Cow, Chick
+    * `15%` Discount on 🗝️Treasure Chests
+    * **Pets:** Piggy, Cow
     * **Particle Effects:** Snow footprints
-    * **Mounts:** Horse, Pig
+    * **Mounts:** Horse
 * **Fancy-Kala** ![:Kala\_Fancy:](https://cdn.discordapp.com/emojis/976579829950451802.webp?size=40\&quality=lossless)
   * All benefits of Kala.
   * Rename items with `/itemname` and change item lore with `/itemlore`.
   * 🔒 Cosmetics:`/uc menu`
-    * 20% Discount on 🗝️Treasure Chests
-    * **Pets:** Bee, Frog
+    * `20%` Discount on 🗝️Treasure Chests
+    * **Pets:** Frog
     * **Particle Effects:** Sring footprints, Rain Cloud, Notes
-    * **Mounts:** Horse, Pig
+    * **Mounts:** Donkey**,** Pig
 *   **Golden-Kala** ![:Kultakala:](https://cdn.discordapp.com/emojis/976582854890893322.webp?size=40\&quality=lossless)
 
     * All benefits of Fancy-Kala.
     * 🔒  Cosmetics:`/uc menu`
-      * 20% Discount on 🗝️Treasure Chests
+      * `25%` Discount on 🗝️Treasure Chests
       * **Pets:** Allay
-      * **Particle Effects:** Sring footprints, Rain Cloud, Notes
-      * **Mounts:** Horse, Pig
+      * **Particle Effects:** Divine Halo, Ender Aura
+      * **Mounts:** Ecologist Horse
     * ~~Access to decorative heads for decoration purposes (`/heads`)~~
 
     <div align="left">
@@ -91,11 +92,9 @@ As a token of our appreciation for your ongoing support, we’ve introduced a sp
 
     </div>
 
-    <div align="left">
+## Treasure Chests
 
-    <figure><img src="../.gitbook/assets/pets (1).gif" alt="" width="135"><figcaption></figcaption></figure>
-
-    </div>
+Treasure Chests are a premium feature available for 500 euros. When purchased, four chests will appear around you in-game. Right-click to open them and discover a variety of rewards, including any of the cosmetics listed on our site. These rewards range from common to rare items, giving you a chance to obtain exclusive cosmetics. Additionally, you can win in-game money, with amounts ranging from 40 euros to 200 euros.
 
 ## List of all Cosmetics:
 

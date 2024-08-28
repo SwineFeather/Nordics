@@ -138,7 +138,7 @@
 
 ## 💻 Additional Guides & Commands
 
-* [Patreon/Supporter Benefits & Cosmetics](additional-guides-and-commands/cosmetics.md)
+* [Patreon/Supporter Benefits & Cosmetics](additional-guides-and-commands/supporter.md)
 * [How to become a collaborator for Nordics wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-nordics-wiki.md)
 * [Chat Emoticons](additional-guides-and-commands/chat-emoticons.md)
 * [Bounties](additional-guides-and-commands/bounties.md)
