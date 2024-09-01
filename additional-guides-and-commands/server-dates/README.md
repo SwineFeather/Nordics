@@ -1,5 +1,6 @@
 ---
 description: Documented events each day.
+hidden: true
 ---
 
 # Server History Log
