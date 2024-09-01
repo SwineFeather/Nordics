@@ -2,7 +2,7 @@
 description: 'Founder & Mayor: CrispyChickes aka becomeacrab'
 ---
 
-# Småstan
+# ☑️ Småstan
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p>Founded: Oct 12, 2023</p><p>Re-Founded: Aug 15 2024</p><p>Founder: <a href="../../players/crispychickes.md">CrispyChickes</a></p><p>Mayor: <a href="../../players/crispychickes.md">CrispyChickes</a></p></td><td></td></tr><tr><td><a data-footnote-ref href="#user-content-fn-1"><em>This town has no flag yet.</em></a></td><td></td></tr><tr><td>Residents: 1</td><td></td></tr></tbody></table>
 
