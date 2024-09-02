@@ -171,7 +171,7 @@ Aquavale expands south with a new Shopping district.
 
 ### Aug 25:
 
-* North Sea League is formed, and a ceremony was held.
+* [North Sea League](../../the-world/civilization/nations/present-nations/north-sea-league.md) is formed, and a ceremony was held.
 
 ### Aug 26:
 
