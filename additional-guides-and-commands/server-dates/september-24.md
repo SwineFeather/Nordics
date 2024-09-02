@@ -1,4 +1,4 @@
-# September-24
+# ☑️ September-24
 
 ## September 2024
 
@@ -6,7 +6,17 @@
 
 ### Sep 1:
 
+* [SwineFeather ](../../misc/personnel-list/swinefeather.md)adds [Kållandsö ](../../the-world/civilization/towns/sweden-region/kallandso.md)to the Wiki and updates [Server History Log](./)
+  * Updated [North Sea League](../../the-world/civilization/nations/present-nations/north-sea-league.md) page.  "The Birth of North Sea League"
+  * Added logs
+
 ### Sep 2:
+
+* [SwineFeather ](../../misc/personnel-list/swinefeather.md)adds new [player profiles](../../the-world/civilization/players/) and updates [Civilization ](../../the-world/civilization/)pages.
+  * New page  [Golli](../../the-world/civilization/players/golli1432.md)[1432](../../the-world/civilization/players/golli1432.md)
+  * Updated Lundenwic & Copenhagen CoA on Dynmap
+  * Added [1.4.1.4](../../misc/changelog-updates/1.4-1.21-update/1.4.1.4.md)
+* Dynmap breaks, and we decide to do a full render of the entire map.
 
 ### Sep 3:
 

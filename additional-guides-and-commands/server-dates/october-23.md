@@ -34,7 +34,7 @@
 
 ### Oct 14:
 
-[Normannburg ](../../the-world/civilization/towns/finland-region/province-of-garvia/normannburg.md)was created. After that [Province of Garvia](../../the-world/civilization/towns/finland-region/province-of-garvia/).
+[Normannburg ](../../the-world/civilization/towns/finland-region/normannburg.md)was created. After that [Province of Garvia](broken-reference).
 
 ## Week 3 (Oct 15 - Oct 21):
 

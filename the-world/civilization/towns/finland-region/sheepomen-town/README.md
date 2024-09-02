@@ -2,11 +2,11 @@
 description: The Sheepomen Town was founded by Adamism1
 ---
 
-# ☑️ Sheepomen Town
+# Sheepomen Town
 
 _dont kill my sheep - Motto of Sheepomen Town_
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><p><strong>Founded:</strong> Feb 22 2024</p><p><strong>Founder &#x26; Mayor:</strong> Adamism1</p><p><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md">Constellation</a></p></td><td></td><td></td></tr><tr><td><img src="../../../../../.gitbook/assets/Sheepomen Town-banner.png" alt=""></td><td></td><td></td></tr><tr><td><strong>Region:</strong> <a href="../">Finland</a></td><td><strong>Residents:</strong> 1</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><p><strong>Founded:</strong> <a href="../../../../../additional-guides-and-commands/server-dates/february-24.md#feb-22">Feb 22 2024</a></p><p><strong>Founder &#x26; Mayor:</strong> Adamism1</p><p><strong>Member of</strong> <a href="../../../nations/present-nations/constellation.md">Constellation</a></p></td><td></td><td></td></tr><tr><td><img src="../../../../../.gitbook/assets/Sheepomen Town-banner.png" alt=""></td><td></td><td></td></tr><tr><td><strong>Region:</strong> <a href="../">Finland</a></td><td><strong>Residents:</strong> 1</td><td></td></tr></tbody></table>
 
 Sheepomen Town is a recently established town located beside one of the largest wheat fields on the server. One of the notable landmarks of Sheepomen Town is a structure named "the bird" which was constructed by Adamism1.
 

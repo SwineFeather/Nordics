@@ -12,6 +12,8 @@
 
 ### Nov 4:
 
+* [Helsinki ](../../the-world/civilization/towns/finland-region/helsinki/)was founded by [Fiskerguten](../../the-world/civilization/players/fiskerguten.md)
+
 ### Nov 5:
 
 ### Nov 6:
