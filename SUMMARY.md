@@ -144,6 +144,8 @@
 * [Patreon/Supporter Benefits & Cosmetics](additional-guides-and-commands/supporter.md)
 * [How to become a collaborator for Nordics wiki](additional-guides-and-commands/how-to-become-a-collaborator-for-nordics-wiki.md)
 * [Server History Log](additional-guides-and-commands/server-dates/README.md)
+  * [August-23](additional-guides-and-commands/server-dates/august-23.md)
+  * [🎆 Launch day, September 8th](additional-guides-and-commands/server-dates/launch-day-september-8th.md)
   * [September-23](additional-guides-and-commands/server-dates/september-23.md)
   * [October-23](additional-guides-and-commands/server-dates/october-23.md)
   * [November-23](additional-guides-and-commands/server-dates/november-23.md)

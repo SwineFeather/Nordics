@@ -25,7 +25,7 @@ layout:
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Aytte.png" alt=""><figcaption><p><a href="../../the-world/civilization/players/aytte.md">Aytte</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Aytte (1).png" alt=""><figcaption><p><a href="../../the-world/civilization/players/aytte.md">Aytte</a></p></figcaption></figure>
 
  
 

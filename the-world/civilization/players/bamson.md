@@ -4,7 +4,7 @@ description: Builder & architect
 
 # 👤 Bamson
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Registered:</strong> Sep 14, 2023</p><p><strong>Alias</strong>: _Bamson</p><p><strong>Nation</strong>: <a href="../nations/present-nations/constellation.md">Constellation</a></p><p><strong>Town</strong>: <a href="../towns/finland-region/garvia/">Garvia</a></p><p><strong>Occupation</strong>: Builder &#x26; Architect<br><strong>Supporter</strong>: <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line"><br><strong>Discord</strong>: bamson</p></td></tr><tr><td><img src="../../../.gitbook/assets/_Bamson-skin.png" alt="Bamson skin" data-size="original"></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Registered:</strong> Sep 14, 2023</p><p><strong>Alias</strong>: _Bamson</p><p><strong>Nation</strong>: <a href="../nations/present-nations/constellation.md">Constellation</a></p><p><strong>Town</strong>: <a href="../towns/finland-region/garvia/">Garvia</a></p><p><strong>Occupation</strong>: Builder &#x26; Architect<br><strong>Supporter</strong>: <img src="../../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"><br><strong>Discord</strong>: bamson</p></td></tr><tr><td><img src="../../../.gitbook/assets/_Bamson-skin.png" alt="Bamson skin" data-size="original"></td></tr></tbody></table>
 
 **2022 Nordics Server:**
 
