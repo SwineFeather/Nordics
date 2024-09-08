@@ -26,6 +26,8 @@
 
 ### Oct 10:
 
+* [Constellation ](../../the-world/civilization/nations/present-nations/constellation.md)is formed.
+
 ### Oct 11:
 
 ### Oct 12:

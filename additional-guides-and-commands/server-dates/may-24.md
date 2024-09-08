@@ -12,6 +12,8 @@
 
 ### May 4:
 
+* [Copenhagen ](../../the-world/civilization/towns/denmark-region/copenhagen.md)is founded by [Aytte](../../the-world/civilization/players/aytte.md)
+
 ### May 5:
 
 ### May 6:

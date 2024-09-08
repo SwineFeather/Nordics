@@ -151,6 +151,38 @@ But the highlight of Adamski\_1's journey came later when they **discovered diam
 
 <details>
 
+<summary>Aytte</summary>
+
+![](../../.gitbook/assets/Aytte.png)
+
+#### **Player: Aytte**
+
+* **Joined**: \[17:30:13]
+
+**Story:**
+
+Aytte was deeply involved in social interactions and coordination from the very start. Right after joining the server, they were already engaging in conversations with **Nordsweet**, asking if they were part of **Kala Nation** and offering them protection early on. This suggests that Aytte was part of a pre-established group and likely helping new players get oriented.
+
+Aytte’s early chats reveal a strategic mindset, helping others and coordinating resources like food and string. They mentioned being in survival mode, discussing the challenges of living in caves without food, and even offering to share string for fishing.
+
+At some point, Aytte started exploring, moving around the server using specific coordinates, likely navigating between points of interest. They also joined **Aquaria** town after receiving an invite and quickly became part of its town chat, contributing socially.
+
+Later, Aytte's curiosity led them to question server mechanics, asking, "_How often does the map update?_" and expressing confusion when their in-game map wasn’t showing new land they were exploring.
+
+**Key Interactions:**
+
+* **With Nordsweet**: Aytte was frequently in touch with **Nordsweet**, discussing survival strategies, sharing resources, and helping navigate the world.
+* **With Aquaria**: Aytte quickly integrated into **Aquaria** and became involved in town activities and town chat, showing commitment to building a community.
+
+**Notable Quotes:**
+
+* "_For protection early on, and then you can choose your own path :)_" — This reflects Aytte’s willingness to guide others.
+* "_Let me know if you find any string, I would like to fish._" — Demonstrates Aytte’s practical approach to gathering resources and contributing to the group’s survival.
+
+</details>
+
+<details>
+
 <summary>BOBB0</summary>
 
 ![](<../../.gitbook/assets/BOBB0 (1).png>)
@@ -200,38 +232,6 @@ Their time on the server during this session was brief, and after joining [**Kø
 **Summary:**
 
 **BennyL4V4** had a brief but meaningful start, quickly integrating into the town of [**København**](../../the-world/civilization/towns/denmark-region/copenhagen-1.md). Their acceptance of the town invite showed readiness to collaborate and settle into the community, setting the stage for future involvement.
-
-</details>
-
-<details>
-
-<summary>Aytte</summary>
-
-![](../../.gitbook/assets/Aytte.png)
-
-#### **Player: Aytte**
-
-* **Joined**: \[17:30:13]
-
-**Story:**
-
-Aytte was deeply involved in social interactions and coordination from the very start. Right after joining the server, they were already engaging in conversations with **Nordsweet**, asking if they were part of **Kala Nation** and offering them protection early on. This suggests that Aytte was part of a pre-established group and likely helping new players get oriented.
-
-Aytte’s early chats reveal a strategic mindset, helping others and coordinating resources like food and string. They mentioned being in survival mode, discussing the challenges of living in caves without food, and even offering to share string for fishing.
-
-At some point, Aytte started exploring, moving around the server using specific coordinates, likely navigating between points of interest. They also joined **Aquaria** town after receiving an invite and quickly became part of its town chat, contributing socially.
-
-Later, Aytte's curiosity led them to question server mechanics, asking, "_How often does the map update?_" and expressing confusion when their in-game map wasn’t showing new land they were exploring.
-
-**Key Interactions:**
-
-* **With Nordsweet**: Aytte was frequently in touch with **Nordsweet**, discussing survival strategies, sharing resources, and helping navigate the world.
-* **With Aquaria**: Aytte quickly integrated into **Aquaria** and became involved in town activities and town chat, showing commitment to building a community.
-
-**Notable Quotes:**
-
-* "_For protection early on, and then you can choose your own path :)_" — This reflects Aytte’s willingness to guide others.
-* "_Let me know if you find any string, I would like to fish._" — Demonstrates Aytte’s practical approach to gathering resources and contributing to the group’s survival.
 
 </details>
 

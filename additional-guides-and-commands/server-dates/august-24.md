@@ -79,6 +79,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 14:
 
+* [Oulu ](../../the-world/civilization/towns/finland-region/oulu.md)is founded once again, by ImpaledRektum.
 * [SwineFeather](../../misc/personnel-list/swinefeather.md) posts new #minecraft-updates
 
 <details>
@@ -126,11 +127,16 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 17:
 
+* Aquavale places an outpost right outside SuperAlko in protest of SuperAlko's outpost in Aquavale.
+
 ### Aug 18:
+
+* Ceremony for SeeYouMan's break from playing on the server.
+* Aquavale leaves Constellation
 
 ### Aug 19:
 
-* [MineSkate ](../../the-world/civilization/players/mineskate.md)founded a new town by the name of [Kållandsö ](../../the-world/civilization/towns/sweden-region/kallandso.md)in the Sweden region. With the intentions of creating a toll from travelers.
+* [MineSkate ](../../the-world/civilization/players/mineskate.md)founded a new town by the name of [Kållandsö ](../../the-world/civilization/towns/sweden-region/kallandso.md)in the Sweden region. With the intention of creating a toll from travelers.
 
 ### Aug 20:
 
@@ -182,6 +188,9 @@ Aquavale expands south with a new Shopping district.
 ### Aug 27:
 
 ### Aug 28:
+
+* Tatataat finishes his embassy in Normannburg.
+* [Femfe](../../the-world/civilization/players/mineskate.md) building tolls in [Kållandsö](../../the-world/civilization/towns/sweden-region/kallandso.md)
 
 ## Week 5 (Aug 29 - Aug 31):
 
