@@ -44,6 +44,8 @@
 
 ### Oct 16:
 
+* [Raika ](../../the-world/civilization/players/communistraikia.md)created [Hiiumaa](../../the-world/civilization/towns/baltics-region/hiiumaa.md)
+
 ### Oct 17:
 
 ### Oct 18:
@@ -75,5 +77,7 @@
 ### Oct 29:
 
 ### Oct 30:
+
+* [Raika ](../../the-world/civilization/players/communistraikia.md)expands [Hiiumaa ](../../the-world/civilization/towns/baltics-region/hiiumaa.md)with the help of [Occy](../../the-world/civilization/players/occypolojee.md)
 
 ### Oct 31:

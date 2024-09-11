@@ -8,7 +8,7 @@
 
 ### Aug 2:
 
-* [SwineFeather](../../misc/personnel-list/swinefeather.md) posts new #minecraft-updates
+* [SwineFeather](../../new-players/rules-and-moderation/personnel-list/swinefeather.md) posts new #minecraft-updates
 
 <details>
 
@@ -67,7 +67,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 </details>
 
-* [SwineFeather](../../misc/personnel-list/swinefeather.md) posts new #minecraft-updates
+* [SwineFeather](../../new-players/rules-and-moderation/personnel-list/swinefeather.md) posts new #minecraft-updates
 
 ### Aug 11:
 
@@ -80,7 +80,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 ### Aug 14:
 
 * [Oulu ](../../the-world/civilization/towns/finland-region/oulu.md)is founded once again, by ImpaledRektum.
-* [SwineFeather](../../misc/personnel-list/swinefeather.md) posts new #minecraft-updates
+* [SwineFeather](../../new-players/rules-and-moderation/personnel-list/swinefeather.md) posts new #minecraft-updates
 
 <details>
 
@@ -105,7 +105,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 16:
 
-* [SwineFeather](../../misc/personnel-list/swinefeather.md) posts new #minecraft-updates
+* [SwineFeather](../../new-players/rules-and-moderation/personnel-list/swinefeather.md) posts new #minecraft-updates
 
 <details>
 
@@ -153,7 +153,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 23:
 
-* [SwineFeather ](../../misc/personnel-list/swinefeather.md)posts new #minecraft-updates
+* [SwineFeather ](../../new-players/rules-and-moderation/personnel-list/swinefeather.md)posts new #minecraft-updates
 
 <details>
 
@@ -196,7 +196,7 @@ Aquavale expands south with a new Shopping district.
 
 ### Aug 29:
 
-* [SwineFeather ](../../misc/personnel-list/swinefeather.md)posts new #minecraft-updates
+* [SwineFeather ](../../new-players/rules-and-moderation/personnel-list/swinefeather.md)posts new #minecraft-updates
 
 <details>
 
@@ -240,5 +240,5 @@ Aug 30:
 * Aquavale changes its name to Aqua Commune, and a new banner/emblem is formed.
 * Golli and Raika continues building the Steampunk District.
 * mads1224 joins for the first time, and settles in Denmark.
-* [SwineFeather](../../misc/personnel-list/swinefeather.md) updated Towns in [Civilization](../../the-world/civilization/)
+* [SwineFeather](../../new-players/rules-and-moderation/personnel-list/swinefeather.md) updated Towns in [Civilization](../../the-world/civilization/)
 

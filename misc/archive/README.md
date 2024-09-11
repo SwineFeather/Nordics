@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Archive
 
 Internet Archive. Some dates are saved to the InternetArchive Wayback Machine website of the Dynmap. But it's very laggy and may crash.\

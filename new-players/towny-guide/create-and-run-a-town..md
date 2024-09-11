@@ -36,7 +36,7 @@ When you own a town, you can decide for yourself whether it should be open to ev
 It is good to have some friends who want to join when starting a new town, at least 3-4 people. Running a town completely alone is very time-consuming. If you have created a town, you must ensure that there is money in its town treasury. If you do not, there is a risk that the town cannot pay the national tax, which can result in the town going under.
 
 When you own a town, it comes with automatic responsibilities, mainly to ensure that you can pay for the town's expenses. For every plot your town has, there is a fee of €0.2 per plot and an additional €5 base cost.\
-The bigger the town, the more money you will need to gain from the members. One way is to set up taxes, read more about taxes [here](../economy/taxes/town-tax.md)
+The bigger the town, the more money you will need to gain from the members. One way is to set up taxes, read more about taxes [here](../../the-world/economy/other/taxes/town-tax.md)
 
 </details>
 

@@ -10,10 +10,10 @@ There are many ways to earn Euro, and often, only imagination (and the rules!) s
 
 * Sell items to other players.
 * Work for another player or for a town.&#x20;
-* ~~Vote on the server - a quick way to get 20 Euros daily (30 if you are a Patron).~~ [Read more](../../misc/archive/vote-for-the-server-get-payed.md)
+* ~~Vote on the server - a quick way to get 20 Euros daily (30 if you are a Patron).~~ [Read more](../../../misc/archive/vote-for-the-server-get-payed.md)
 * ~~Participate and win in competitions.~~
 * Fishing and selling the fish using `/sellfish all`
-* Selling Haybales with `/sell all` [Read more](make-money.md)
+* Selling Haybales with `/sell all` [Read more](./)
 * Killing Mobs
 
 #### Things one must pay for&#x20;

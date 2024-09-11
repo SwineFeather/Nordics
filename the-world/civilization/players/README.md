@@ -7,7 +7,7 @@ description: A list of notable, influential and active players on the server.
 Every player on the server, whether on this list or not, plays a valuable part in creating a friendly and accepting environment for everyone. Thanks to all the players for their efforts in creating this positive atmosphere.
 
 {% hint style="warning" %}
-If you for any reason would like your player profile removed or changed contact a Wiki [collaborator](../../../misc/personnel-list/#writers).
+If you for any reason would like your player profile removed or changed contact a Wiki [collaborator](../../../new-players/rules-and-moderation/personnel-list/#writers).
 {% endhint %}
 
 {% hint style="danger" %}

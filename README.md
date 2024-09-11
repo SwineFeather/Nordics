@@ -56,10 +56,10 @@ _Updated 2024-09-02_
 
 ### Important information:
 
-* [Create and manage your town](new-players/towny-guide.md)
-* [Server rules](new-players/server-rules.md)
-* [How to make money](the-world/economy/make-money.md)
+* [Create and manage your town](new-players/towny-guide/)
+* [Server rules](new-players/rules-and-moderation/server-rules.md)
+* [How to make money](the-world/economy/make-money/)
 
 {% hint style="info" %}
-This wiki is under constant construction. Please let our [**Collaborators** ](misc/personnel-list/)know if you find any wrong or missing information!
+This wiki is under constant construction. Please let our [**Collaborators** ](new-players/rules-and-moderation/personnel-list/)know if you find any wrong or missing information!
 {% endhint %}

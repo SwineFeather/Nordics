@@ -1,5 +1,6 @@
 ---
 description: Economy tab
+hidden: true
 ---
 
 # Vote for the server - get payed

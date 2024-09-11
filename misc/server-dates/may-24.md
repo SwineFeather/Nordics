@@ -44,6 +44,8 @@
 
 ### May 17:
 
+* [NL\_Kommiedant](../../the-world/civilization/players/nl\_kommiedant.md) joins for the first time.
+
 ### May 18:
 
 ### May 19:

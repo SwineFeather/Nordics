@@ -1,3 +1,7 @@
+---
+icon: hand-point-right
+---
+
 # Rules for Nordics
 
 Disclaimer: The extent of penalties for rule violations will consider factors such as the duration of the offence and the benefits gained. Individuals who have not extensively contravened the rules or derived significant advantages from their actions may receive less severe penalties.
