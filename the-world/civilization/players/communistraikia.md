@@ -14,7 +14,7 @@ description: Founder and Mayor of Hiiumaa
 
 ## Vision for Hiiumaa and Beyond
 
-Raika founded [Hiiumaa ](../towns/baltics-region/hiiumaa.md)on [October 16th, 2023](../../../misc/server-dates/october-23.md#oct-16), and quickly began expanding his town. By [October 30th](../../../misc/server-dates/october-23.md#oct-30), with help from Occypolojee, he connected Hiiumaa to Kesko’s capital, SuperAlko, and started building bridges from his base to nearby islands and the mainland in the Baltics. Raika's focus was always on growth and connections.
+Raika founded [Hiiumaa ](../towns/baltics-region/hiiumaa.md)on [October 16th, 2023](../../../server-dates/october-23.md#oct-16), and quickly began expanding his town. By [October 30th](../../../server-dates/october-23.md#oct-30), with help from Occypolojee, he connected Hiiumaa to Kesko’s capital, SuperAlko, and started building bridges from his base to nearby islands and the mainland in the Baltics. Raika's focus was always on growth and connections.
 
 <figure><img src="../../../.gitbook/assets/image (128).png" alt="" width="563"><figcaption></figcaption></figure>
 

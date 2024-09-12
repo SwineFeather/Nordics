@@ -11,6 +11,18 @@ Here, you’ll find monthly stats, historical lists, and the stories behind the 
 * [JustAVirus ](../civilization/players/justavirus.md)first player to reach 6969.69
 * Raika\_ first player to reach 10 000 on (date)
 
+## 2023
+
+### September
+
+### October
+
+### November
+
+### December
+
+## 2024
+
 ### September&#x20;
 
 As of September 11th 2024, Raika continues to dominate the economy with an impressive balance of **€9,775**, securing his place at the top of the leaderboard. Trailing behind him is Occypolojee, with a still remarkable **€7,891**, while JustAVirus follows in third place at **€6,969**. Players like Svardmastaren and tigerhirsch round out the top five, each contributing to the competitive financial landscape of the server. With Raika closing in on the elusive €10,000 mark, his relentless drive to accumulate wealth shows no signs of slowing down.
@@ -25,5 +37,11 @@ As of September 11th 2024, Raika continues to dominate the economy with an impre
 * **\_Bamson** - €1,775.51
 * **NL\_Kommiedant** - €1,775.10
 * **Triirii** - €1,665.40
+
+#### Baltop of the Week - W 37
+
+#### Baltop of the Week - W 38
+
+#### Baltop of the Week - W 39
 
 ### October

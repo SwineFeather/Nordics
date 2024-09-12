@@ -2,11 +2,11 @@
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Founder: <a href="../../players/mineskate.md">Femfe</a></td><td>Member of <a href="../../nations/present-nations/north-sea-league.md">North Sea League</a></td><td></td></tr><tr><td></td><td><img src="../../../../.gitbook/assets/Kållandsö.png" alt="" data-size="original"></td><td></td></tr><tr><td>Region: <a href="./">Sweden</a></td><td>Founded: <a href="../../../../misc/server-dates/august-24.md#aug-19">Aug 19 2024</a></td><td>Motto: " "</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Founder: <a href="../../players/mineskate.md">Femfe</a></td><td>Member of <a href="../../nations/present-nations/north-sea-league.md">North Sea League</a></td><td></td></tr><tr><td></td><td><img src="../../../../.gitbook/assets/Kållandsö.png" alt="" data-size="original"></td><td></td></tr><tr><td>Region: <a href="./">Sweden</a></td><td>Founded: <a href="../../../../server-dates/august-24.md#aug-19">Aug 19 2024</a></td><td>Motto: " "</td></tr></tbody></table>
 
 ## Background
 
-On [August 19th, 2024](../../../../misc/server-dates/august-24.md#aug-19), Femfe (also known as [MineSkate](../../players/mineskate.md)) founded the town of Kållandsö. \
+On [August 19th, 2024](../../../../server-dates/august-24.md#aug-19), Femfe (also known as [MineSkate](../../players/mineskate.md)) founded the town of Kållandsö. \
 Situated on the Kållandsö peninsula, this town takes advantage of the strategic location where the railway and Göta Canal cross paths. \
 Femfe, an experienced Garvian-native builder with works such as the Church of Garvia in his portfolio, saw the potential to create a toll point. \
 Months before the town was founded, the builder had already envisioned a magnificent castle, looking over the lake of Vänern, embodying the power and wealth that the toll point would bring. \

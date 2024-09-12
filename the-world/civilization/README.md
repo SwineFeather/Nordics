@@ -1,2 +1,6 @@
-# 🛖 Civilization
+---
+icon: people-roof
+---
+
+# Civilization
 

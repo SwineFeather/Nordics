@@ -1,2 +1,6 @@
-# 🪙 Economy
+---
+icon: chart-mixed
+---
+
+# Economy
 

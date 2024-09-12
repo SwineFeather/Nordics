@@ -40,7 +40,7 @@ The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy a
 
 _Updated 2024-09-02_
 
-* [Patch 1.4.1.](misc/changelog-updates/1.4-1.21-update/1.4.1.3.md)[4](misc/changelog-updates/1.4-1.21-update/1.4.1.4.md)
+* [Patch 1.4.1.](changelog-updates/1.4-1.21-update/1.4.1.3.md)[4](changelog-updates/1.4-1.21-update/1.4.1.4.md)
 * New town: [Lundenwic](the-world/civilization/towns/british-isles-region/lundenwic.md)
 * Player profile: [Golli1432](the-world/civilization/players/golli1432.md)
 
@@ -49,17 +49,17 @@ _Updated 2024-09-02_
 ### Interesting articles
 
 * [Town of Northstar](the-world/civilization/towns/sweden-region/northstar/)
-* [Northstar Forest Fire](the-world/civilization/towns/sweden-region/northstar/northstar-forest-fire.md)
-* [The Sápmi Fires](the-world/civilization/towns/finland-region/helsinki/the-sapmi-forest-fire.md)
+* [Northstar Forest Fire](server-events/terrain-incidents/northstar-forest-fire.md)
+* [The Sápmi Fires](server-events/terrain-incidents/the-sapmi-forest-fire.md)
 
 ***
 
 ### Important information:
 
-* [Create and manage your town](new-players/towny-guide/)
-* [Server rules](new-players/rules-and-moderation/server-rules.md)
+* [Create and manage your town](guides-and-commands/town-and-economy-guides/towny-guide/)
+* [Server rules](general-information/rules-and-moderation/server-rules.md)
 * [How to make money](the-world/economy/make-money/)
 
 {% hint style="info" %}
-This wiki is under constant construction. Please let our [**Collaborators** ](new-players/rules-and-moderation/personnel-list/)know if you find any wrong or missing information!
+This wiki is under constant construction. Please let our [**Collaborators** ](general-information/rules-and-moderation/personnel-list/)know if you find any wrong or missing information!
 {% endhint %}
