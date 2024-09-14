@@ -24,7 +24,7 @@ Below is a complete list of players who joined the server on launch day. Click o
 
 
 
-#### ![](../../.gitbook/assets/0\_Koto\_0.png)
+#### ![](../.gitbook/assets/0\_Koto\_0.png)
 
 #### **Player: 0\_Koto\_0**
 
@@ -59,7 +59,7 @@ Although no social interactions were recorded, 0\_Koto\_0 was clearly determined
 
 <summary>1_WK_1</summary>
 
-![](<../../.gitbook/assets/1\_WK\_1 (1).png>)
+![](<../.gitbook/assets/1\_WK\_1 (1).png>)
 
 #### **Player: 1\_WK\_1**
 
@@ -89,7 +89,7 @@ Overall, **1\_WK\_1** appeared to be deeply engaged in social and financial aspe
 
 <summary>2019s</summary>
 
-![](../../.gitbook/assets/2019s.png)
+![](../.gitbook/assets/2019s.png)
 
 #### **Player: 2019s**
 
@@ -118,7 +118,7 @@ Their activities suggest that they were focused on maximizing their resources, m
 
 <summary><strong>Adamski_1</strong></summary>
 
-<img src="../../.gitbook/assets/Adamski_1.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Adamski_1.png" alt="" data-size="original">
 
 #### **Player: Adamski\_1**
 
@@ -153,7 +153,7 @@ But the highlight of Adamski\_1's journey came later when they **discovered diam
 
 <summary>Aytte</summary>
 
-![](../../.gitbook/assets/Aytte.png)
+![](../.gitbook/assets/Aytte.png)
 
 #### **Player: Aytte**
 
@@ -185,7 +185,7 @@ Later, Aytte's curiosity led them to question server mechanics, asking, "_How of
 
 <summary>BOBB0</summary>
 
-![](<../../.gitbook/assets/BOBB0 (1).png>)
+![](<../.gitbook/assets/BOBB0 (1).png>)
 
 #### **Player: BOBB0**
 
@@ -212,7 +212,7 @@ They also used commands related to town information (`/t info`), indicating inte
 
 <summary>BennyL4V4</summary>
 
-![](../../.gitbook/assets/BennyL4V4.png)
+![](../.gitbook/assets/BennyL4V4.png)
 
 #### **Player: BennyL4V4**
 
@@ -222,16 +222,16 @@ They also used commands related to town information (`/t info`), indicating inte
 
 **BennyL4V4** had a focused approach upon joining the server. Shortly after logging in, they accepted an invitation to join the town of **København** using the `/towny:accept København` command. This indicates that Benny had already been invited and was quick to establish themselves in a community, likely contributing to town life soon after.
 
-Their time on the server during this session was brief, and after joining [**København**](../../the-world/civilization/towns/denmark-region/copenhagen-1.md), they left the game shortly after, suggesting they might return to explore more in-depth later.
+Their time on the server during this session was brief, and after joining [**København**](../the-world/civilization/towns/archived-towns/copenhagen.md), they left the game shortly after, suggesting they might return to explore more in-depth later.
 
 **Key Actions:**
 
-* Quickly joined the town [**København**](../../the-world/civilization/towns/denmark-region/copenhagen-1.md).
+* Quickly joined the town [**København**](../the-world/civilization/towns/archived-towns/copenhagen.md).
 * Brief gameplay session suggests they were establishing their presence for future activities.
 
 **Summary:**
 
-**BennyL4V4** had a brief but meaningful start, quickly integrating into the town of [**København**](../../the-world/civilization/towns/denmark-region/copenhagen-1.md). Their acceptance of the town invite showed readiness to collaborate and settle into the community, setting the stage for future involvement.
+**BennyL4V4** had a brief but meaningful start, quickly integrating into the town of [**København**](../the-world/civilization/towns/archived-towns/copenhagen.md). Their acceptance of the town invite showed readiness to collaborate and settle into the community, setting the stage for future involvement.
 
 </details>
 

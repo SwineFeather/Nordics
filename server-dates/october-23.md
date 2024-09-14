@@ -24,19 +24,23 @@
 
 ### Oct 9:
 
+* [Kesko Corporation](../the-world/civilization/nations/kesko-corporation.md) was formed.&#x20;
+
 ### Oct 10:
 
-* [Constellation ](../../the-world/civilization/nations/present-nations/constellation.md)is formed.
+* [Constellation ](../the-world/civilization/nations/constellation.md)was formed.
 
 ### Oct 11:
 
 ### Oct 12:
 
+* [Småstan ](../the-world/civilization/towns/smastan-knapplann.md)was founded by [CrispyChickes](../the-world/civilization/players/crispychickes.md)
+
 ### Oct 13:
 
 ### Oct 14:
 
-[Normannburg ](../../the-world/civilization/towns/finland-region/normannburg.md)was created.
+[Normannburg ](../the-world/civilization/towns/normannburg.md)was created.
 
 ## Week 3 (Oct 15 - Oct 21):
 
@@ -44,7 +48,7 @@
 
 ### Oct 16:
 
-* [Raika ](../../the-world/civilization/players/communistraikia.md)created [Hiiumaa](../../the-world/civilization/towns/baltics-region/hiiumaa.md)
+* [Raika ](../the-world/civilization/players/communistraikia.md)created [Hiiumaa](../the-world/civilization/towns/hiiumaa.md)
 
 ### Oct 17:
 
@@ -78,6 +82,6 @@
 
 ### Oct 30:
 
-* [Raika ](../../the-world/civilization/players/communistraikia.md)expands [Hiiumaa ](../../the-world/civilization/towns/baltics-region/hiiumaa.md)with the help of [Occy](../../the-world/civilization/players/occypolojee.md)
+* [Raika ](../the-world/civilization/players/communistraikia.md)expands [Hiiumaa ](../the-world/civilization/towns/hiiumaa.md)with the help of [Occy](../the-world/civilization/players/occypolojee.md)
 
 ### Oct 31:

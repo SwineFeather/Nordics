@@ -1,2 +1,0 @@
-# Absent Nations
-

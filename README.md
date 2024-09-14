@@ -41,14 +41,14 @@ The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy a
 _Updated 2024-09-02_
 
 * [Patch 1.4.1.](changelog-updates/1.4-1.21-update/1.4.1.3.md)[4](changelog-updates/1.4-1.21-update/1.4.1.4.md)
-* New town: [Lundenwic](the-world/civilization/towns/british-isles-region/lundenwic.md)
+* New town: [Lundenwic](the-world/civilization/towns/lundenwic.md)
 * Player profile: [Golli1432](the-world/civilization/players/golli1432.md)
 
 ***
 
 ### Interesting articles
 
-* [Town of Northstar](the-world/civilization/towns/sweden-region/northstar/)
+* [Town of Northstar](the-world/civilization/towns/northstar/)
 * [Northstar Forest Fire](server-events/terrain-incidents/northstar-forest-fire.md)
 * [The Sápmi Fires](server-events/terrain-incidents/the-sapmi-forest-fire.md)
 

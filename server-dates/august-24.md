@@ -75,12 +75,13 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 13:
 
-* The town of [Lundenwic](../the-world/civilization/towns/british-isles-region/lundenwic.md) is created in England.
+* The town of [Lundenwic](../the-world/civilization/towns/lundenwic.md) is created in England.
 
 ### Aug 14:
 
-* [Oulu ](../the-world/civilization/towns/finland-region/oulu.md)is founded once again, by ImpaledRektum.
+* [Oulu ](../the-world/civilization/towns/oulu.md)is founded once again, by ImpaledRektum.
 * [SwineFeather](../general-information/rules-and-moderation/personnel-list/swinefeather.md) posts new #minecraft-updates
+* [Neko No Kuni ](../the-world/civilization/towns/neko-no-kuni.md)was founded by [WhoKnew](../the-world/civilization/players/whoknew.md)
 
 <details>
 
@@ -104,6 +105,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 ### Aug 15:
 
 * [_Bamson_ ](../the-world/civilization/players/bamson.md)_added Neko No Kuni page_
+* [Småstan ](../the-world/civilization/towns/smastan-knapplann.md)was founded for the second time, by [CrispyChickes](../the-world/civilization/players/crispychickes.md)
 
 ### Aug 16:
 
@@ -141,13 +143,13 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 19:
 
-* [MineSkate ](../the-world/civilization/players/mineskate.md)founded a new town by the name of [Kållandsö ](../the-world/civilization/towns/sweden-region/kallandso.md)in the Sweden region. With the intention of creating a toll from travelers.
+* [MineSkate ](../the-world/civilization/players/mineskate.md)founded a new town by the name of [Kållandsö ](../the-world/civilization/towns/kallandso.md)in the Sweden region. With the intention of creating a toll from travelers.
 
 ### Aug 20:
 
-* [Golli ](../the-world/civilization/players/golli1432.md)expands [Normannburg ](../the-world/civilization/towns/finland-region/normannburg.md)north and makes more plots for new players.
+* [Golli ](../the-world/civilization/players/golli1432.md)expands [Normannburg ](../the-world/civilization/towns/normannburg.md)north and makes more plots for new players.
 * Town of Pringles is created in England.
-* [_Bamson_ ](../the-world/civilization/players/bamson.md)_updates_ [_SuperAlko_ ](../the-world/civilization/towns/baltics-region/superalko/)_page_
+* [_Bamson_ ](../the-world/civilization/players/bamson.md)_updates_ [_SuperAlko_ ](../the-world/civilization/towns/superalko/)_page_
   * _Hid Unfinished pages_
   * _Added_ [_WhoKnew_ ](../the-world/civilization/players/whoknew.md)_player profile_
 
@@ -185,7 +187,7 @@ Aquavale expands south with a new Shopping district.
 
 ### Aug 25:
 
-* [North Sea League](../the-world/civilization/nations/present-nations/north-sea-league.md) is formed, and a ceremony was held.
+* [North Sea League](../the-world/civilization/nations/north-sea-league.md) is formed, and a ceremony was held.
 
 ### Aug 26:
 
@@ -201,7 +203,7 @@ Aquavale expands south with a new Shopping district.
 ### Aug 28:
 
 * Tatataat finishes his embassy in Normannburg.
-* [Femfe](../the-world/civilization/players/mineskate.md) building tolls in [Kållandsö](../the-world/civilization/towns/sweden-region/kallandso.md)
+* [Femfe](../the-world/civilization/players/mineskate.md) building tolls in [Kållandsö](../the-world/civilization/towns/kallandso.md)
 * _SwineFeather updates Supporter Benefits page._
 
 ## Week 5 (Aug 29 - Aug 31):

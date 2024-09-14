@@ -5,9 +5,11 @@ description: >-
   Particles, item-frame,
 ---
 
-# Patreon/Supporter Benefits & Cosmetics
+# Supporter Perks & Cosmetics
 
 ## **Minecraft Patron Benefits:**
+
+[**https://www.patreon.com/nordics**](https://www.patreon.com/nordics)
 
 * When you become a Patron supporter, you gain access to exclusive cosmetics that are yours to keep forever. Each month, we refresh the pool of bonus cosmetics available to active supporters. Here’s how it works:
   * 🔒 **Permanent Cosmetics:** Once you become a supporter, any cosmetics in the current pool for your support tier are permanently added to your account. These are yours to keep even if you decide to stop supporting in the future.

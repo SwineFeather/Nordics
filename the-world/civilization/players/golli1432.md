@@ -2,7 +2,7 @@
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Registered</strong>: <a href="../../../server-dates/september-23.md#sep-24">Sep 24, 2023</a><br><strong>Alias</strong>: Golli1432<br><strong>Nation</strong>: <a href="../nations/present-nations/constellation.md">Constellation</a><br><strong>Town</strong>: <a href="../towns/finland-region/normannburg.md">Normannburg</a><br></td><td></td><td></td></tr><tr><td></td><td><img src="../../../.gitbook/assets/image (125).png" alt="" data-size="original"></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Registered</strong>: <a href="../../../server-dates/september-23.md#sep-24">Sep 24, 2023</a><br><strong>Alias</strong>: Golli1432<br><strong>Nation</strong>: <a href="../nations/constellation.md">Constellation</a><br><strong>Town</strong>: <a href="../towns/normannburg.md">Normannburg</a><br></td><td></td><td></td></tr><tr><td></td><td><img src="../../../.gitbook/assets/image (125).png" alt="" data-size="original"></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 ## Background
 

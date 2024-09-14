@@ -6,8 +6,8 @@
 
 ### Sep 1:
 
-* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)adds [Kållandsö ](../the-world/civilization/towns/sweden-region/kallandso.md)to the Wiki and updates [Server History Log](./)
-  * Updated [North Sea League](../the-world/civilization/nations/present-nations/north-sea-league.md) page.  "The Birth of North Sea League"
+* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)adds [Kållandsö ](../the-world/civilization/towns/kallandso.md)to the Wiki and updates [Server History Log](./)
+  * Updated [North Sea League](../the-world/civilization/nations/north-sea-league.md) page.  "The Birth of North Sea League"
   * Added logs
 
 ### Sep 2:
@@ -41,21 +41,21 @@
 ### Sep 8:
 
 * Town of Pringles is in ruins after lack of funds.
-* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)updates [Copenhagen ](../the-world/civilization/towns/denmark-region/copenhagen.md)page
-* [Normannburg ](../the-world/civilization/towns/finland-region/normannburg.md)has a new streak of residents joining, now hitting 20 res.
+* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)updates [Copenhagen ](../the-world/civilization/towns/copenhagen.md)page
+* [Normannburg ](../the-world/civilization/towns/normannburg.md)has a new streak of residents joining, now hitting 20 res.
   * [Golli](../the-world/civilization/players/golli1432.md) finishes his airship.
 
 ### Sep 9:
 
 ### Sep 10:
 
-* New district plan is made for [Copenhagen](../the-world/civilization/towns/denmark-region/copenhagen.md)
+* New district plan is made for [Copenhagen](../the-world/civilization/towns/copenhagen.md)
 * Redapo15 begins his pursuit in becoming one of the richest player on the server.
 
 ### Sep 11:
 
 * [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)"creates" new [Raika ](../the-world/civilization/players/communistraikia.md)page, and updates [NL\_Kommiedant](../the-world/civilization/players/nl\_kommiedant.md) _text_. Simplified and cleaned up the side tabs and added [Baltop ](../the-world/economy/baltop.md)page
-* [Femfe ](../the-world/civilization/players/mineskate.md)begins decorating and changing [Copenhagen](../the-world/civilization/towns/denmark-region/copenhagen.md)
+* [Femfe ](../the-world/civilization/players/mineskate.md)begins decorating and changing [Copenhagen](../the-world/civilization/towns/copenhagen.md)
 * ImpaledRektum finishes his church in Oulu.
 * Redapo15 climbs to the top 7 on baltop.
 
@@ -70,7 +70,15 @@
 
 ### Sep 13:
 
+* SwineFeather removes Dynmap and adds BlueMap.
+
 ### Sep 14:
+
+* SwineFeather integrates addons to BlueMap and makes changes.
+  * Changed towns Table of Content so its easier to link within BlueMap.
+  * Icon and name changes of towns
+  * Random Fixes
+  * Bumps PlanetMinecraft post.&#x20;
 
 ### <mark style="color:yellow;">Baltop of the Week - W 37 - 2024</mark>
 
