@@ -5,7 +5,7 @@ Due to its grand landscapes, the Finland region has been the birthplace of numer
 
 * [Muurmani](muurmanni.md)
 * [Aquaria](aquaria.md)
-* [Garvia](garvia/)
+* [Garvia](../garvia/)
 * [Blobbenheim](blobbenheim.md)
 * [Normannburg](normannburg.md)
 * [Helsinki](helsinki.md)

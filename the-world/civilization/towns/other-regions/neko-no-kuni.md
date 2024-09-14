@@ -12,7 +12,7 @@ Neko No Kuni was created on August 14, 2024, by \_WhoKnew\_ and Kjaerman. The to
 
 Neko No Kuni is currently[^1] a part of [Constellation](../../nations/present-nations/constellation.md) but seeks to form their nation in the future.
 
-The town quickly became a hub for embassies. On its first day, it had already established two embassies. The first embassy created was from [Garvia](../finland-region/garvia/) followed by an embassy from [Holland](amsterdam.md).
+The town quickly became a hub for embassies. On its first day, it had already established two embassies. The first embassy created was from [Garvia](../garvia/) followed by an embassy from [Holland](amsterdam.md).
 
 <figure><img src="../../../../.gitbook/assets/2024-08-14_17.15.14.png" alt=""><figcaption><p>The founding of the town</p></figcaption></figure>
 

@@ -191,7 +191,7 @@ Aquavale expands south with a new Shopping district.
 
 * [Migning ](../the-world/civilization/players/migningsm.md)accidentally made a setting which forced players to download the Simple Voice Chat, but was later fixed.
 * Aquavale is working on a new banner.
-* Jipes working on a voting system in [Aquavale](../the-world/civilization/towns/finland-region/aquavale.md).
+* Jipes working on a voting system in [Aquavale](../the-world/civilization/towns/aqua\_commune.md).
 * _SwineFeather updates NSL Coat of Arms on Dynmap_
 
 ### Aug 27:

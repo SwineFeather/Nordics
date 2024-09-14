@@ -59,7 +59,7 @@ Mending books were so scarce that they had significant value, and everyone in Aq
 
 ### Rebirth of Aquaria
 
-Currently serves as [Aquavale](aquavale.md)
+Currently serves as [Aquavale](../aqua\_commune.md)
 
 ## Politics
 

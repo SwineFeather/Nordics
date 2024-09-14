@@ -14,6 +14,6 @@ He also saw the possibilities of making the canal beautiful and the railway brid
 So, the castle was rapidly constructed, using the vast diorite deposits conveniently located beneath the peninsula, and a toll point on the canal and railway was established. \
 Not forgetting his goal of improving the canal and bridge, locks were put in place throughout the canal to facilitate boat travel between different water levels. The bridge received proper arched supports.&#x20;
 
-In a display of loyalty towards his hometown and province to [Garvia](../finland-region/garvia/), Femfe decided to adopt a flag mimicking that of the one belonging to the Church of Garvia (an angel imposed on a radiant sun), only with the colors changed to black and gold.
+In a display of loyalty towards his hometown and province to [Garvia](../garvia/), Femfe decided to adopt a flag mimicking that of the one belonging to the Church of Garvia (an angel imposed on a radiant sun), only with the colors changed to black and gold.
 
 In accordance to the mayor’s goals of improving infrastructure and working for the greater good of the Nordic world, Kållandsö would join the North Sea League.
