@@ -152,6 +152,7 @@
     * [Shop Discounts](guides-and-commands/town-and-economy-guides/shop-guide/shop-discounts.md)
     * [Other shop guides](guides-and-commands/town-and-economy-guides/shop-guide/other-shop-guides.md)
 * [Wiki Collaboration & Media](guides-and-commands/wiki-collaboration-and-media/README.md)
+  * [BlueMap, add Coat of Arms to town](guides-and-commands/wiki-collaboration-and-media/bluemap-add-coat-of-arms-to-town.md)
   * [Become a collaborator for the Wiki](guides-and-commands/wiki-collaboration-and-media/how-to-become-a-collaborator-for-nordics-wiki.md)
   * [Markers, Emblem & Increasing Borders](guides-and-commands/wiki-collaboration-and-media/markers-and-increasing-borders.md)
   * [Maps](guides-and-commands/wiki-collaboration-and-media/maps/README.md)
