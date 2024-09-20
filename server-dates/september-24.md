@@ -96,6 +96,14 @@
 
 ### Sep 20:
 
+* [SwineFeather](../general-information/rules-and-moderation/personnel-list/swinefeather.md): [1.4.1.5](../changelog-updates/1.4-1.21-update/1.4.1.5.md), host swap & Wiki/Visual Tools update.
+  * Migrated to Bloom.Host. Preperations were done the day before. Which can hopefully be viewed [Here](https://trello.com/c/fZ1R5z8J/71-server-host-swap-30)
+  * Lowered the Town upkeep, Enabled Nation-zones, Set a cap for outposts.
+  * Optimized The End world, from 9GB to 162MB
+  * capital\_bonus\_size: '2'
+  * Updated server to 1.21.1, and the plugins.
+  * Made the new page [Create BlueMap Markers](../guides-and-commands/wiki-and-visual-tools/bluemap/create-bluemap-markers.md)
+
 ### Sep 21:
 
 ## Week 4 (Sep 22 - Sep 28):
