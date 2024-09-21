@@ -1,8 +1,8 @@
 # 🗽 Statue of Liberty
 
-The statue is located on St.Petersburg island in [Finland Region](../archived-towns/finland-region/). It was planned and built by [Occypolojee](../../players/occypolojee.md). Planning started approximately on December 10th, the foundation building began approximately on December 14th and was completed on 24th of February 2024
+On St. Petersburg Island in the Finland Region stands a unique copper statue, the result of months of work by Occypolojee. The idea came to life around [**December 10th**](../../../../server-dates/december-23.md#dec-10), with the foundation set by **December 14th**, and after plenty of dedication, the statue was finished on [**February 24th, 2024**.](../../../../server-dates/february-24.md#feb-24)
 
-The statue is made up of 3372 copper blocks, which equals 52.7 stacks in total.
+What makes this statue special isn’t just its size, but the story behind it. Occypolojee spent countless hours mining the **3,372 copper blocks**—that’s **52.7 stacks**—needed to build it. He discovered that the best copper veins were found along the western coast of Norway, and much of the material came from those coastal mines. Now, the statue stands tall, a reflection of all the hard work and copper that went into it.
 
 <div>
 

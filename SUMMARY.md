@@ -184,8 +184,6 @@
 
 ## Events & News
 
-***
-
 * [Server Events](server-events/README.md)
   * [War & Conflicts](server-events/war-and-conflicts/README.md)
     * [Northstar captive](server-events/war-and-conflicts/northstar-captive.md)

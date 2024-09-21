@@ -38,9 +38,9 @@ The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy a
 
 ### News
 
-_Updated 2024-09-02_
+_Updated 2024-09-21_
 
-* [Patch 1.4.1.](changelog-updates/1.4-1.21-update/1.4.1.3.md)[4](changelog-updates/1.4-1.21-update/1.4.1.4.md)
+* [Statue of Liberty](the-world/civilization/towns/superalko/statue-of-liberty.md)
 * New town: [Lundenwic](the-world/civilization/towns/lundenwic.md)
 * Player profile: [Golli1432](the-world/civilization/players/golli1432.md)
 

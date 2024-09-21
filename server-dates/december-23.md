@@ -28,6 +28,8 @@
 
 ### Dec 10:
 
+* [Occypolojee ](../the-world/civilization/players/occypolojee.md)begins the [Statue of Liberty ](../the-world/civilization/towns/superalko/statue-of-liberty.md)project
+
 ### Dec 11:
 
 ### Dec 12:
