@@ -31,7 +31,7 @@
 
 **Discord announcements**
 
-<img src="../.gitbook/assets/Screenshot 2023-12-20 130054 (1).png" alt="" data-size="original"><img src="../.gitbook/assets/image (79).png" alt="" data-size="original"><img src="../.gitbook/assets/image (86).png" alt="" data-size="original"><img src="../.gitbook/assets/image (87).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Screenshot 2023-12-20 130054 (1).png" alt="" data-size="original"><img src="../.gitbook/assets/image (80).png" alt="" data-size="original"><img src="../.gitbook/assets/image (87).png" alt="" data-size="original"><img src="../.gitbook/assets/image (88).png" alt="" data-size="original">
 
 </details>
 
@@ -44,10 +44,10 @@
 * The first nation on the server is created [The Kingdom of Denmark](../the-world/civilization/nations/denmark.md)
 *
 
-    <figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 ### **Sep 11:**
 

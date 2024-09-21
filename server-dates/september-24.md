@@ -34,7 +34,7 @@
 ### Sep 7:
 
 * The hidden Turkey on the map was found by [NL\_Kommiedant ](../the-world/civilization/players/nl\_kommiedant.md)and [Occypolojee](../the-world/civilization/players/occypolojee.md).&#x20;
-  * [NL\_Kommiedant ](../the-world/civilization/players/nl\_kommiedant.md)claims the Turkey as an outpost ![](<../.gitbook/assets/image (126).png>)
+  * [NL\_Kommiedant ](../the-world/civilization/players/nl\_kommiedant.md)claims the Turkey as an outpost ![](<../.gitbook/assets/image (127).png>)
 
 ## Week 2 (Sep 8 - Sep 14):
 
@@ -66,7 +66,7 @@
 * Redapo climbs to top 6 on baltop
 * NL\_Kommiedant is working on a new expansion to her colonial empire.
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 ### Sep 13:
 

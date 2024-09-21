@@ -62,7 +62,7 @@
 
 * [Occypolojee ](../the-world/civilization/players/occypolojee.md)finish the [Statue of Liberty](../the-world/civilization/towns/superalko/statue-of-liberty.md).
 
-<figure><img src="../.gitbook/assets/image (96).png" alt="" width="249"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (97).png" alt="" width="249"><figcaption></figcaption></figure>
 
 ### Feb 25:
 

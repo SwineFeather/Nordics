@@ -42,11 +42,11 @@ description: List of all involved in server development
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/bamson.md">_Bamson</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/bamson.md">_Bamson</a></p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/svardmastaren.md">Svardmastaren</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (122).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/svardmastaren.md">Svardmastaren</a></p></figcaption></figure>
 
 </div>
 

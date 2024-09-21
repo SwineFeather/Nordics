@@ -4,7 +4,7 @@ description: Town
 
 # Lundenwic
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Founded</strong>: Aug 13 2024</p><p><strong>Founder</strong>: Tatataat</p><p><strong>Mayor</strong>: Tatataat</p></td></tr><tr><td><img src="../../../.gitbook/assets/image (124).png" alt="" data-size="original"></td></tr><tr><td><strong>Residents</strong>: 2</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Founded</strong>: Aug 13 2024</p><p><strong>Founder</strong>: Tatataat</p><p><strong>Mayor</strong>: Tatataat</p></td></tr><tr><td><img src="../../../.gitbook/assets/image (125).png" alt="" data-size="original"></td></tr><tr><td><strong>Residents</strong>: 2</td></tr></tbody></table>
 
 Lundenwic was created on August 13, 2024, by Tatataat. The town is situated on the eastern part of the [British Isles](archived-towns/british-isles-region/), with an outpost to the west.
 

@@ -10,7 +10,7 @@ The idea behind the building was to create an opportunity for travelers to rest 
 
 Not only does it have a function, but it's a welcoming sight for all travelers on their journey across the region.
 
-<figure><img src="../../../../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption><p>February 2024</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption><p>February 2024</p></figcaption></figure>
 
 <details>
 
@@ -20,6 +20,6 @@ Not only does it have a function, but it's a welcoming sight for all travelers o
 
 </details>
 
-<figure><img src="../../../../../../.gitbook/assets/2023-10-03_17.49.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2023-10-03_17.49.06.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/2023-10-03_17.39.15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/2023-10-03_17.39.15.png" alt=""><figcaption></figcaption></figure>

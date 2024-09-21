@@ -16,15 +16,15 @@ description: Founder and Mayor of Hiiumaa
 
 Raika founded [Hiiumaa ](../towns/hiiumaa.md)on [October 16th, 2023](../../../server-dates/october-23.md#oct-16), and quickly began expanding his town. By [October 30th](../../../server-dates/october-23.md#oct-30), with help from Occypolojee, he connected Hiiumaa to Kesko’s capital, SuperAlko, and started building bridges from his base to nearby islands and the mainland in the Baltics. Raika's focus was always on growth and connections.
 
-<figure><img src="../../../.gitbook/assets/image (128).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (129).png" alt="" width="563"><figcaption></figcaption></figure>
 
 In Hiiumaa, he built a lighthouse, a greenhouse, and several farms, creating a mix of useful and _visually appealing_ structures. Outside the town, Raika’s creativity shone through with larger projects. He constructed a massive airship near SuperAlko and, alongside [Occypolojee](occypolojee.md), started building a huge Kesko Corp sign made from obsidian, set in the middle of the ocean. He also scattered small outposts across the map, each marked by a simple hut.
 
-<figure><img src="../../../.gitbook/assets/image (127).png" alt="" width="293"><figcaption><p>Airship in SuperAlko</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (128).png" alt="" width="293"><figcaption><p>Airship in SuperAlko</p></figcaption></figure>
 
 Raika has also been instrumental in helping [**Golli1432** ](golli1432.md)with the development and expansion of [**Normannburg**](../towns/normannburg.md). Recently, he completed the Steam-Punk district to the west of the town, showcasing his unique style and building skills. In addition to his work within Normannburg, Raika established his own outpost to the north, where he built another impressive airship, accompanied by mining equipment on the ground. As of late September 2024, Raika continues to play a key role in Normannburg's growth
 
-<figure><img src="../../../.gitbook/assets/image (129).png" alt=""><figcaption><p>Project in Normannburg, Late September -24</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (130).png" alt=""><figcaption><p>Project in Normannburg, Late September -24</p></figcaption></figure>
 
 ## Financial Success
 

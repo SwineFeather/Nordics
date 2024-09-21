@@ -4,7 +4,7 @@ description: Builder & architect
 
 # 👤 Bamson
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Registered:</strong> Sep 14, 2023</p><p><strong>Alias</strong>: _Bamson</p><p><strong>Nation</strong>: <a href="../nations/constellation.md">Constellation</a></p><p><strong>Town</strong>: <a href="../towns/garvia/">Garvia</a></p><p><strong>Occupation</strong>: Builder &#x26; Architect<br><strong>Supporter</strong>: <img src="../../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"><br><strong>Discord</strong>: bamson</p></td></tr><tr><td><img src="../../../.gitbook/assets/_Bamson-skin.png" alt="Bamson skin" data-size="original"></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Registered:</strong> Sep 14, 2023</p><p><strong>Alias</strong>: _Bamson</p><p><strong>Nation</strong>: <a href="../nations/constellation.md">Constellation</a></p><p><strong>Town</strong>: <a href="../towns/garvia/">Garvia</a></p><p><strong>Occupation</strong>: Builder &#x26; Architect<br><strong>Supporter</strong>: <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="line"><br><strong>Discord</strong>: bamson</p></td></tr><tr><td><img src="../../../.gitbook/assets/_Bamson-skin.png" alt="Bamson skin" data-size="original"></td></tr></tbody></table>
 
 **2022 Nordics Server:**
 
@@ -28,8 +28,8 @@ In addition to these buildings, Bamson built the market, train station that was 
 
 February 2024, Bamson rebuilt two town buildings and continued with the Cometfall Crossroads, featuring The Blazeheart Forge.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Newer version</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Newer version</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>The Blazeheart Forge</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>The Blazeheart Forge</p></figcaption></figure>
 
 ***
