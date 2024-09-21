@@ -94,6 +94,8 @@
 
 ### Sep 19:
 
+* Golli1432 begins his towers in Normannburg
+
 ### Sep 20:
 
 * [SwineFeather](../general-information/rules-and-moderation/personnel-list/swinefeather.md): [1.4.1.5](../changelog-updates/1.4-1.21-update/1.4.1.5.md), host swap & Wiki/Visual Tools update.
@@ -103,8 +105,11 @@
   * capital\_bonus\_size: '2'
   * Updated server to 1.21.1, and the plugins.
   * Made the new page [Create BlueMap Markers](../guides-and-commands/wiki-and-visual-tools/bluemap/create-bluemap-markers.md)
+* Golli announces that his towers will feature as a market-place
 
 ### Sep 21:
+
+* Golli1432 gets the Helper role.
 
 ## Week 4 (Sep 22 - Sep 28):
 
