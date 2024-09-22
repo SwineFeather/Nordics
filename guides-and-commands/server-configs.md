@@ -33,11 +33,18 @@ As your town grows in population, its upkeep, title, and available plots will ch
 
 Nations also grow with resident numbers, offering **bonuses**, **titles**, and **upkeep discounts**. Here’s how nations progress based on population:
 
-<table data-header-hidden><thead><tr><th></th><th width="107"></th><th width="86"></th><th width="113"></th><th width="99"></th><th width="90"></th><th></th></tr></thead><tbody><tr><td><strong>Nation Level</strong></td><td><strong>Residents</strong></td><td><strong>Bonus Plots</strong></td><td><strong>Upkeep Modifier</strong></td><td><strong>Title Prefix</strong></td><td><strong>Title</strong></td><td><strong>Discount</strong></td></tr><tr><td><strong>Land of </strong><em><strong>Name</strong></em></td><td>0</td><td>10</td><td>1.0</td><td>Leader</td><td>Nation</td><td>0%</td></tr><tr><td><strong>Federation of </strong><em><strong>Name</strong></em></td><td>10</td><td>20</td><td>0.9</td><td>Count</td><td>Nation</td><td>10%</td></tr><tr><td><strong>Dominion of </strong><em><strong>Name</strong></em></td><td>20</td><td>40</td><td>0.86</td><td>Duke</td><td>Nation</td><td>14%</td></tr><tr><td><strong>Kingdom of </strong><em><strong>Name</strong></em></td><td>30</td><td>60</td><td>0.84</td><td>King</td><td>Nation</td><td>16%</td></tr><tr><td><strong>The </strong><em><strong>Name</strong></em><strong> Empire</strong></td><td>40</td><td>100</td><td>0.82</td><td>Emperor</td><td>Empire</td><td>18%</td></tr><tr><td><strong>The </strong><em><strong>Name</strong></em><strong> Realm</strong></td><td>60</td><td>140</td><td>0.80</td><td>God Emperor</td><td>Realm</td><td>20%</td></tr></tbody></table>
+| Nation Level         | Residents | Bonus Plots | Nation Zones | Upkeep Modifier | Title Prefix | Title  | Peaceful Cost Multiplier | Bonus Outpost Limit | Capital Bonus Outpost Limit | Discount (%) |
+| -------------------- | --------- | ----------- | ------------ | --------------- | ------------ | ------ | ------------------------ | ------------------- | --------------------------- | ------------ |
+| Land of _Name_       | 0         | 10          | 1            | 1.0             | Leader       | Nation | 1.0                      | 0                   | 0                           | 0%           |
+| Federation of _Name_ | 10        | 20          | 2            | 0.9             | Count        | Nation | 1.0                      | 1                   | 1                           | 10%          |
+| Dominion of _Name_   | 20        | 40          | 3            | 0.86            | Duke         | Nation | 1.1                      | 2                   | 2                           | 14%          |
+| Kingdom of _Name_    | 30        | 60          | 4            | 0.84            | King         | Nation | 1.15                     | 3                   | 2                           | 16%          |
+| The _Name_ Empire    | 40        | 100         | 5            | 0.82            | Emperor      | Empire | 1.2                      | 4                   | 3                           | 18%          |
+| The _Name_ Realm     | 60        | 140         | 6            | 0.80            | God Emperor  | Realm  | 1.3                      | 5                   | 3                           | 20%          |
 
 **Key Points:**
 
-* As nations grow, they gain **bonus plots** and an **upkeep discount**.
+* As nations grow, they gain **bonus plots** and an **upkeep discount which is both for the towns and the nation**.
 * **Title Prefixes** change with the nation’s size, from **Count** for smaller nations to **God Emperor** for the largest.
 * Nations with 60+ residents will benefit from the highest discount (20%).
 

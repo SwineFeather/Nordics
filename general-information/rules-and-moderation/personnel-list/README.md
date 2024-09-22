@@ -30,6 +30,8 @@ description: List of all involved in server development
 
 #### Helper/Chat Moderators
 
+<figure><img src="../../../.gitbook/assets/face.png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/golli1432.md">Golli1432</a></p></figcaption></figure>
+
 #### Media
 
 <div align="center" data-full-width="true">
@@ -40,15 +42,7 @@ description: List of all involved in server development
 
 #### **Writers**
 
-<div>
-
 <figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/bamson.md">_Bamson</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/image (122).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/svardmastaren.md">Svardmastaren</a></p></figcaption></figure>
-
-</div>
 
 ***
 
@@ -66,7 +60,7 @@ _Wiki writers_: [Bamson](../../../the-world/civilization/players/bamson.md), [Sv
 
 **MigningSM**: _Builder_ [_1.0_](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.0-1.0.15-after-release-patches)_, Developer from_ [_1.3.9_](../../../changelog-updates/1.3-1.3.8-economy-and-features/1.3.9.md)
 
-**SwineFeather:** _Management:_ _Updates_: [1.2](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.2-1.2.2-end-update) [1.3](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.3-1.3.8-economy-and-features)
+**SwineFeather:** _Management:_ _Updates_: [1.2](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.2-1.2.2-end-update) [1.3](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.3-1.3.8-economy-and-features) [1.4](../../../changelog-updates/1.4-1.21-update/1.4.0-1.21-release.md)
 
 #### _<mark style="color:red;">First server contributors</mark>_
 

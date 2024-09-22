@@ -111,9 +111,13 @@
 
 * Golli1432 gets the Helper role.
 
-## Week 4 (Sep 22 - Sep 28):
-
 ### Sep 22:
+
+* Fixed the issues with server Resourcepack, fishing and other plugins that were out of date. -SF
+* From `price_nation_upkeep: '0.1'` to `price_nation_upkeep: '0.07'`
+* `price_town_upkeep: '0.2'` to `price_town_upkeep: '0.12'`
+
+## Week 4 (Sep 22 - Sep 28):
 
 ### Sep 23:
 
