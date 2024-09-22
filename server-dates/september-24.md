@@ -92,9 +92,12 @@
 
 ### Sep 18:
 
+* Plans for new expansion in Copenhage begins, and new zones for buildings
+
 ### Sep 19:
 
 * Golli1432 begins his towers in Normannburg
+* Femfem begins expanding the landscape in Copenhagen
 
 ### Sep 20:
 
@@ -105,6 +108,7 @@
   * capital\_bonus\_size: '2'
   * Updated server to 1.21.1, and the plugins.
   * Made the new page [Create BlueMap Markers](../guides-and-commands/wiki-and-visual-tools/bluemap/create-bluemap-markers.md)
+  * Updated markers on BlueMap
 * Golli announces that his towers will feature as a market-place
 
 ### Sep 21:
@@ -116,6 +120,8 @@
 * Fixed the issues with server Resourcepack, fishing and other plugins that were out of date. -SF
 * From `price_nation_upkeep: '0.1'` to `price_nation_upkeep: '0.07'`
 * `price_town_upkeep: '0.2'` to `price_town_upkeep: '0.12'`
+* Removed the page about Simplified Rules, it doesn't make sense to have it as it might give off the wrong information -SF
+* Updated markers on BlueMap
 
 ## Week 4 (Sep 22 - Sep 28):
 

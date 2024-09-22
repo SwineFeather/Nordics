@@ -6,7 +6,6 @@
 
 * [Supporter Perks & Cosmetics](general-information/supporter.md)
 * [Rules and Moderation](general-information/rules-and-moderation/README.md)
-  * [Simplified rules](general-information/rules-and-moderation/server-rules.md)
   * [Rules for Nordics](general-information/rules-and-moderation/rules/README.md)
     * [Practice](general-information/rules-and-moderation/rules/practice/README.md)
       * [1. Cheating and Technical Issues](general-information/rules-and-moderation/rules/practice/cheating-and-technical-issues.md)

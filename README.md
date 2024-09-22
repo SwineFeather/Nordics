@@ -57,7 +57,7 @@ _Updated 2024-09-21_
 ### Important information:
 
 * [Create and manage your town](guides-and-commands/town-and-economy-guides/towny-guide/)
-* [Server rules](general-information/rules-and-moderation/server-rules.md)
+* [Server rules](broken-reference)
 * [How to make money](the-world/economy/make-money/)
 
 {% hint style="info" %}
