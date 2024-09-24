@@ -127,7 +127,12 @@
 
 ### Sep 23:
 
+* NL\_Kommiedant begins building on the new colonized island.
+
 ### Sep 24:
+
+* Fixed UltraCosmetics, now it's working, and no more bugs that cause crashes!
+* Recovered lost items with the accidental End reset.
 
 ### Sep 25:
 
