@@ -138,6 +138,9 @@
 
 ### Sep 26:
 
+* Added and released the update [1.4.1.5](../changelog-updates/1.4-1.21-update/1.4.1.5.md) -SF
+* FilipVandel, player from the start, joined for the first time in ages.
+
 ### Sep 27:
 
 ### Sep 28:

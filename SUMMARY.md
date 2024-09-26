@@ -284,5 +284,6 @@
     * [1.4.1.2](changelog-updates/1.4-1.21-update/1.4.1.2.md)
     * [1.4.1.3](changelog-updates/1.4-1.21-update/1.4.1.3.md)
     * [1.4.1.4](changelog-updates/1.4-1.21-update/1.4.1.4.md)
-    * [pre1.4.1.5](changelog-updates/1.4-1.21-update/1.4.1.5.md)
+    * [1.4.1.5](changelog-updates/1.4-1.21-update/1.4.1.5.md)
+    * [pre 1.4.1.6](events-and-news/changelog-updates/1.4-1.21-update/pre-1.4.1.6.md)
   * [1.5 (Fish Update 2) (Not Released)](changelog-updates/1.5-fish-update-2-not-released.md)

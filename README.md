@@ -26,7 +26,7 @@ layout:
 
 ### Quicklinks
 
-[Discord](https://discord.gg/nordics) \~ [Dynmap](http://135.125.177.79:3200) \~ [Patreon](https://www.patreon.com/nordics) \~ [PlanetMinecraft](https://www.planetminecraft.com/server/nordics-minecraft-server/)
+[Discord](https://discord.gg/nordics) \~ [BlueMap ](http://162.55.235.97:3200/#world:2999:0:8042:1500:0:0:0:0:perspective)\~ [Patreon](https://www.patreon.com/nordics) \~ [PlanetMinecraft](https://www.planetminecraft.com/server/nordics-minecraft-server/)
 
 ***
 
@@ -38,10 +38,10 @@ The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy a
 
 ### News
 
-_Updated 2024-09-21_
+_Updated 2024-09-26_
 
 * [Statue of Liberty](the-world/civilization/towns/superalko/statue-of-liberty.md)
-* New town: [Lundenwic](the-world/civilization/towns/lundenwic.md)
+* Patch: [1.4.1.5](changelog-updates/1.4-1.21-update/1.4.1.5.md)
 * Player profile: [Golli1432](the-world/civilization/players/golli1432.md)
 
 ***
@@ -57,7 +57,7 @@ _Updated 2024-09-21_
 ### Important information:
 
 * [Create and manage your town](guides-and-commands/town-and-economy-guides/towny-guide/)
-* [Server rules](broken-reference)
+* [Server rules](general-information/rules-and-moderation/rules/)
 * [How to make money](the-world/economy/make-money/)
 
 {% hint style="info" %}
