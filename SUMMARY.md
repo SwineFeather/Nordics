@@ -225,7 +225,7 @@
   * [June-24](server-dates/june-24.md)
   * [July-24](server-dates/july-24.md)
   * [August-24](server-dates/august-24.md)
-  * [☑️ September-24](server-dates/september-24.md)
+  * [September-24](server-dates/september-24.md)
   * [October-24](server-dates/october-24.md)
   * [November-24](server-dates/november-24.md)
   * [December-24](server-dates/december-24.md)

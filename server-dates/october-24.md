@@ -1,3 +1,7 @@
+---
+icon: angle-right
+---
+
 # October-24
 
 ## October 2024
@@ -16,6 +20,8 @@
 
 ### Oct 6:
 
+* North Sea League begins their new plan to make a capital city. And starts terraforming the base north of Copenhagen and west of Kållandsö
+
 ### Oct 7:
 
 ## Week 2 (Oct 8 - Oct 14):
@@ -26,7 +32,11 @@
 
 ### Oct 10:
 
+* NSL begins plan for the capitol in the new city.
+
 ### Oct 11:
+
+* Oulu begins the construction of their embassy in Normannburg
 
 ### Oct 12:
 

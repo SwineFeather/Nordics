@@ -1,4 +1,4 @@
-# ☑️ September-24
+# September-24
 
 ## September 2024
 
