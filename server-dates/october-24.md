@@ -42,7 +42,15 @@ icon: angle-right
 
 ### Oct 13:
 
+* Lechebarn joins for the first time since the start of the server September 8th. He began exploring everything that he missed since last time. He decided to settle in Jönköping.
+* Itz\_Thumbs joined for the first time.&#x20;
+
 ### Oct 14:
+
+* The town of DKK was founded by Itz\_Thumbs. South of Netherlands on an Island.
+* ![](<../.gitbook/assets/image (132).png>)
+* The player Voreskanal joined for the first time and joined the town of DKK, most likely a friend of Thumbs.
+* The player futtuluttu joined for the first time. And began making a farm east of Copenhagen.
 
 ## Week 3 (Oct 15 - Oct 21):
 
@@ -50,9 +58,18 @@ icon: angle-right
 
 ### Oct 16:
 
+* Road layout in the new upcoming town of NSL is completed.
+
 ### Oct 17:
 
+* Raika\_ continues the construction of the trade tower in Normannburg, almost complete.
+* SwineFeather changes the towny Towns and Nations config. New nation tiers and changed the number of residents per town tier. Check out Patchnote: **1.4.1.6** for more information.
+
 ### Oct 18:
+
+* SwineFeather did some server work.
+  * Fixed UltraCosmetics Error
+  * Upgraded the Towny marker icons on Bluemap, made the Ruins icon smaller and added Aquashore and Mora as a ruined town on the map.
 
 ### Oct 19:
 
