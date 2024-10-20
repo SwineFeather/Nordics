@@ -59,7 +59,3 @@ _Updated 2024-09-26_
 * [Create and manage your town](guides-and-commands/town-and-economy-guides/towny-guide/)
 * [Server rules](general-information/rules-and-moderation/rules/)
 * [How to make money](the-world/economy/make-money/)
-
-{% hint style="info" %}
-This wiki is under constant construction. Please let our [**Collaborators** ](general-information/rules-and-moderation/personnel-list/)know if you find any wrong or missing information!
-{% endhint %}

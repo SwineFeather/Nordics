@@ -28,7 +28,7 @@ Today, Garvia is the community where the players of the old Nordic Union server 
 * SeanMac00
 * [MineSkate1](../../players/mineskate.md)
 * BOBB0
-* [\_Bamson](../../players/bamson.md)
+* [\_Bamson](../../players/\_bamson.md)
 * gupr
 * alexxxandra
 * ElleGurra

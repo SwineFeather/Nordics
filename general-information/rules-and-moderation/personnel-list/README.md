@@ -42,13 +42,13 @@ description: List of all involved in server development
 
 #### **Writers**
 
-<figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/bamson.md">_Bamson</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/_bamson.md">_Bamson</a></p></figcaption></figure>
 
 ***
 
 ### <mark style="color:orange;">Notable Contributors</mark>
 
-_Wiki writers_: [Bamson](../../../the-world/civilization/players/bamson.md), [Svardmastaren](../../../the-world/civilization/players/svardmastaren.md)
+_Wiki writers_: [Bamson](../../../the-world/civilization/players/\_bamson.md), [Svardmastaren](../../../the-world/civilization/players/svardmastaren.md)
 
 **Kevork:** _Management:_ _Updates_: [1.0](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.0-1.0.15-after-release-patches) - [1.1](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.1-1.1.7-the-nether-update)
 
@@ -101,10 +101,10 @@ _Some contributors are missing due to lack of information_
 Past and present supporters
 
 **Golden Kala**<img src="../../../.gitbook/assets/GoldenKala (4).png" alt="" data-size="line">\
-[Occypolojee](../../../the-world/civilization/players/occypolojee.md), [communistraika](../../../the-world/civilization/players/communistraikia.md), [SwineFeather](swinefeather.md), TheCanadian/_David_
+[Occypolojee](../../../the-world/civilization/players/occypolojee.md), [communistraika](../../../the-world/civilization/players/raika\_.md), [SwineFeather](swinefeather.md), TheCanadian/_David_
 
 **Fancy Kala**<img src="../../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
-[CosmicWaffles](../../../the-world/civilization/players/cosmicwaffles.md), Jakeybobble, [Bamson](../../../the-world/civilization/players/bamson.md), [VPSwede](server-developers/vpswede.md), [Svardmastaren](../../../the-world/civilization/players/svardmastaren.md)
+[CosmicWaffles](../../../the-world/civilization/players/cosmicwaffles.md), Jakeybobble, [Bamson](../../../the-world/civilization/players/\_bamson.md), [VPSwede](server-developers/vpswede.md), [Svardmastaren](../../../the-world/civilization/players/svardmastaren.md)
 
 **Kala** <img src="../../../.gitbook/assets/Kala.png" alt="" data-size="line">\
 EiraHS, Cobwebblox, _Neighbor kid, Milkyway_
@@ -112,5 +112,5 @@ EiraHS, Cobwebblox, _Neighbor kid, Milkyway_
 ***
 
 {% hint style="warning" %}
-Are you not on the list and want to be added? Send a DM to [_SwineFeather_](swinefeather.md) _or_ [_Bamson_](../../../the-world/civilization/players/bamson.md)
+Are you not on the list and want to be added? Send a DM to [_SwineFeather_](swinefeather.md) _or_ [_Bamson_](../../../the-world/civilization/players/\_bamson.md)
 {% endhint %}

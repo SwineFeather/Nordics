@@ -54,7 +54,7 @@
 
 ### Sep 11:
 
-* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)"creates" new [Raika ](../the-world/civilization/players/communistraikia.md)page, and updates [NL\_Kommiedant](../the-world/civilization/players/nl\_kommiedant.md) _text_. Simplified and cleaned up the side tabs and added [Baltop ](../the-world/economy/baltop.md)page
+* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)"creates" new [Raika ](../the-world/civilization/players/raika\_.md)page, and updates [NL\_Kommiedant](../the-world/civilization/players/nl\_kommiedant.md) _text_. Simplified and cleaned up the side tabs and added [Baltop ](../the-world/economy/baltop.md)page
 * [Femfe ](../the-world/civilization/players/mineskate.md)begins decorating and changing [Copenhagen](../the-world/civilization/towns/copenhagen.md)
 * ImpaledRektum finishes his church in Oulu.
 * Redapo15 climbs to the top 7 on baltop.

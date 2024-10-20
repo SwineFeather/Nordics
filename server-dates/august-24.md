@@ -81,7 +81,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 * [Oulu ](../the-world/civilization/towns/oulu.md)is founded once again, by ImpaledRektum.
 * [SwineFeather](../general-information/rules-and-moderation/personnel-list/swinefeather.md) posts new #minecraft-updates
-* [Neko No Kuni ](../the-world/civilization/towns/neko-no-kuni.md)was founded by [WhoKnew](../the-world/civilization/players/whoknew.md)
+* [Neko No Kuni ](../the-world/civilization/towns/neko\_no\_kuni.md)was founded by [WhoKnew](../the-world/civilization/players/whoknew.md)
 
 <details>
 
@@ -104,8 +104,8 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 15:
 
-* [_Bamson_ ](../the-world/civilization/players/bamson.md)_added Neko No Kuni page_
-* [Småstan ](../the-world/civilization/towns/smastan-knapplann.md)was founded for the second time, by [CrispyChickes](../the-world/civilization/players/crispychickes.md)
+* [_Bamson_ ](../the-world/civilization/players/\_bamson.md)_added Neko No Kuni page_
+* [Småstan ](../the-world/civilization/towns/smastan.md)was founded for the second time, by [CrispyChickes](../the-world/civilization/players/crispychickes.md)
 
 ### Aug 16:
 
@@ -149,7 +149,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 * [Golli ](../the-world/civilization/players/golli1432.md)expands [Normannburg ](../the-world/civilization/towns/normannburg.md)north and makes more plots for new players.
 * Town of Pringles is created in England.
-* [_Bamson_ ](../the-world/civilization/players/bamson.md)_updates_ [_SuperAlko_ ](../the-world/civilization/towns/superalko/)_page_
+* [_Bamson_ ](../the-world/civilization/players/\_bamson.md)_updates_ [_SuperAlko_ ](../the-world/civilization/towns/superalko/)_page_
   * _Hid Unfinished pages_
   * _Added_ [_WhoKnew_ ](../the-world/civilization/players/whoknew.md)_player profile_
 

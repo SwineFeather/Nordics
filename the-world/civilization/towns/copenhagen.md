@@ -4,7 +4,7 @@
 
 ## Background
 
-Copenhagen was founded on May 4, 2024, by [Aytte](../players/aytte.md), following the fall of the old town of [København](archived-towns/copenhagen.md), which had been abandoned after its players stopped playing and its upkeep lapsed. For six months, [København](archived-towns/copenhagen.md) lay in ruins, until [LordNovember64 ](../players/lordnovember.md)decided to restore the town after griefers had destroyed most of its buildings. As the restoration progressed, Aytte recognized the importance of claiming the land to prevent further griefing, especially with the known threat of [raika\_ ](../players/communistraikia.md)targeting unclaimed areas.
+Copenhagen was founded on May 4, 2024, by [Aytte](../players/aytte.md), following the fall of the old town of [København](archived-towns/copenhagen.md), which had been abandoned after its players stopped playing and its upkeep lapsed. For six months, [København](archived-towns/copenhagen.md) lay in ruins, until [LordNovember64 ](../players/lordnovember.md)decided to restore the town after griefers had destroyed most of its buildings. As the restoration progressed, Aytte recognized the importance of claiming the land to prevent further griefing, especially with the known threat of [raika\_ ](../players/raika\_.md)targeting unclaimed areas.
 
 During the restoration, LordNovember64 built a flag to symbolize the town’s revival. With each phase of the reconstruction, the flag was raised higher, only reaching the top when the restoration was complete. Thanks to Aytte’s financial and material support, LordNovember was able to build three new town structures: the Altes Museum, Börsen, and a government building.
 
