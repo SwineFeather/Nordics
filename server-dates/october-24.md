@@ -47,7 +47,7 @@ icon: angle-right
 
 ### Oct 14:
 
-* The town of DKK was founded by Itz\_Thumbs. South of Netherlands on an Island.
+* Itz\_Thumbs founded the town of DKK. South of Netherlands on an Island.
 * ![](<../.gitbook/assets/image (132).png>)
 * The player Voreskanal joined for the first time and joined the town of DKK, most likely a friend of Thumbs.
 * The player futtuluttu joined for the first time. And began making a farm east of Copenhagen.
@@ -73,6 +73,8 @@ icon: angle-right
 
 ### Oct 19:
 
+* Player Aetzrak joined for the first time.
+
 ### Oct 20:
 
 ### Oct 21:
@@ -85,7 +87,14 @@ icon: angle-right
 
 ### Oct 24:
 
+* C.C.F.N was founded by Aetzrak.
+* Waltver joined for the first time and joined the town of Oulu
+
 ### Oct 25:
+
+* Minemestari1 joined for the first time and joined the town of Oulu
+  * Shortly after minemestari1 joined, the Oulu residents had a PvP battle.
+* VIKINGO0 joined for the first time
 
 ### Oct 26:
 
