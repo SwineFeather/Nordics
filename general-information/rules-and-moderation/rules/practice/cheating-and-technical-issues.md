@@ -78,4 +78,4 @@ Some bugs are tolerated due to their minor impact or the difficulty in enforcing
 
 1.4 **Multi-accounting**
 
-Generating money means logging into new accounts to use the starting cash 1the account receives. This also applies to voting. For example, you cannot vote with 3 different accounts and transfer the money from all 3 to your primary account.
+Generating money means logging into new accounts to use the starting cash on your main account.&#x20;

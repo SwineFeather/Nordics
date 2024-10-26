@@ -19,6 +19,7 @@
       * [To appeal or question a penalty](general-information/rules-and-moderation/rules/punishment/to-appeal-or-question-a-penalty.md)
       * [Use of x-ray](general-information/rules-and-moderation/rules/punishment/use-of-x-ray.md)
     * [Suspended indefinitely](general-information/rules-and-moderation/rules/suspended-indefinitely.md)
+  * [Bans](general-information/rules-and-moderation/bans.md)
   * [Server staff roles](general-information/rules-and-moderation/server-developer-roles.md)
   * [🌟 The Nordics Staff & Collaborators](general-information/rules-and-moderation/personnel-list/README.md)
     * [SwineFeather](general-information/rules-and-moderation/personnel-list/swinefeather.md)
