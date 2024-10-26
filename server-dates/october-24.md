@@ -99,6 +99,11 @@ icon: angle-right
 ### Oct 26:
 
 * Player Waltver became an outlaw in Oulu and kicked from Kesko Corp after killing and stealing LordNovember's items. "_**You're Now Declared An Outlaw And Kicked From Oulu, Next time you die you will be trapped in Kaupungintalo"**_
+* Player Waltver greifs 16 doublechests and combat loggs.
+* Player NYXXERIAC joins for the first time, but leaves shortly after.
+* SwineFeather adds new rules to the Rulebook
+  * Added the CombatlogX plugin
+  * Added the BountySeekers plugin
 
 ### Oct 27:
 

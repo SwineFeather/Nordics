@@ -12,7 +12,7 @@
       * [2. Behaviors](general-information/rules-and-moderation/rules/practice/behaviors.md)
       * [3. Communication](general-information/rules-and-moderation/rules/practice/communication.md)
       * [4. Buildings](general-information/rules-and-moderation/rules/practice/buildings.md)
-      * [5. Compensation in case of death](general-information/rules-and-moderation/rules/practice/compensation-in-case-of-death.md)
+      * [5.1 Compensation in case of death](general-information/rules-and-moderation/rules/practice/compensation-in-case-of-death.md)
     * [Management of violations](general-information/rules-and-moderation/rules/management-of-violations.md)
     * [Evidence, assessment and decision](general-information/rules-and-moderation/rules/evidence-assessment-and-decision.md)
     * [Punishment](general-information/rules-and-moderation/rules/punishment/README.md)
