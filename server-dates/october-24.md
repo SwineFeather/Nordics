@@ -98,6 +98,8 @@ icon: angle-right
 
 ### Oct 26:
 
+* Player Waltver became an outlaw in Oulu and kicked from Kesko Corp after killing and stealing LordNovember's items. "_**You're Now Declared An Outlaw And Kicked From Oulu, Next time you die you will be trapped in Kaupungintalo"**_
+
 ### Oct 27:
 
 ### Oct 28:
