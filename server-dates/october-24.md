@@ -107,6 +107,15 @@ icon: angle-right
 
 ### Oct 27:
 
+*
+* SwineFeather finished some Dev tasks
+  * Simplify the "bluemap hide" command. /bluemapplayercontrol:bmpc, now its /map hide
+  * Add a spawn-protection feature. When your game is loading, you cannot die. (I just died to a creeper while my game was loading :( )
+  * Add Bonusplots for Towns. (When a town is capped, and needs more space.)
+  * Added /help command
+  * Added /fish help command
+  * Chat-tips for new users
+
 ### Oct 28:
 
 ## Week 5 (Oct 29 - Oct 31):
