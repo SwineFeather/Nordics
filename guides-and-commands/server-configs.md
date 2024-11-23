@@ -48,3 +48,21 @@ Nations also grow with resident numbers, offering **bonuses**, **titles**, and *
 * **Title Prefixes** change with the nation’s size, from **Count** for smaller nations to **God Emperor** for the largest.
 * Nations with 60+ residents will benefit from the highest discount (20%).
 
+## CombatLog
+
+dShould players be prevented from flying during combat?
+
+## Default: true
+
+prevent-flying: true
+
+## If a players flight is deactivated by CombatLogX, should the plugin prevent them from taking fall damage?
+
+## The fall damage prevention only works once after flight is disabled.
+
+## Default: true
+
+prevent-fall-damage: true
+
+
+
