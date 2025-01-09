@@ -16,6 +16,8 @@
 
 ### Jan 6:
 
+Nation of North Sea League is founded once again.
+
 ### Jan 7:
 
 ## Week 2 (Jan 8 - Jan 14):

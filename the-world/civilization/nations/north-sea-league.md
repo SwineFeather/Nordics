@@ -8,8 +8,10 @@ As the server continued to grow and evolve, new towns began to emerge across sou
 
 These older nations were secretive, lacked community events, and were driven more by loans and individualism than by cooperation. In contrast, the towns around the North Sea valued transparency, mutual aid, and collective effort.
 
-Driven by a shared vision of unity and collaboration, the towns around the North Sea began discussing the formation of a new nation. [Neko No Kuni ](../towns/neko\_no\_kuni.md)was initially part of these discussions, but after the first meeting, they chose to step back from the process. The founding of the nation was thus left to the towns of [Copenhagen](../towns/archived-towns/copenhagen.md), [Herrehus](../towns/herrehus.md), [Kållandsö](../towns/kallandso.md), [Lundenwic](../towns/lundenwic.md), [Holland](../towns/holland.md) and [Småstan](../towns/smastan.md).
+Driven by a shared vision of unity and collaboration, the towns around the North Sea began discussing the formation of a new nation. [Neko No Kuni ](../towns/neko_no_kuni.md)was initially part of these discussions, but after the first meeting, they chose to step back from the process. The founding of the nation was thus left to the towns of [Copenhagen](../towns/archived-towns/copenhagen.md), [Herrehus](../towns/herrehus.md), [Kållandsö](../towns/kallandso.md), [Lundenwic](../towns/lundenwic.md), [Holland](../towns/holland.md) and [Småstan](../towns/smastan.md).
 
 A Discord server was quickly established to facilitate discussions on how to shape this new nation. Debates ensued over the nation’s direction, the design of its banner and Coat of Arms, and, most importantly, the name. After much deliberation, the name "North Sea League" was chosen, reflecting the shared interests and cooperative spirit of its founding towns.
 
 On August 25th, the nation was officially formed with a ceremony held at the Altes Museum in Copenhagen, marking the birth of the North Sea League—a union built on the principles of community, collaboration, and mutual support.
+
+On January 7th 2025, [C.C.F.N ](../towns/c.c.f.n.md)joined the nation.
