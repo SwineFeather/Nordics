@@ -54,7 +54,11 @@
 
 ### Dec 22:
 
+* Christmas even starts
+
 ### Dec 23:
+
+* Krakevik is founded
 
 ### Dec 24:
 
