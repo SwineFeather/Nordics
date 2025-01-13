@@ -23,7 +23,7 @@ Update ![🚀](https://ptb.discord.com/assets/0e0879f59b4d417e9324.svg) **Revive
   * **Code Types:**
   * **PLAYER\_ALL\_SHOPS:** Applied to all shops owned by the code creator.
   * **SPECIFIC\_SHOPS:** Applied to shops in an allow list added with /quickshop discount config \<code> addshop.
-  * **Apply Discount as buyer**: /quickshop discount install_/unistall_ \<code>
+  * **Apply Discount as buyer**: /quickshop discount instal&#x6C;_/unistall_ \<code>
 
 **Details**: /quickshop discount info Remove a discount code so players can’t use it: **Remove:** /quickshop discount remove \<code> To determine the best times for discount codes, use this timestamp converter to find the correct Unix time. For a more in-depth guide, visit: [Discount Guide](https://quickshop-community.github.io/QuickShop-Hikari-Documents/docs/addon/discount) **/qs finditem (item)**: View a menu of all items being sold or traded. /finditem still helps locate items in your storage. **/qs list:** View all shops you are selling in. **/qs name**: Name your shop for easier identification on Dynmap and other lists. **List of server shops:** Visit [this link](http://nordics.world:9435/server/Nordics/plugins/QuickShop-Hikari) to **view all shops on the server**. This site also includes server stats and player information. ![🏢](https://ptb.discord.com/assets/fed2f774272b341a8b7c.svg) **Quarters (Apartments for Towny):** Plot owners can now rent out specific areas or floors in a tower. Here’s how to manage your quarters:
 
@@ -79,9 +79,9 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 14:
 
-* [Oulu ](../the-world/civilization/towns/oulu.md)is founded once again, by ImpaledRektum.
+* [Oulu ](../the-world/civilization/towns/oulu-1.md)is founded once again, by ImpaledRektum.
 * [SwineFeather](../general-information/rules-and-moderation/personnel-list/swinefeather.md) posts new #minecraft-updates
-* [Neko No Kuni ](../the-world/civilization/towns/neko\_no\_kuni.md)was founded by [WhoKnew](../the-world/civilization/players/whoknew.md)
+* [Neko No Kuni ](../the-world/civilization/towns/neko_no_kuni.md)was founded by [WhoKnew](../the-world/civilization/players/whoknew.md)
 
 <details>
 
@@ -104,7 +104,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 15:
 
-* [_Bamson_ ](../the-world/civilization/players/\_bamson.md)_added Neko No Kuni page_
+* [_Bamson_ ](../the-world/civilization/players/_bamson.md)_added Neko No Kuni page_
 * [Småstan ](../the-world/civilization/towns/smastan.md)was founded for the second time, by [CrispyChickes](../the-world/civilization/players/crispychickes.md)
 
 ### Aug 16:
@@ -149,7 +149,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 * [Golli ](../the-world/civilization/players/golli1432.md)expands [Normannburg ](../the-world/civilization/towns/normannburg.md)north and makes more plots for new players.
 * Town of Pringles is created in England.
-* [_Bamson_ ](../the-world/civilization/players/\_bamson.md)_updates_ [_SuperAlko_ ](../the-world/civilization/towns/superalko/)_page_
+* [_Bamson_ ](../the-world/civilization/players/_bamson.md)_updates_ [_SuperAlko_ ](../the-world/civilization/towns/superalko/)_page_
   * _Hid Unfinished pages_
   * _Added_ [_WhoKnew_ ](../the-world/civilization/players/whoknew.md)_player profile_
 
@@ -193,7 +193,7 @@ Aquavale expands south with a new Shopping district.
 
 * [Migning ](../the-world/civilization/players/migningsm.md)accidentally made a setting which forced players to download the Simple Voice Chat, but was later fixed.
 * Aquavale is working on a new banner.
-* Jipes working on a voting system in [Aquavale](../the-world/civilization/towns/aqua\_commune.md).
+* Jipes working on a voting system in [Aquavale](../the-world/civilization/towns/aqua_commune.md).
 * _SwineFeather updates NSL Coat of Arms on Dynmap_
 
 ### Aug 27:

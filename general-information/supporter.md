@@ -77,7 +77,7 @@ As a token of our appreciation for your ongoing support, we’ve introduced a sp
     * `20%` Discount on 🗝️Treasure Chests
     * **Pets:** Frog
     * **Particle Effects:** Sring footprints, Rain Cloud, Notes
-    * **Mounts:** Donkey**,** Pig
+    * **Mounts:** Donke&#x79;**,** Pig
 *   **Golden-Kala** ![:Kultakala:](https://cdn.discordapp.com/emojis/976582854890893322.webp?size=40\&quality=lossless)
 
     * All benefits of Fancy-Kala.
@@ -88,11 +88,7 @@ As a token of our appreciation for your ongoing support, we’ve introduced a sp
       * **Mounts:** Ecologist Horse
     * ~~Access to decorative heads for decoration purposes (`/heads`)~~
 
-    <div align="left">
-
-    <figure><img src="../.gitbook/assets/particles.gif" alt="" width="135"><figcaption></figcaption></figure>
-
-    </div>
+    <div align="left"><figure><img src="../.gitbook/assets/particles.gif" alt="" width="135"><figcaption></figcaption></figure></div>
 
 ## Treasure Chests
 

@@ -23,15 +23,7 @@ layout:
 >
 > Although I currently work as a construction worker, I'm yearning towards transitioning into self-employment as a risky investment into the future.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/Aytte (1).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/aytte.md">Aytte</a></p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p>SwineFeather</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/Aytte (1).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/aytte/">Aytte</a></p></figcaption></figure> <figure><img src="../../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p>SwineFeather</p></figcaption></figure></div>
 
 Current fields
 

@@ -1,6 +1,10 @@
+---
+description: 'Last updated: Jan 13th 2025'
+---
+
 # North Sea League
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Government</strong>: <em>Aristocratic Oligarchy</em></td><td><strong>Leaders</strong>: </td><td><strong>Towns</strong>: <a href="../towns/copenhagen.md">Copenhagen</a>, <a href="../towns/herrehus.md">Herrehus</a>, <a href="../towns/holland.md">Holland</a>, <a href="../towns/lundenwic.md">Lundenwic</a>, <a href="../towns/kallandso.md">Kållandsö</a>, <a href="../towns/smastan.md">Småstan</a></td></tr><tr><td><img src="broken-reference" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region</strong>: <em>North Sea</em></td><td><strong>Population</strong>: <em>12</em></td><td><strong>Founded</strong>: <a href="../../../server-dates/august-24.md#aug-25">Aug 25, 2024</a><br><br><strong>Board</strong><em>: United by the North Sea, we commit to peace, prosperity, and collective growth. Join us in shaping a future built on strong communities and shared purpose.</em></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Government</strong>: <em>Aristocratic Oligarchy</em></td><td><strong>Leaders</strong>: </td><td><strong>Towns</strong>: <a href="../towns/copenhagen.md">Copenhagen</a>, <a href="../towns/herrehus.md">Herrehus</a>, <a href="../towns/holland.md">Holland</a>, <a href="../towns/lundenwic.md">Lundenwic</a>, <a href="../towns/kallandso.md">Kållandsö</a>, <a href="../towns/smastan.md">Småstan</a>, Krakevik, <a href="../towns/c.c.f.n.md">C.C.F.N</a>, Oulu</td></tr><tr><td><img src="../../../.gitbook/assets/North_Sea_League.png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region</strong>: <em>North Sea</em></td><td><strong>Population</strong>: 28</td><td><strong>Founded</strong>: <a href="../../../server-dates/august-24.md#aug-25">Aug 25, 2024</a><br><br><strong>Board</strong><em>: United by the North Sea, we commit to peace, prosperity, and collective growth. Join us in shaping a future built on strong communities and shared purpose.</em></td></tr></tbody></table>
 
 ## The Birth of North Sea League
 
@@ -15,3 +19,5 @@ A Discord server was quickly established to facilitate discussions on how to sha
 On August 25th, the nation was officially formed with a ceremony held at the Altes Museum in Copenhagen, marking the birth of the North Sea League—a union built on the principles of community, collaboration, and mutual support.
 
 On January 7th 2025, [C.C.F.N ](../towns/c.c.f.n.md)joined the nation.
+
+Oulu joins the nation on January 10th 2025?

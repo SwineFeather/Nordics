@@ -49,9 +49,13 @@ Nation of North Sea League is founded once again.
 * NL\_Kommiedant finished the foundation and design for the new NSL Central bank in Holland.
 * Linitist Joined Småstan. Davidrye joined Aquaria, but instantly joined Krakevik after realizing that his house was gone. Xavierr21 joins Oulu and hops along ImpaledRektum on his journey.
 * Joint effort by a couple players worked on the France project. Lots of dirt was bought from IKEA and from Garvia.
-* SCWatchesAnime aka SCWhoknewSimp joined for the first time, decided to join Kesko Corp.
+* SCWatchesAnime aka SCWhoknewSimp joined for the first time, decided to join Kesko Corp
+* DavidRye begins his farms South of Krakevik.
 
 ### Jan 13:
+
+* Killing event occurred: Mathias\_ash entered a battle with RiverPens, RiverPens leaves the battle and dies. In revenge, NSL kills Mathias and Kesko invites him to the Nation. Now in revenge from Kesko, they end up killing NL\_Kommiedant.
+* SwineFeather updated Town/Nation pages and Timelog.
 
 ### Jan 14:
 

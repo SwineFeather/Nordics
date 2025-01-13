@@ -43,7 +43,7 @@ Helpers usually do not handle rule violations outside the global chat. Still, th
 
 Being a Helper is typically an entry-level role for those who have applied to become a moderator on the server. It requires the ability to express oneself to other players in text. One must not be afraid of conflicts, feel responsible for the chat, and be able to assist players with simpler problems easily.
 
-#### **Moderator - **<mark style="color:blue;">**\[M]**</mark>&#x20;
+#### **Moderator -&#x20;**<mark style="color:blue;">**\[M]**</mark>&#x20;
 
 The moderator is Nordics most important function and is the server's universal tool that should be able to handle most tasks. The duties are many, and here are some examples.
 
@@ -61,7 +61,7 @@ A moderator is also a regular player who can participate in building towns and c
 
 There are high demands for patience, insight, knowledge of commands and Minecraft, the ability to express oneself in text, and one must not be conflict-averse.
 
-#### **Administrator - **<mark style="color:blue;">**\[A]**</mark>
+#### **Administrator -&#x20;**<mark style="color:blue;">**\[A]**</mark>
 
 Administrators are moderators with greater responsibility and rights to ensure that the world is in good condition, functions and places are operational, and to be able to own certain projects.
 
@@ -74,9 +74,9 @@ Administrators are moderators with greater responsibility and rights to ensure t
 * Writing and contributing information to the Wiki.
 * Have the right to use and assign temporary permissions to players as needed to solve certain tasks.
 
-Administrators can be regular players. However_, alternative accounts are suggested_. They can have cities and engage in trade, but not with the help of rights that come with their rank. All gaming MUST be conducted under the same conditions as regular players. They can help regular players with various construction or demolition, but only in survival mode.
+Administrators can be regular players. Howeve&#x72;_, alternative accounts are suggested_. They can have cities and engage in trade, but not with the help of rights that come with their rank. All gaming MUST be conducted under the same conditions as regular players. They can help regular players with various construction or demolition, but only in survival mode.
 
-#### **Management - **<mark style="color:red;">**\[A]**</mark>
+#### **Management -&#x20;**<mark style="color:red;">**\[A]**</mark>
 
 The manager is a form of administrator who is part of the management group. The manager is responsible for the entire server.
 

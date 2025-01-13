@@ -12,7 +12,7 @@
 
 ### May 4:
 
-* [Copenhagen ](../the-world/civilization/towns/copenhagen.md)is founded by [Aytte](../the-world/civilization/players/aytte.md)
+* [Copenhagen ](../the-world/civilization/towns/copenhagen.md)is founded by [Aytte](../the-world/civilization/players/aytte/)
 
 ### May 5:
 
@@ -44,7 +44,7 @@
 
 ### May 17:
 
-* [NL\_Kommiedant](../the-world/civilization/players/nl\_kommiedant.md) joins for the first time.
+* [NL\_Kommiedant](../the-world/civilization/players/nl_kommiedant.md) joins for the first time.
 
 ### May 18:
 
