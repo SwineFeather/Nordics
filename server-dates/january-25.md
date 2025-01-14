@@ -59,6 +59,11 @@ Nation of North Sea League is founded once again.
 
 ### Jan 14:
 
+* [Xavierr21](https://wiki.nordics.world/the-world/civilization/players/Xavierr21) forms the town [Wavecrest ](https://wiki.nordics.world/the-world/civilization/towns/Wavecrest)after Aytte helps him with the Nether-Highway and making a portal to the most North-East Island on the world. He did not have funding, so NL\_Kommiedant the CEO of the Bank in Holland brought funding to the town. After forming the town Wavecrest joined the NSL.&#x20;
+  * Aytte helped burn down bushes and trees on the island. 90% of the island was covered with bushes.
+* Småstan continues its growth, with Kommiedant, Aytte and Lintist building their houses
+  * Linitist joins Småstan.
+
 ## Week 3 (Jan 15 - Jan 21):
 
 ### Jan 15:
