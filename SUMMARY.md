@@ -35,7 +35,7 @@
   * [Nations](the-world/civilization/nations/README.md)
     * [Constellation](the-world/civilization/nations/constellation.md)
     * [Kesko Corporation](the-world/civilization/nations/kesko-corporation.md)
-    * [North Sea League](the-world/civilization/nations/north-sea-league.md)
+    * [North Sea League](the-world/civilization/nations/north_sea_league.md)
     * [Denmark](the-world/civilization/nations/denmark.md)
     * [Kala](the-world/civilization/nations/kala.md)
     * [Atlantian Imperium](the-world/civilization/nations/atlantian-imperium.md)

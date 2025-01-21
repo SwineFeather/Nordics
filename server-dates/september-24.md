@@ -7,7 +7,7 @@
 ### Sep 1:
 
 * [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)adds [Kållandsö ](../the-world/civilization/towns/kallandso.md)to the Wiki and updates [Server History Log](./)
-  * Updated [North Sea League](../the-world/civilization/nations/north-sea-league.md) page.  "The Birth of North Sea League"
+  * Updated [North Sea League](../the-world/civilization/nations/north_sea_league.md) page.  "The Birth of North Sea League"
   * Added logs
 
 ### Sep 2:
@@ -33,8 +33,8 @@
 
 ### Sep 7:
 
-* The hidden Turkey on the map was found by [NL\_Kommiedant ](../the-world/civilization/players/nl\_kommiedant.md)and [Occypolojee](../the-world/civilization/players/occypolojee.md).&#x20;
-  * [NL\_Kommiedant ](../the-world/civilization/players/nl\_kommiedant.md)claims the Turkey as an outpost ![](<../.gitbook/assets/image (127).png>)
+* The hidden Turkey on the map was found by [NL\_Kommiedant ](../the-world/civilization/players/nl_kommiedant.md)and [Occypolojee](../the-world/civilization/players/occypolojee.md).&#x20;
+  * [NL\_Kommiedant ](../the-world/civilization/players/nl_kommiedant.md)claims the Turkey as an outpost ![](<../.gitbook/assets/image (127).png>)
 
 ## Week 2 (Sep 8 - Sep 14):
 
@@ -54,7 +54,7 @@
 
 ### Sep 11:
 
-* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)"creates" new [Raika ](../the-world/civilization/players/raika\_.md)page, and updates [NL\_Kommiedant](../the-world/civilization/players/nl\_kommiedant.md) _text_. Simplified and cleaned up the side tabs and added [Baltop ](../the-world/economy/baltop.md)page
+* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)"creates" new [Raika ](../the-world/civilization/players/raika_.md)page, and updates [NL\_Kommiedant](../the-world/civilization/players/nl_kommiedant.md) _text_. Simplified and cleaned up the side tabs and added [Baltop ](../the-world/economy/baltop.md)page
 * [Femfe ](../the-world/civilization/players/mineskate.md)begins decorating and changing [Copenhagen](../the-world/civilization/towns/copenhagen.md)
 * ImpaledRektum finishes his church in Oulu.
 * Redapo15 climbs to the top 7 on baltop.

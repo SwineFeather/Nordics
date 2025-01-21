@@ -2,7 +2,7 @@
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Founder: <a href="../players/mineskate.md">Femfe</a></td><td>Member of <a href="../nations/north-sea-league.md">North Sea League</a></td><td></td></tr><tr><td><img src="../../../.gitbook/assets/Kållandsö.png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td>Region: <a href="archived-towns/sweden-region.md">Sweden</a></td><td>Founded: <a href="../../../server-dates/august-24.md#aug-19">Aug 19 2024</a></td><td>Motto: " "</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Founder: <a href="../players/mineskate.md">Femfe</a></td><td>Member of <a href="../nations/north_sea_league.md">North Sea League</a></td><td></td></tr><tr><td><img src="../../../.gitbook/assets/Kållandsö.png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td>Region: <a href="archived-towns/sweden-region.md">Sweden</a></td><td>Founded: <a href="../../../server-dates/august-24.md#aug-19">Aug 19 2024</a></td><td>Motto: " "</td></tr></tbody></table>
 
 ## Background
 
