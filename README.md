@@ -1,61 +1,18 @@
----
-description: >-
-  This is the central hub for everything related to the Nordics Minecraft
-  server.
-cover: .gitbook/assets/2024-03-23_10.34.12.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# Newbie Guide
 
-# Nordics Minecraft Wiki
+#### **Fishing Mechanics Guide** for Docs
 
-### <mark style="color:green;">Server IP:</mark> `nordics.world`
+In our fishing system, catching fish requires timing and precision. Here’s how it works:
 
-### Quicklinks
-
-[Discord](https://discord.gg/nordics) \~ [BlueMap ](http://162.55.235.97:3200/#world:2999:0:8042:1500:0:0:0:0:perspective)\~ [Patreon](https://www.patreon.com/nordics) \~ [PlanetMinecraft](https://www.planetminecraft.com/server/nordics-minecraft-server/)
-
-***
-
-### About the server
-
-The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy and a custom map based on Northern Europe, featuring additional continents. Establish your town or kingdom and explore our server & community!
-
-***
-
-### News
-
-_Updated 2024-09-26_
-
-* [Statue of Liberty](the-world/civilization/towns/superalko/statue-of-liberty.md)
-* Patch: [1.4.1.5](changelog-updates/1.4-1.21-update/1.4.1.5.md)
-* Player profile: [Golli1432](the-world/civilization/players/golli1432.md)
-
-***
-
-### Interesting articles
-
-* [Town of Northstar](the-world/civilization/towns/northstar/)
-* [Northstar Forest Fire](server-events/terrain-incidents/northstar-forest-fire.md)
-* [The Sápmi Fires](server-events/terrain-incidents/the-sapmi-forest-fire.md)
-
-***
-
-### Important information:
-
-* [Create and manage your town](guides-and-commands/town-and-economy-guides/towny-guide/)
-* [Server rules](general-information/rules-and-moderation/rules/)
-* [How to make money](the-world/economy/make-money/)
+1. **The Fishing Bar**:
+   * A bar with **10 boxes** appears on the screen. One of the boxes is **highlighted** and moves back and forth across the bar.
+   * Players must time their actions to hit the **green box** that appears randomly. This is the target for catching the fish.
+2. **Health and Hits**:
+   * Each successful hit reduces the fish’s health by 1.
+   * Fish health ranges from **1 to 5** for most fish, with **exceptional fish** (such as Legendary and Mythical tiers) having up to **10 health**.
+   * The **Serpentvine Streamer**, for example, has **6 health**, making it a tough but achievable catch.
+3. **Lives**:
+   * Players start with **2 lives**. Missing a green box causes the player to lose a life.
+   * If both lives are lost, the fish escapes, and the player must try again.
+4. **Difficulty Scaling**:
+   * The **speed of the highlighted box** increases based on the rarity of the fish. For **Common** and **Rare** fish, the speed is manageable, but for **Legendary** and **Mythical** fish, the box moves much faster, requiring more precise timing and skill.

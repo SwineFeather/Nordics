@@ -1,0 +1,6 @@
+---
+description: 'Genus: Serranus'
+---
+
+# Hamlet
+
