@@ -1,7 +1,3 @@
----
-description: How to create Chest Shop
----
-
 # Sign Shops
 
 #### Step 1: Place the chest&#x20;

@@ -191,6 +191,12 @@
 
 ## configs/resources
 
+* [Wiki & Visual Tools](configs-resources/wiki-and-visual-tools/README.md)
+  * [BlueMap](configs-resources/wiki-and-visual-tools/bluemap/README.md)
+    * [Create BlueMap Markers](configs-resources/wiki-and-visual-tools/bluemap/create-bluemap-markers.md)
+    * [BlueMap, add Coat of Arms to town](configs-resources/wiki-and-visual-tools/bluemap/bluemap-add-coat-of-arms-to-town.md)
+  * [Become a collaborator for the Wiki](configs-resources/wiki-and-visual-tools/become-a-collaborator-for-the-wiki.md)
+  * [Markers, Emblem & Increasing Borders](configs-resources/wiki-and-visual-tools/markers-emblem-and-increasing-borders.md)
 * [LiteFish](configs-resources/litefish/README.md)
   * [Configs](configs-resources/litefish/configs/README.md)
     * [Expressions](configs-resources/litefish/configs/expressions.md)
@@ -200,9 +206,23 @@
 * [Files](configs-resources/files.md)
 * [World Related](configs-resources/world-related/README.md)
   * [Heightmaps](configs-resources/world-related/heightmaps.md)
+* [Server Configs](configs-resources/server-configs.md)
+* [Commands](configs-resources/commands/README.md)
+  * [Chat Features](configs-resources/commands/chat-features.md)
+  * [Chat Emoticons](configs-resources/commands/chat-emoticons.md)
 
 ## scheduling/planning
 
 * [Type of Updates](scheduling-planning/type-of-updates.md)
 * [Fish updates](scheduling-planning/fish-updates.md)
 * [Timeline](scheduling-planning/timeline.md)
+
+## guides & commands
+
+* [Towny Guide](guides-and-commands/towny-guide/README.md)
+  * [Create and run a town.](guides-and-commands/towny-guide/create-and-run-a-town..md)
+  * [Town Management](guides-and-commands/towny-guide/town-management.md)
+  * [Plot Management](guides-and-commands/towny-guide/plot-management.md)
+* [Town & Economy Guides](guides-and-commands/town-and-economy-guides/README.md)
+  * [Shop Guide](guides-and-commands/town-and-economy-guides/shop-guide/README.md)
+    * [Sign Shops](guides-and-commands/town-and-economy-guides/shop-guide/sign-shops.md)
