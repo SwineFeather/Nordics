@@ -75,13 +75,13 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 13:
 
-* The town of [Lundenwic](../the-world/civilization/towns/lundenwic.md) is created in England.
+* The town of [Lundenwic](../the-world/towns/lundenwic.md) is created in England.
 
 ### Aug 14:
 
-* [Oulu ](../the-world/civilization/towns/oulu-1.md)is founded once again, by ImpaledRektum.
+* [Oulu ](../the-world/towns/oulu-1.md)is founded once again, by ImpaledRektum.
 * [SwineFeather](../general-information/rules-and-moderation/personnel-list/swinefeather.md) posts new #minecraft-updates
-* [Neko No Kuni ](../the-world/civilization/towns/neko_no_kuni.md)was founded by [WhoKnew](../the-world/civilization/players/whoknew.md)
+* [Neko No Kuni ](../the-world/towns/neko_no_kuni.md)was founded by [WhoKnew](../the-world/players/whoknew.md)
 
 <details>
 
@@ -104,8 +104,8 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 15:
 
-* [_Bamson_ ](../the-world/civilization/players/_bamson.md)_added Neko No Kuni page_
-* [Småstan ](../the-world/civilization/towns/smastan.md)was founded for the second time, by [CrispyChickes](../the-world/civilization/players/crispychickes.md)
+* [_Bamson_ ](../the-world/players/_bamson.md)_added Neko No Kuni page_
+* [Småstan ](../the-world/towns/smastan.md)was founded for the second time, by [CrispyChickes](../the-world/players/crispychickes.md)
 
 ### Aug 16:
 
@@ -143,15 +143,15 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 19:
 
-* [MineSkate ](../the-world/civilization/players/mineskate.md)founded a new town by the name of [Kållandsö ](../the-world/civilization/towns/kallandso.md)in the Sweden region. With the intention of creating a toll from travelers.
+* [MineSkate ](../the-world/players/mineskate.md)founded a new town by the name of [Kållandsö ](../the-world/towns/kallandso.md)in the Sweden region. With the intention of creating a toll from travelers.
 
 ### Aug 20:
 
-* [Golli ](../the-world/civilization/players/golli1432.md)expands [Normannburg ](../the-world/civilization/towns/normannburg.md)north and makes more plots for new players.
+* [Golli ](../the-world/players/golli1432.md)expands [Normannburg ](../the-world/towns/normannburg.md)north and makes more plots for new players.
 * Town of Pringles is created in England.
-* [_Bamson_ ](../the-world/civilization/players/_bamson.md)_updates_ [_SuperAlko_ ](../the-world/civilization/towns/superalko/)_page_
+* [_Bamson_ ](../the-world/players/_bamson.md)_updates_ [_SuperAlko_ ](../the-world/towns/superalko/)_page_
   * _Hid Unfinished pages_
-  * _Added_ [_WhoKnew_ ](../the-world/civilization/players/whoknew.md)_player profile_
+  * _Added_ [_WhoKnew_ ](../the-world/players/whoknew.md)_player profile_
 
 ### Aug 21:
 
@@ -187,13 +187,13 @@ Aquavale expands south with a new Shopping district.
 
 ### Aug 25:
 
-* [North Sea League](../the-world/civilization/nations/north_sea_league.md) is formed, and a ceremony was held.
+* [North Sea League](../the-world/nations/north_sea_league.md) is formed, and a ceremony was held.
 
 ### Aug 26:
 
-* [Migning ](../the-world/civilization/players/migningsm.md)accidentally made a setting which forced players to download the Simple Voice Chat, but was later fixed.
+* [Migning ](../the-world/players/migningsm.md)accidentally made a setting which forced players to download the Simple Voice Chat, but was later fixed.
 * Aquavale is working on a new banner.
-* Jipes working on a voting system in [Aquavale](../the-world/civilization/towns/aqua_commune.md).
+* Jipes working on a voting system in [Aquavale](../the-world/towns/aqua_commune.md).
 * _SwineFeather updates NSL Coat of Arms on Dynmap_
 
 ### Aug 27:
@@ -203,7 +203,7 @@ Aquavale expands south with a new Shopping district.
 ### Aug 28:
 
 * Tatataat finishes his embassy in Normannburg.
-* [Femfe](../the-world/civilization/players/mineskate.md) building tolls in [Kållandsö](../the-world/civilization/towns/kallandso.md)
+* [Femfe](../the-world/players/mineskate.md) building tolls in [Kållandsö](../the-world/towns/kallandso.md)
 * _SwineFeather updates Supporter Benefits page._
 
 ## Week 5 (Aug 29 - Aug 31):
@@ -254,5 +254,5 @@ Aug 30:
 * Aquavale changes its name to Aqua Commune, and a new banner/emblem is formed.
 * Golli and Raika continues building the Steampunk District.
 * mads1224 joins for the first time, and settles in Denmark.
-* [SwineFeather](../general-information/rules-and-moderation/personnel-list/swinefeather.md) _updated Towns in_ [_Civilization_](../the-world/civilization/)
+* [SwineFeather](../general-information/rules-and-moderation/personnel-list/swinefeather.md) _updated Towns in_ [_Civilization_](broken-reference)
 

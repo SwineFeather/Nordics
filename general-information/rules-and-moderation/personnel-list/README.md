@@ -8,11 +8,7 @@ description: List of all involved in server development
 
 #### Management
 
-<div align="center" data-full-width="true">
-
-<figure><img src="../../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p><a href="swinefeather.md">SwineFeather</a></p></figcaption></figure>
-
-</div>
+<div align="center" data-full-width="true"><figure><img src="../../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p><a href="swinefeather.md">SwineFeather</a></p></figcaption></figure></div>
 
 #### Administrators
 
@@ -30,25 +26,21 @@ description: List of all involved in server development
 
 #### Helper/Chat Moderators
 
-<figure><img src="../../../.gitbook/assets/face.png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/golli1432.md">Golli1432</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/face.png" alt=""><figcaption><p><a href="../../../the-world/players/golli1432.md">Golli1432</a></p></figcaption></figure>
 
 #### Media
 
-<div align="center" data-full-width="true">
-
-<figure><img src="../../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p><a href="swinefeather.md">SwineFeather</a></p></figcaption></figure>
-
-</div>
+<div align="center" data-full-width="true"><figure><img src="../../../.gitbook/assets/SwineFeather.png" alt=""><figcaption><p><a href="swinefeather.md">SwineFeather</a></p></figcaption></figure></div>
 
 #### **Writers**
 
-<figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption><p><a href="../../../the-world/civilization/players/_bamson.md">_Bamson</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption><p><a href="../../../the-world/players/_bamson.md">_Bamson</a></p></figcaption></figure>
 
 ***
 
 ### <mark style="color:orange;">Notable Contributors</mark>
 
-_Wiki writers_: [Bamson](../../../the-world/civilization/players/\_bamson.md), [Svardmastaren](../../../the-world/civilization/players/svardmastaren.md)
+_Wiki writers_: [Bamson](../../../the-world/players/_bamson.md), [Svardmastaren](../../../the-world/players/svardmastaren.md)
 
 **Kevork:** _Management:_ _Updates_: [1.0](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.0-1.0.15-after-release-patches) - [1.1](https://github.com/SwineFeather/book/blob/main/misc/changelog-updates/1.1-1.1.7-the-nether-update)
 
@@ -101,10 +93,10 @@ _Some contributors are missing due to lack of information_
 Past and present supporters
 
 **Golden Kala**<img src="../../../.gitbook/assets/GoldenKala (4).png" alt="" data-size="line">\
-[Occypolojee](../../../the-world/civilization/players/occypolojee.md), [communistraika](../../../the-world/civilization/players/raika\_.md), [SwineFeather](swinefeather.md), TheCanadian/_David_
+[Occypolojee](../../../the-world/players/occypolojee.md), [communistraika](../../../the-world/players/raika_.md), [SwineFeather](swinefeather.md), TheCanadian/_David_
 
 **Fancy Kala**<img src="../../../.gitbook/assets/FancyKala.png" alt="" data-size="line">\
-[CosmicWaffles](../../../the-world/civilization/players/cosmicwaffles.md), Jakeybobble, [Bamson](../../../the-world/civilization/players/\_bamson.md), [VPSwede](server-developers/vpswede.md), [Svardmastaren](../../../the-world/civilization/players/svardmastaren.md)
+[CosmicWaffles](../../../the-world/players/cosmicwaffles.md), Jakeybobble, [Bamson](../../../the-world/players/_bamson.md), [VPSwede](server-developers/vpswede.md), [Svardmastaren](../../../the-world/players/svardmastaren.md)
 
 **Kala** <img src="../../../.gitbook/assets/Kala.png" alt="" data-size="line">\
 EiraHS, Cobwebblox, _Neighbor kid, Milkyway_
@@ -112,5 +104,5 @@ EiraHS, Cobwebblox, _Neighbor kid, Milkyway_
 ***
 
 {% hint style="warning" %}
-Are you not on the list and want to be added? Send a DM to [_SwineFeather_](swinefeather.md) _or_ [_Bamson_](../../../the-world/civilization/players/\_bamson.md)
+Are you not on the list and want to be added? Send a DM to [_SwineFeather_](swinefeather.md) _or_ [_Bamson_](../../../the-world/players/_bamson.md)
 {% endhint %}

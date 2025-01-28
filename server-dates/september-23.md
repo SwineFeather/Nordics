@@ -41,7 +41,7 @@
 
 ### **Sep 10:**
 
-* The first nation on the server is created [The Kingdom of Denmark](../the-world/civilization/nations/denmark.md)
+* The first nation on the server is created [The Kingdom of Denmark](../the-world/nations/denmark.md)
 *
 
     <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
@@ -81,7 +81,7 @@
 
 ### **Sep 24:**
 
-* [Normannburg ](../the-world/civilization/towns/normannburg.md)is founded by [Golli1432](../the-world/civilization/players/golli1432.md)
+* [Normannburg ](../the-world/towns/normannburg.md)is founded by [Golli1432](../the-world/players/golli1432.md)
 
 ### **Sep 25:**
 

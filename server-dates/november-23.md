@@ -12,7 +12,7 @@
 
 ### Nov 4:
 
-* [Helsinki ](../the-world/civilization/towns/helsinki.md)was founded by [Fiskerguten](../the-world/civilization/players/fiskerguten.md)
+* [Helsinki ](../the-world/towns/helsinki.md)was founded by [Fiskerguten](../the-world/players/fiskerguten.md)
 
 ### Nov 5:
 

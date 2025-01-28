@@ -87,7 +87,7 @@ icon: angle-right
 
 ### Oct 24:
 
-* [C.C.F.N](../the-world/civilization/towns/c.c.f.n.md) was founded by Aetzrak.
+* [C.C.F.N](../the-world/towns/c.c.f.n.md) was founded by Aetzrak.
 * Waltver joined for the first time and joined the town of Oulu
 
 ### Oct 25:

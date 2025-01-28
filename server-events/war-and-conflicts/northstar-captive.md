@@ -1,5 +1,6 @@
 ---
 icon: handcuffs
+hidden: true
 ---
 
 # Northstar captive

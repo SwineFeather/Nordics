@@ -8,7 +8,7 @@ Here, you’ll find monthly stats, historical lists, and the stories behind the 
 
 ### Notable achivements
 
-* [JustAVirus ](../civilization/players/justavirus.md)first player to reach 6969.69
+* [JustAVirus ](../players/justavirus.md)first player to reach 6969.69
 * Raika\_ first player to reach 10 000 on (date)
 
 ## 2023

@@ -6,14 +6,14 @@
 
 ### Sep 1:
 
-* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)adds [Kållandsö ](../the-world/civilization/towns/kallandso.md)to the Wiki and updates [Server History Log](./)
-  * Updated [North Sea League](../the-world/civilization/nations/north_sea_league.md) page.  "The Birth of North Sea League"
+* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)adds [Kållandsö ](../the-world/towns/kallandso.md)to the Wiki and updates [Server History Log](./)
+  * Updated [North Sea League](../the-world/nations/north_sea_league.md) page.  "The Birth of North Sea League"
   * Added logs
 
 ### Sep 2:
 
-* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)adds new [player profiles](../the-world/civilization/players/) and updates [Civilization ](../the-world/civilization/)pages.
-  * New page  [Golli](../the-world/civilization/players/golli1432.md)[1432](../the-world/civilization/players/golli1432.md)
+* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)adds new [player profiles](../the-world/players/) and updates [Civilization ](broken-reference)pages.
+  * New page  [Golli](../the-world/players/golli1432.md)[1432](../the-world/players/golli1432.md)
   * Updated Lundenwic & Copenhagen CoA on Dynmap
   * Added [1.4.1.4](../changelog-updates/1.4-1.21-update/1.4.1.4.md)
 * Dynmap breaks, and we decide to do a full render of the entire map. -SF
@@ -33,29 +33,29 @@
 
 ### Sep 7:
 
-* The hidden Turkey on the map was found by [NL\_Kommiedant ](../the-world/civilization/players/nl_kommiedant.md)and [Occypolojee](../the-world/civilization/players/occypolojee.md).&#x20;
-  * [NL\_Kommiedant ](../the-world/civilization/players/nl_kommiedant.md)claims the Turkey as an outpost ![](<../.gitbook/assets/image (127).png>)
+* The hidden Turkey on the map was found by [NL\_Kommiedant ](../the-world/players/nl_kommiedant.md)and [Occypolojee](../the-world/players/occypolojee.md).&#x20;
+  * [NL\_Kommiedant ](../the-world/players/nl_kommiedant.md)claims the Turkey as an outpost ![](<../.gitbook/assets/image (127).png>)
 
 ## Week 2 (Sep 8 - Sep 14):
 
 ### Sep 8:
 
 * Town of Pringles is in ruins after lack of funds.
-* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)updates [Copenhagen ](../the-world/civilization/towns/copenhagen.md)page
-* [Normannburg ](../the-world/civilization/towns/normannburg.md)has a new streak of residents joining, now hitting 20 res.
-  * [Golli](../the-world/civilization/players/golli1432.md) finishes his airship.
+* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)updates [Copenhagen ](../the-world/towns/copenhagen.md)page
+* [Normannburg ](../the-world/towns/normannburg.md)has a new streak of residents joining, now hitting 20 res.
+  * [Golli](../the-world/players/golli1432.md) finishes his airship.
 
 ### Sep 9:
 
 ### Sep 10:
 
-* New district plan is made for [Copenhagen](../the-world/civilization/towns/copenhagen.md)
+* New district plan is made for [Copenhagen](../the-world/towns/copenhagen.md)
 * Redapo15 begins his pursuit in becoming one of the richest player on the server.
 
 ### Sep 11:
 
-* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)"creates" new [Raika ](../the-world/civilization/players/raika_.md)page, and updates [NL\_Kommiedant](../the-world/civilization/players/nl_kommiedant.md) _text_. Simplified and cleaned up the side tabs and added [Baltop ](../the-world/economy/baltop.md)page
-* [Femfe ](../the-world/civilization/players/mineskate.md)begins decorating and changing [Copenhagen](../the-world/civilization/towns/copenhagen.md)
+* [SwineFeather ](../general-information/rules-and-moderation/personnel-list/swinefeather.md)"creates" new [Raika ](../the-world/players/raika_.md)page, and updates [NL\_Kommiedant](../the-world/players/nl_kommiedant.md) _text_. Simplified and cleaned up the side tabs and added [Baltop ](../the-world/economy/baltop.md)page
+* [Femfe ](../the-world/players/mineskate.md)begins decorating and changing [Copenhagen](../the-world/towns/copenhagen.md)
 * ImpaledRektum finishes his church in Oulu.
 * Redapo15 climbs to the top 7 on baltop.
 
@@ -107,7 +107,7 @@
   * Optimized The End world, from 9GB to 162MB
   * capital\_bonus\_size: '2'
   * Updated server to 1.21.1, and the plugins.
-  * Made the new page [Create BlueMap Markers](../guides-and-commands/wiki-and-visual-tools/bluemap/create-bluemap-markers.md)
+  * Made the new page [Create BlueMap Markers](broken-reference)
   * Updated markers on BlueMap
 * Golli announces that his towers will feature as a market-place
 

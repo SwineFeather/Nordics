@@ -54,13 +54,13 @@
 
 ### Feb 22:
 
-* [Sheepomen Town](../the-world/civilization/towns/sheepomen-town/) was founded by Adamism
+* [Sheepomen Town](../the-world/towns/sheepomen-town/) was founded by Adamism
 
 ### Feb 23:
 
 ### Feb 24:
 
-* [Occypolojee ](../the-world/civilization/players/occypolojee.md)finish the [Statue of Liberty](../the-world/civilization/towns/superalko/statue-of-liberty.md).
+* [Occypolojee ](../the-world/players/occypolojee.md)finish the [Statue of Liberty](../the-world/towns/superalko/statue-of-liberty.md).
 
 <figure><img src="../.gitbook/assets/image (97).png" alt="" width="249"><figcaption></figcaption></figure>
 

@@ -85,3 +85,27 @@ Nation of North Sea League is founded once again.
 ### Jan 22:
 
 ### Jan 23:
+
+### Jan 24:
+
+* Põltsamaa founded by LJJW2020 in Estonia.
+  * After a few days the following players join him: Lykke1308, wicc1980, Alfredus14
+
+### Jan 25:
+
+### Jan 26:
+
+### Jan 27:
+
+* Bamson finishes his embassy in Krakevik
+
+### Jan 28:
+
+* Brewing plugin releases as Beta
+  * CrispyChickes the first player to make drinks,
+    * Introduces the Skogsstjärna AB
+
+### Jan 29:
+
+### Jan 30:
+

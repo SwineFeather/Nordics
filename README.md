@@ -38,24 +38,23 @@ The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy a
 
 ### News
 
-_Updated 2024-09-26_
+_Updated 2025-01-28_
 
-* [Statue of Liberty](the-world/civilization/towns/superalko/statue-of-liberty.md)
+* [Statue of Liberty](the-world/towns/superalko/statue-of-liberty.md)
 * Patch: [1.4.1.5](changelog-updates/1.4-1.21-update/1.4.1.5.md)
-* Player profile: [Golli1432](the-world/civilization/players/golli1432.md)
+* Player profile: [Golli1432](the-world/players/golli1432.md)
 
 ***
 
 ### Interesting articles
 
-* [Town of Northstar](the-world/civilization/towns/northstar/)
+* [Town of Northstar](the-world/towns/northstar/)
 * [Northstar Forest Fire](server-events/terrain-incidents/northstar-forest-fire.md)
 * [The Sápmi Fires](server-events/terrain-incidents/the-sapmi-forest-fire.md)
 
 ***
 
-### Important information:
+### Important information
 
-* [Create and manage your town](guides-and-commands/town-and-economy-guides/towny-guide/)
 * [Server rules](general-information/rules-and-moderation/rules/)
 * [How to make money](the-world/economy/make-money/)

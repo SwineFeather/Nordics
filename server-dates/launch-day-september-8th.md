@@ -24,7 +24,7 @@ Below is a complete list of players who joined the server on launch day. Click o
 
 
 
-#### ![](../.gitbook/assets/0\_Koto\_0.png)
+#### ![](../.gitbook/assets/0_Koto_0.png)
 
 #### **Player: 0\_Koto\_0**
 
@@ -59,7 +59,7 @@ Although no social interactions were recorded, 0\_Koto\_0 was clearly determined
 
 <summary>1_WK_1</summary>
 
-![](<../.gitbook/assets/1\_WK\_1 (1).png>)
+![](<../.gitbook/assets/1_WK_1 (1).png>)
 
 #### **Player: 1\_WK\_1**
 
@@ -222,16 +222,16 @@ They also used commands related to town information (`/t info`), indicating inte
 
 **BennyL4V4** had a focused approach upon joining the server. Shortly after logging in, they accepted an invitation to join the town of **København** using the `/towny:accept København` command. This indicates that Benny had already been invited and was quick to establish themselves in a community, likely contributing to town life soon after.
 
-Their time on the server during this session was brief, and after joining [**København**](../the-world/civilization/towns/archived-towns/copenhagen.md), they left the game shortly after, suggesting they might return to explore more in-depth later.
+Their time on the server during this session was brief, and after joining [**København**](../the-world/towns/archived-towns/copenhagen.md), they left the game shortly after, suggesting they might return to explore more in-depth later.
 
 **Key Actions:**
 
-* Quickly joined the town [**København**](../the-world/civilization/towns/archived-towns/copenhagen.md).
+* Quickly joined the town [**København**](../the-world/towns/archived-towns/copenhagen.md).
 * Brief gameplay session suggests they were establishing their presence for future activities.
 
 **Summary:**
 
-**BennyL4V4** had a brief but meaningful start, quickly integrating into the town of [**København**](../the-world/civilization/towns/archived-towns/copenhagen.md). Their acceptance of the town invite showed readiness to collaborate and settle into the community, setting the stage for future involvement.
+**BennyL4V4** had a brief but meaningful start, quickly integrating into the town of [**København**](../the-world/towns/archived-towns/copenhagen.md). Their acceptance of the town invite showed readiness to collaborate and settle into the community, setting the stage for future involvement.
 
 </details>
 
