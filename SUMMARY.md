@@ -40,6 +40,7 @@
   * [Kala](the-world/nations/kala.md)
   * [Atlantian Imperium](the-world/nations/atlantian-imperium.md)
 * [Towns](the-world/towns/README.md)
+  * [Sogndalsfjorden](the-world/towns/sogndalsfjorden.md)
   * [Aquaria](the-world/towns/aquaria.md)
   * [Normannburg](the-world/towns/normannburg.md)
   * [Northstar](the-world/towns/northstar/README.md)
