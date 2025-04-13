@@ -15,7 +15,7 @@
 | **Leaders**    | Kapakka Fjord (Chief), Arzi Fjord (Spiritual Leader) |
 | **Geography**  | Forested valley in Southern Norway                  |
 | **Climate**    | Cold temperate, mountainous                        |
-| **Notable Lore** | The Stone Dream, The Black Obelisk               |
+| **Notable Lore** | The Steindrøm, The Black Obelisk               |
 
 ---
 
@@ -25,7 +25,7 @@ Sogndalsfjorden was founded on 12 April 2025 by the Fjordians, a nomadic people 
 
 The Fjordians brought with them a unique culture marked by their guttural language, **Fjorik**, a diet of preserved meats and fermented dairy, and rich oral traditions. Their settlement in the Norwegian fjords marks the end of their nomadic history and the beginning of a new chapter.
 
-According to legend, their arrival fulfills an ancient prophecy known as **"The Stone Dream"**—a vision of a rebirth in a cold land surrounded by mist and stone. Some claim a mysterious black obelisk found near the camp is tied to this prophecy, though its origin remains unknown.
+According to legend, their arrival fulfills an ancient prophecy known as **"The Steindrøm"**—a vision of a rebirth in a cold land surrounded by mist and stone. Some claim a mysterious black obelisk found near the camp is tied to this prophecy, though its origin remains unknown.
 
 Today, Sogndalsfjorden stands as the spiritual and cultural foundation of the reborn Fjordian people.
 
