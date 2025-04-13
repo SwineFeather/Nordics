@@ -23,7 +23,7 @@
 
 Sogndalsfjorden was founded on 12 April 2025 by the Fjordians, a nomadic people originally from the Eurasian Steppe. Driven from their homeland by Mongol invasions, they migrated westward for many years under the leadership of Kapakka and Arzi Fjord.
 
-The Fjordians brought with them a unique culture marked by their guttural language, **Fjorik**, a diet of preserved meats and fermented dairy, and rich oral traditions. Their settlement in the Norwegian fjords marks the end of their nomadic history and the beginning of a new chapter.
+The Fjordians brought with them a unique culture marked by their guttural language, **Fjorik**, as well as a diet sweet berries, and rich oral traditions. Their settlement in the Norwegian fjords marks the end of their nomadic history and the beginning of a new chapter.
 
 According to legend, their arrival fulfills an ancient prophecy known as **"The Steindrøm"**—a vision of a rebirth in a cold land surrounded by mist and stone. Some claim a mysterious black obelisk found near the camp is tied to this prophecy, though its origin remains unknown.
 
