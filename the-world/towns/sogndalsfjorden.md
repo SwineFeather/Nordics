@@ -10,7 +10,7 @@
 | **Date Settled** | 12 April 2025                                     |
 | **Settled By** | The Fjordians (Fjord People)                        |
 | **Language**   | Fjorik                                              |
-| **Flag**       | ![Flag](https://github.com/SwineFeather/Nordics/blob/main/.gitbook/assets/Sogndalsfjorden.png) |
+| **Flag**       | ![Flag]("../../../../.gitbook/assets/Sogndalsfjorden.png) |
 | **Estimated Population** | ~5 (initial settlers)                    |
 | **Leaders**    | Kapakka Fjord (Chief), Arzi Fjord (Spiritual Leader) |
 | **Geography**  | Forested valley in Southern Norway                  |
