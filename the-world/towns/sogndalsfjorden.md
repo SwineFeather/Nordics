@@ -37,4 +37,30 @@ Today, **Sogndalsfjorden** stands as the spiritual and cultural foundation of th
 
 </details>
 
+<details>
+<summary><strong>The Founding Era (Tuldrenn Nahrkar)</strong>  
+<em>12 April 2025 – 22 April 2025</em></summary>
+
+---
+
+![Founding Era Image](https://github.com/your-repo-path/FoundingEraImage.png)  
+*An artistic depiction of the Fjordians arriving in southern Norway.*
+
+---
+
+The **Founding Era**, known in Fjorik as **Tuldrenn Nahrkar** (*“Age of Founding Stone”*), marks the first official period in the history of **Sogndalsfjorden**. It began with the initial settlement of the Fjordians in southern Norway following their long migration from the Eurasian Steppe.
+
+This era is characterized by the transition from a **nomadic lifestyle** to a **settled society**. The Fjordians began establishing the foundations of their town, constructing early **stone houses**, **statues**, **inns**, and **underground complexes**, all while maintaining their cultural identity. During this time, **trade routes** were opened with distant lands such as **Ireland** and **Sweden**, allowing for the exchange of resources and knowledge.
+
+Economically, the settlement saw the development of a **primitive but stable system of trade and labor**, including **resource gathering**, **crafting**, and **bartering**. Though small, the town quickly became self-sustaining and began attracting attention as a new and distinct cultural enclave.
+
+Spiritually and culturally, the Founding Era is also a time of **revival**. **Ancient traditions**, **language**, and **beliefs** were reasserted, and the mysterious **Black Dwarf** — discovered near the heart of the valley — became a symbol of **prophecy and guidance** for many.
+
+---
+
+![Black Dwarf Stone](https://github.com/your-repo-path/BlackDwarfImage.png)  
+*The Black Dwarf: an ancient stone believed to carry prophetic significance.*
+
+</details>
+
 ---
