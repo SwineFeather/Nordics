@@ -21,3 +21,6 @@ On August 25th, the nation was officially formed with a ceremony held at the Alt
 On January 7th 2025, [C.C.F.N ](../towns/c.c.f.n.md)joined the nation.
 
 Oulu joins the nation on January 10th 2025?
+
+# Example Lore
+Text goes here.
