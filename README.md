@@ -32,15 +32,15 @@ layout:
 
 ### About the server
 
-The Nordics Minecraft server is a **Survival Town-SMP** with a vibrant economy and a custom map based on Northern Europe, featuring additional continents. Establish your town or kingdom and explore our server & community!
+The Nordics Minecraft server is a **Towny-survival** with a vibrant economy and a custom map based on Northern Europe, featuring additional continents. Establish your town or kingdom and explore our server & community!
 
 ***
 
 ### News
 
-_Updated 2025-01-28_
+_Updated 2025-04-26_
 
-* [Statue of Liberty](the-world/towns/superalko/statue-of-liberty.md)
+* New Town: [Sogndalsfjorden](the-world/towns/sogndalsfjorden.md)
 * Patch: [1.4.1.5](changelog-updates/1.4-1.21-update/1.4.1.5.md)
 * Player profile: [Golli1432](the-world/players/golli1432.md)
 

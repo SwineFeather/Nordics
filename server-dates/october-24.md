@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # October-24
 
 ## October 2024

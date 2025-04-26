@@ -28,7 +28,7 @@ Despite this, their spirits were not crushed. After regrouping and drafting a ne
 
 With [CrispyChickes](../../the-world/players/crispychickes.md)' help, the work progressed quickly. The three players managed to create a second north firebreak in time to stop the fire from spreading north. The initial north firebreak left a lot of forest between itself and the fire, so with the fire under control but not extinguished, [Aytte ](../../the-world/players/aytte/)decided on May 23 to create a second north firebreak closer to the actual fire. This decision saved a significant portion of the forest.
 
-By the end of May 23, the last pockets of fire were extinguished, allowing the players to assess the devastation. Around a third of the forest in the [Swedish region](../../the-world/towns/archived-towns/sweden-region.md) was destroyed.
+By the end of May 23, the last pockets of fire were extinguished, allowing the players to assess the devastation. Around a third of the forest in the [Swedish region](broken-reference) was destroyed.
 
 <figure><img src="../../.gitbook/assets/2024-05-19_23.14.21.png" alt=""><figcaption><p>The fire seen from Northstar</p></figcaption></figure>
 

@@ -1,7 +1,3 @@
----
-icon: gear-complex-code
----
-
 # Patchnotes
 
 List of all updates released, live changes and patches not released on Nordics discord.&#x20;
