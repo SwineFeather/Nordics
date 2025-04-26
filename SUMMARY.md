@@ -77,6 +77,7 @@
   * [Mora](the-world/towns/mora.md)
   * [Oulu (By Occypolojee)](the-world/towns/oulu-1.md)
   * [Thornfield](the-world/towns/thornfield.md)
+  * [YourTown](the-world/towns/yourtown.md)
   * [Archived-towns](the-world/towns/archived-towns/README.md)
     * [🇫🇮 Finland Region](the-world/towns/archived-towns/finland-region/README.md)
       * [Åland](the-world/towns/archived-towns/finland-region/aland.md)
