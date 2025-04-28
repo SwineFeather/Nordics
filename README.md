@@ -38,9 +38,10 @@ The Nordics Minecraft server is a **Towny-survival** with a vibrant economy and 
 
 ### News
 
-_Updated 2025-04-26_
+_Updated 2025-04-28_
 
 * New Town: [Sogndalsfjorden](the-world/towns/sogndalsfjorden.md)
+* Updated: [Lundenwic](the-world/towns/kingdom_of_albion/england/lundenwic.md)
 
 ***
 

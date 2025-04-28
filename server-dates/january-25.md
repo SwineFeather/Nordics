@@ -1,7 +1,3 @@
----
-icon: angle-right
----
-
 # January-25
 
 ## January 2025

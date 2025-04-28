@@ -75,7 +75,7 @@ Full change-log [here](https://wiki.nordics.world/misc/changelog-updates/1.4-1.2
 
 ### Aug 13:
 
-* The town of [Lundenwic](../the-world/towns/lundenwic.md) is created in England.
+* The town of [Lundenwic](../the-world/towns/kingdom_of_albion/england/lundenwic.md) is created in England.
 
 ### Aug 14:
 
