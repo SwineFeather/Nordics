@@ -1,10 +1,10 @@
 ---
-description: Kingdom of Constellation
+description: 'Last update: April 28th 2025'
 ---
 
 # Constellation
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>Government: <em>Technocracy</em></td><td>Leaders: <a href="../players/svardmastaren.md">Svardmastaren</a>, <a href="../players/seeyouman.md">SeeYouMan</a><br>Towns: <a href="../towns/northstar/">Northstar</a>, <a href="../towns/garvia/">Garvia</a>, <a href="../towns/neko_no_kuni.md">Neko No Kuni</a><br>Previous towns: <a href="../towns/smastan.md">Småstan</a>, <a href="../towns/sheepomen-town/">Sheepomen Town</a>, <a href="../towns/archived-towns/british-isles-region/pickle.md">Pickle Empire</a>, Normannburg</td></tr><tr><td><img src="../../.gitbook/assets/armoria_2023-10-10-18-03-00.png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td>Region: <a href="broken-reference">Sweden</a>, <a href="../towns/archived-towns/finland-region/">Finland</a></td><td>Population: 29</td><td>Founded: <a href="../../server-dates/october-23.md#oct-10">Oct 10, 2023</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td>Leaders: <a href="../players/svardmastaren.md">Svardmastaren</a>, <a href="../players/seeyouman.md">SeeYouMan</a><br>Towns: <a href="../towns/northstar/">Northstar</a>, <a href="../towns/garvia/">Garvia</a>, <a href="../towns/neko_no_kuni.md">Neko No Kuni</a><br>Previous towns: <a href="../towns/smastan.md">Småstan</a>, <a href="../towns/sheepomen-town/">Sheepomen Town</a>, <a href="../towns/archived-towns/british-isles-region/pickle.md">Pickle Empire</a>, Normannburg</td></tr><tr><td><img src="../../.gitbook/assets/armoria_2023-10-10-18-03-00.png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td>Region: <a href="broken-reference">Sweden</a>, <a href="../towns/archived-towns/finland-region/">Finland</a></td><td>Population: 29</td><td>Founded: <a href="../../server-dates/october-23.md#oct-10">Oct 10, 2023</a></td></tr></tbody></table>
 
 **The Birth of the Constellation nation**
 

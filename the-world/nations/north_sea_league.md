@@ -1,12 +1,14 @@
 ---
-description: 'Last updated: Jan 13th 2025'
+description: 'Last updated: April 28th 2025'
 ---
 
 # North Sea League
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Government</strong>: <em>Aristocratic Oligarchy</em></td><td><strong>Leaders</strong>: </td><td><strong>Towns</strong>: <a href="../towns/copenhagen.md">Copenhagen</a>, <a href="../towns/herrehus.md">Herrehus</a>, <a href="../towns/holland.md">Holland</a>, <a href="../towns/lundenwic.md">Lundenwic</a>, <a href="../towns/kallandso.md">Kållandsö</a>, <a href="../towns/smastan.md">Småstan</a>, Krakevik, <a href="../towns/c.c.f.n.md">C.C.F.N</a>, Oulu, Tegridy Farms, Wavecrest, Söderhamn</td></tr><tr><td><img src="../../.gitbook/assets/North_Sea_League.png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region</strong>: <em>North Sea</em></td><td><strong>Population</strong>: 31</td><td><strong>Founded</strong>: <a href="../../server-dates/august-24.md#aug-25">Aug 25, 2024</a><br><br><strong>Board</strong><em>: United by the North Sea, we commit to peace, prosperity, and collective growth. Join us in shaping a future built on strong communities and shared purpose.</em></td></tr></tbody></table>
+## North Sea League
 
-## The Birth of North Sea League
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Government</strong>: </td><td><strong>Leaders</strong>:</td><td><strong>Towns</strong>: <a href="../towns/copenhagen.md">Copenhagen</a>, <a href="../towns/herrehus.md">Herrehus</a>, <a href="../towns/holland.md">Holland</a>, <a href="../towns/lundenwic.md">Lundenwic</a>, <a href="../towns/kallandso.md">Kållandsö</a>, <a href="../towns/smastan.md">Småstan</a>, Krakevik, <a href="../towns/c.c.f.n.md">C.C.F.N</a>, Tegridy Farms, Wavecrest, Söderhamn, Ireland,  <a href="../towns/sogndalsfjorden.md">Sogndalsjforden</a></td></tr><tr><td><img src="../../.gitbook/assets/North_Sea_League.png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region</strong>: <em>North Sea</em></td><td><strong>Population</strong>: ~51</td><td><strong>Founded</strong>: <a href="../../server-dates/august-24.md#aug-25">Aug 25, 2024</a><br><br><strong>Board</strong><em>: United by the North Sea, we commit to peace, prosperity, and collective growth. Join us in shaping a future built on strong communities and shared purpose.</em></td></tr></tbody></table>
+
+### The Birth of North Sea League
 
 As the server continued to grow and evolve, new towns began to emerge across southern Sweden, Denmark, and the areas surrounding the North Sea. With this increase in activity, the towns in this region found themselves drawn closer together. While there was a sense of change in the air, some inhabitants felt a need for greater security and unity. The towns around the North Sea already enjoyed strong connections, sharing resources and common interests. They valued collaboration and wanted to formalize their cooperation in a way that would ensure mutual support and a shared future.
 
@@ -20,7 +22,3 @@ On August 25th, the nation was officially formed with a ceremony held at the Alt
 
 On January 7th 2025, [C.C.F.N ](../towns/c.c.f.n.md)joined the nation.
 
-Oulu joins the nation on January 10th 2025?
-
-# Example Lore
-Text goes here.

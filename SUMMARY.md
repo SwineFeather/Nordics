@@ -39,6 +39,7 @@
   * [Denmark](the-world/nations/denmark.md)
   * [Kala](the-world/nations/kala.md)
   * [Atlantian Imperium](the-world/nations/atlantian-imperium.md)
+  * [Sweden](the-world/nations/sweden.md)
 * [Towns](the-world/towns/README.md)
   * [Ireland](the-world/towns/ireland.md)
   * [Sogndalsfjorden](the-world/towns/sogndalsfjorden.md)

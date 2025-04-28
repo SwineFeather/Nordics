@@ -26,7 +26,7 @@ layout:
 
 ### Quicklinks
 
-[Discord](https://discord.gg/nordics) \~ [BlueMap ](http://162.55.235.97:3200/#world:2999:0:8042:1500:0:0:0:0:perspective)\~ [Patreon](https://www.patreon.com/nordics) \~ [PlanetMinecraft](https://www.planetminecraft.com/server/nordics-minecraft-server/)
+[Discord](https://discord.gg/nordics) \~ [BlueMap](http://map.nordics.world) \~ [Patreon](https://www.patreon.com/nordics) \~ [PlanetMinecraft](https://www.planetminecraft.com/server/nordics-minecraft-server/) \~ [YouTube](https://www.youtube.com/@NordicsMinecraft/shorts)
 
 ***
 
@@ -41,8 +41,6 @@ The Nordics Minecraft server is a **Towny-survival** with a vibrant economy and 
 _Updated 2025-04-26_
 
 * New Town: [Sogndalsfjorden](the-world/towns/sogndalsfjorden.md)
-* Patch: [1.4.1.5](changelog-updates/1.4-1.21-update/1.4.1.5.md)
-* Player profile: [Golli1432](the-world/players/golli1432.md)
 
 ***
 

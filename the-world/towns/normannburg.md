@@ -1,11 +1,12 @@
 ---
-cover: ../../../.gitbook/assets/2023-11-03_09.44.29.png
+description: 'Last updated: April 28th 2025'
+cover: ../../.gitbook/assets/2023-11-03_09.44.29.png
 coverY: 0
 ---
 
 # Normannburg
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Founder &#x26; Mayor</strong>: <a href="../players/golli1432.md">Golli1432</a></td><td></td><td><strong>Member of</strong> <a href="../nations/constellation.md"><strong>Constellation</strong></a></td></tr><tr><td><img src="../../../.gitbook/assets/armoria_2024-05-11-21-41-01 (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region:</strong> <a href="archived-towns/finland-region/">Finland</a><br><strong>Residents</strong>: 25</td><td><strong>Founded</strong>: <a href="../../../server-dates/october-23.md#oct-14th">Oct 14 2023</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Founder &#x26; Mayor</strong>: <a href="../players/golli1432.md">Golli1432</a></td><td></td><td><strong>Capital of Skyward Sanctum</strong></td></tr><tr><td><img src="../../.gitbook/assets/armoria_2024-05-11-21-41-01 (1).png" alt="" data-size="original"></td><td></td><td></td></tr><tr><td><strong>Region:</strong> <a href="archived-towns/finland-region/">Finland</a><br><strong>Residents</strong>: ~30</td><td><strong>Founded</strong>: <a href="../../server-dates/october-23.md#oct-14th">Oct 14 2023</a></td><td></td></tr></tbody></table>
 
 ***
 
@@ -25,8 +26,8 @@ The successful relocation and reconstruction of Normannburg would not have been 
 
 <summary>Images</summary>
 
-<img src="../../../.gitbook/assets/2023-11-03_09.46.13.png" alt="" data-size="original"><img src="../../../.gitbook/assets/2023-11-03_09.46.24.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/2023-11-03_09.46.13.png" alt="" data-size="original"><img src="../../.gitbook/assets/2023-11-03_09.46.24.png" alt="" data-size="original">
 
-<img src="../../../.gitbook/assets/2023-11-03_09.50.37.png" alt="" data-size="original"><img src="../../../.gitbook/assets/2023-11-03_09.45.46.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/2023-11-03_09.50.37.png" alt="" data-size="original"><img src="../../.gitbook/assets/2023-11-03_09.45.46.png" alt="" data-size="original">
 
 </details>
