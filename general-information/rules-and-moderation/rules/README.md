@@ -92,7 +92,7 @@ All rules have a number next to them. For the rules that carry a punishment, the
 
 <mark style="color:blue;">**4.6.3**</mark>**&#x20;Avoid Automatic Farms That Run Continuously:** Automatic farms that run continuously, especially those that generate large amounts of entities (e.g., mob farms, crop farms), should be limited or designed with on/off switches to reduce lag.
 
-<mark style="color:red;">**4.6.4**</mark>**&#x20;No Exploitative Redstone:**&#x41;ny use of redstone intended to exploit game mechanics, duplicate items, or otherwise gain an unfair advantage is strictly prohibited. This includes machines designed to overload the server or bypass intended game limitations.
+<mark style="color:red;">**4.6.4**</mark>**&#x20;No Exploitative Redstone:** Any use of redstone intended to exploit game mechanics, duplicate items, or otherwise gain an unfair advantage is strictly prohibited. This includes machines designed to overload the server or bypass intended game limitations.&#x20;
 
 <mark style="color:yellow;">**4.6.5**</mark>**&#x20;Responsibility for Redstone Lag:** Players are responsible for ensuring their redstone builds do not negatively impact server performance. If a redstone creation is found to cause significant lag, players may be asked to modify or remove it.
 
@@ -148,7 +148,7 @@ Staff members are fully subject to all server rules.\
 
 <mark style="color:yellow;">7.2.4</mark>: You are not allowed to roleplay as real-life regimes, governments, countries, peoples, or religions. Ideologies that are **not** banned are acceptable.  &#x20;
 
-<mark style="color:red;">7.2.5</mark>: You are not allowed to roleplay historically genocidal ideologies, such as Fascism, Nazism, Maoism, Leninism/Stalinism, Falangism, White Supremacy, etc. Any symbols or names explicitly associated with these will be removed.
+<mark style="color:red;">7.2.5</mark>: You are not allowed to roleplay historically genocidal ideologies, such as Fascism, Nazism, Maoism, Leninism/Stalinism, Falangism, Race Supremacy, etc. Any symbols or names explicitly associated with these will be removed.
 
 ## **8. Economy and Trade**
 

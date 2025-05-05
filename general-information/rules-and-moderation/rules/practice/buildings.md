@@ -56,3 +56,11 @@ Each town allows only one large-scale farm (except for bamboo and kelp farms), l
 Non-farm-related redstone machines are welcome, provided they don't put undue strain on the server.
 
 **Limit the Use of Pistons and Hoppers:** Excessive use of pistons, especially in rapid succession, can create lag. Hoppers should be used thoughtfully, with item filters and systems designed to minimize the number of active hoppers at any given time.
+
+#### TNT Duping Rules (Redstone rules apply)
+
+1. **Stationary Only**: TNT dupers must be built as stationary structures and cannot be mobile (e.g., no flying machines).
+2. **Firing Rate Limit**: Dupers should not fire more frequently than once every 5 seconds to prevent excessive server load.
+3. **No Lag**: Using TNT dupers with the intent to lag or crash the server is strictly prohibited.
+4. **Toggleable Automation**: If a TNT duper operates automatically, it must include a mechanism to disable it when not in use.
+
