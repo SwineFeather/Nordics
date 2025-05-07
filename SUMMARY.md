@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Page 8](README.md)
+
 ## Fishing
 
-* [Newbie Guide](README.md)
+* [Newbie Guide](<README (1).md>)
 * [Classes/Tiers](fishing/classes-tiers.md)
 * [FishDex](fishing/fishdex/README.md)
   * [Biomes](fishing/fishdex/biomes/README.md)
@@ -170,6 +172,50 @@
 * [Updates/Gens](fishing/updates-gens/README.md)
   * [Generations](fishing/updates-gens/generations.md)
 
+## world of nyrvalos
+
+* [Realm of Celthoria](world-of-nyrvalos/realm-of-celthoria/README.md)
+  * [Nymbria](world-of-nyrvalos/realm-of-celthoria/nymbria.md)
+  * [Tallowmere](world-of-nyrvalos/realm-of-celthoria/tallowmere.md)
+  * [Morrindal](world-of-nyrvalos/realm-of-celthoria/morrindal.md)
+  * [Frostmere](world-of-nyrvalos/realm-of-celthoria/frostmere.md)
+  * [Galefen](world-of-nyrvalos/realm-of-celthoria/galefen.md)
+  * [Cindervale](world-of-nyrvalos/realm-of-celthoria/cindervale.md)
+  * [Page 14](world-of-nyrvalos/realm-of-celthoria/page-14.md)
+  * [Page 13](world-of-nyrvalos/realm-of-celthoria/page-13.md)
+  * [Page 12](world-of-nyrvalos/realm-of-celthoria/page-12.md)
+  * [Page 11](world-of-nyrvalos/realm-of-celthoria/page-11.md)
+  * [Page 10](world-of-nyrvalos/realm-of-celthoria/page-10.md)
+  * [Page 9](world-of-nyrvalos/realm-of-celthoria/page-9.md)
+  * [Page 7](world-of-nyrvalos/realm-of-celthoria/page-7.md)
+  * [Page 4](world-of-nyrvalos/realm-of-celthoria/page-4.md)
+* [Realm of Eryndalis](world-of-nyrvalos/realm-of-eryndalis/README.md)
+  * [Page 31](world-of-nyrvalos/realm-of-eryndalis/page-31.md)
+  * [Page 30](world-of-nyrvalos/realm-of-eryndalis/page-30.md)
+  * [Page 29](world-of-nyrvalos/realm-of-eryndalis/page-29.md)
+  * [Page 28](world-of-nyrvalos/realm-of-eryndalis/page-28.md)
+  * [Page 27](world-of-nyrvalos/realm-of-eryndalis/page-27.md)
+  * [Page 26](world-of-nyrvalos/realm-of-eryndalis/page-26.md)
+  * [Page 25](world-of-nyrvalos/realm-of-eryndalis/page-25.md)
+  * [Page 24](world-of-nyrvalos/realm-of-eryndalis/page-24.md)
+  * [Page 23](world-of-nyrvalos/realm-of-eryndalis/page-23.md)
+  * [Page 15](world-of-nyrvalos/realm-of-eryndalis/page-15.md)
+
+***
+
+* [Realm of Maristhral](realm-of-maristhral/README.md)
+  * [Havendor](realm-of-maristhral/havendor.md)
+  * [Nautarwyn](realm-of-maristhral/nautarwyn.md)
+  * [Stormgarde](realm-of-maristhral/stormgarde.md)
+  * [Aethcarin](realm-of-maristhral/aethcarin.md)
+  * [Vandrossa](realm-of-maristhral/vandrossa.md)
+  * [Kaelmoor](realm-of-maristhral/kaelmoor.md)
+  * [Cymbaril](realm-of-maristhral/cymbaril.md)
+  * [Virelin Reach](realm-of-maristhral/virelin-reach.md)
+  * [Drelmire](realm-of-maristhral/drelmire.md)
+  * [Selenvar](realm-of-maristhral/selenvar.md)
+  * [Myrrisdeep](realm-of-maristhral/myrrisdeep.md)
+
 ## war
 
 * [War Types](war/war-types/README.md)
@@ -181,7 +227,6 @@
   * [Elaboration](war/conquering/elaboration.md)
 * [Occupation](war/occupation/README.md)
   * [Elaboration](war/occupation/elaboration.md)
-* [Page 4](war/page-4.md)
 * [Server War Events](war/server-war-events/README.md)
   * [Server-Wide War Event](war/server-war-events/server-wide-war-event/README.md)
     * [How to win the War](war/server-war-events/server-wide-war-event/how-to-win-the-war.md)
@@ -210,12 +255,6 @@
 * [Commands](configs-resources/commands/README.md)
   * [Chat Features](configs-resources/commands/chat-features.md)
   * [Chat Emoticons](configs-resources/commands/chat-emoticons.md)
-
-## scheduling/planning
-
-* [Type of Updates](scheduling-planning/type-of-updates.md)
-* [Fish updates](scheduling-planning/fish-updates.md)
-* [Timeline](scheduling-planning/timeline.md)
 
 ## guides & commands
 
