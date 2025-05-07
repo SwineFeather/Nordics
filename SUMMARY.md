@@ -174,6 +174,8 @@
 
 ## world of nyrvalos
 
+* [Lore](world-of-nyrvalos/lore/README.md)
+  * [Voice.](world-of-nyrvalos/lore/voice..md)
 * [Realm of Celthoria](world-of-nyrvalos/realm-of-celthoria/README.md)
   * [Nymbria](world-of-nyrvalos/realm-of-celthoria/nymbria.md)
   * [Tallowmere](world-of-nyrvalos/realm-of-celthoria/tallowmere.md)
@@ -190,16 +192,21 @@
   * [Page 7](world-of-nyrvalos/realm-of-celthoria/page-7.md)
   * [Page 4](world-of-nyrvalos/realm-of-celthoria/page-4.md)
 * [Realm of Eryndalis](world-of-nyrvalos/realm-of-eryndalis/README.md)
-  * [Page 31](world-of-nyrvalos/realm-of-eryndalis/page-31.md)
-  * [Page 30](world-of-nyrvalos/realm-of-eryndalis/page-30.md)
-  * [Page 29](world-of-nyrvalos/realm-of-eryndalis/page-29.md)
-  * [Page 28](world-of-nyrvalos/realm-of-eryndalis/page-28.md)
-  * [Page 27](world-of-nyrvalos/realm-of-eryndalis/page-27.md)
-  * [Page 26](world-of-nyrvalos/realm-of-eryndalis/page-26.md)
-  * [Page 25](world-of-nyrvalos/realm-of-eryndalis/page-25.md)
-  * [Page 24](world-of-nyrvalos/realm-of-eryndalis/page-24.md)
-  * [Page 23](world-of-nyrvalos/realm-of-eryndalis/page-23.md)
-  * [Page 15](world-of-nyrvalos/realm-of-eryndalis/page-15.md)
+  * [Skelros](world-of-nyrvalos/realm-of-eryndalis/skelros.md)
+  * [Cryndor](world-of-nyrvalos/realm-of-eryndalis/cryndor.md)
+  * [Orrindale](world-of-nyrvalos/realm-of-eryndalis/orrindale.md)
+  * [Velkran Hollow](world-of-nyrvalos/realm-of-eryndalis/velkran-hollow.md)
+  * [Duskwither](world-of-nyrvalos/realm-of-eryndalis/duskwither.md)
+  * [Nyxarith](world-of-nyrvalos/realm-of-eryndalis/nyxarith.md)
+  * [Kaethraxis](world-of-nyrvalos/realm-of-eryndalis/kaethraxis.md)
+  * [Aurelith](world-of-nyrvalos/realm-of-eryndalis/aurelith.md)
+  * [Varnmir](world-of-nyrvalos/realm-of-eryndalis/varnmir.md)
+  * [Myrriketh](world-of-nyrvalos/realm-of-eryndalis/myrriketh.md)
+  * [Tharogwyn](world-of-nyrvalos/realm-of-eryndalis/tharogwyn.md)
+  * [The Hollow Reaches](world-of-nyrvalos/realm-of-eryndalis/the-hollow-reaches.md)
+  * [Zephyros](world-of-nyrvalos/realm-of-eryndalis/zephyros.md)
+  * [Mor'Cathal](world-of-nyrvalos/realm-of-eryndalis/morcathal.md)
+  * [Iskarim Vale](world-of-nyrvalos/realm-of-eryndalis/iskarim-vale.md)
 
 ***
 
