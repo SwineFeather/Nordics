@@ -1,20 +1,6 @@
 ---
-cover: ../../../../../../../.gitbook/assets/Untitled-1.png
+cover: ../../../../.gitbook/assets/Untitled-1.png
 coverY: 224.9421029082774
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Garvia Gardenscapes

@@ -1,27 +1,13 @@
 ---
 description: Nation of Kala Empire
 icon: tombstone
-cover: ../../../.gitbook/assets/Kala Empire (1).png
+cover: ../../.gitbook/assets/Kala Empire (1).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Kala
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th></th><th data-card-cover data-type="files"></th><th data-hidden data-type="checkbox"></th><th data-hidden data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Leaders: <a href="../players/redapo15.md">Redapo15</a>, <a href="../players/jipes.md">Jipes</a></td><td>Capital: <a href="../towns/aquaria.md">Aquaria</a></td><td>Previous Towns: <a href="../towns/garvia/">Garvia</a>, <a href="../towns/archived-towns/finland-region/muurmanni.md">Muurmanni</a>, <a href="../towns/archived-towns/finland-region/north-karelia.md">North Karelia</a>, <a href="../towns/archived-towns/other-regions/aquashore.md">Aquashore</a>, <a href="../towns/archived-towns/finland-region/blobbenheim.md">Blobbenheim</a>,</td><td></td><td>true</td><td></td><td></td></tr><tr><td><img src="../../../.gitbook/assets/hakkapeliitat320x.png" alt="" data-size="original"></td><td>Flag of Kala</td><td></td><td></td><td></td><td>false</td><td></td><td></td></tr><tr><td>Region: <a href="../towns/archived-towns/finland-region/">Finland</a></td><td>Population at peak: 60</td><td>Founded:</td><td></td><td></td><td>false</td><td></td><td><a href="https://github.com/SwineFeather/book/blob/main/the-world/civilization/nations/absent-nations/broken-reference/README.md">https://github.com/SwineFeather/book/blob/main/the-world/civilization/nations/absent-nations/broken-reference/README.md</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th></th><th data-card-cover data-type="files"></th><th data-hidden data-type="checkbox"></th><th data-hidden data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Leaders: <a href="../players/redapo15.md">Redapo15</a>, <a href="../players/jipes.md">Jipes</a></td><td>Capital: <a href="../towns/aquaria.md">Aquaria</a></td><td>Previous Towns: <a href="../towns/garvia/">Garvia</a>, <a href="../towns/archived-towns/finland-region/muurmanni.md">Muurmanni</a>, <a href="../towns/archived-towns/finland-region/north-karelia.md">North Karelia</a>, <a href="../towns/archived-towns/other-regions/aquashore.md">Aquashore</a>, <a href="../towns/archived-towns/finland-region/blobbenheim.md">Blobbenheim</a>,</td><td></td><td>true</td><td></td><td></td></tr><tr><td><img src="../../.gitbook/assets/hakkapeliitat320x.png" alt="" data-size="original"></td><td>Flag of Kala</td><td></td><td></td><td></td><td>false</td><td></td><td></td></tr><tr><td>Region: <a href="../towns/archived-towns/finland-region/">Finland</a></td><td>Population at peak: 60</td><td>Founded:</td><td></td><td></td><td>false</td><td></td><td><a href="https://github.com/SwineFeather/book/blob/main/the-world/civilization/nations/absent-nations/broken-reference/README.md">https://github.com/SwineFeather/book/blob/main/the-world/civilization/nations/absent-nations/broken-reference/README.md</a></td></tr></tbody></table>
 
 ***
 
@@ -49,33 +35,9 @@ Kala eventually became the weakest nation on the server and a shadow of its form
 
 ### North Karelian War
 
-<div>
+<div><figure><img src="../../.gitbook/assets/nw1.png" alt="" width="215"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/nw2.png" alt="" width="217"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/nw3.png" alt="" width="218"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/nw1.png" alt="" width="215"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/nw2.png" alt="" width="217"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/nw3.png" alt="" width="218"><figcaption></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../../../.gitbook/assets/nw4.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/nw5.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/nw6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/nw4.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/nw5.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/nw6.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Siege of Alesia
 
@@ -83,30 +45,6 @@ Kala eventually became the weakest nation on the server and a shadow of its form
 
 ### Northstar Treaty
 
-<div>
+<div><figure><img src="../../.gitbook/assets/n1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/n2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/n3.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/n1.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/n2.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/n3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../../../.gitbook/assets/n4.png" alt=""><figcaption><p>Payed off by Congosuin</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/n5.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/n6.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/n4.png" alt=""><figcaption><p>Payed off by Congosuin</p></figcaption></figure> <figure><img src="../../.gitbook/assets/n5.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/n6.png" alt=""><figcaption></figcaption></figure></div>
