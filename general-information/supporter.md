@@ -1,8 +1,9 @@
 ---
-icon: circle-dollar-to-slot
 description: >-
   TAGS:Supporters, VIP, Patreon, Patron, Cosmetics, Kala, Pets, Mounts,
   Particles, item-frame,
+hidden: true
+icon: circle-dollar-to-slot
 ---
 
 # Supporter Perks & Cosmetics

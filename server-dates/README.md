@@ -1,8 +1,9 @@
 ---
 description: Documented events each day.
+hidden: true
 ---
 
-# Server History Log
+# Timeline Log
 
 Welcome to the Server History Log page, where we document the key events and activities that happen on our Minecraft server. This page provides a daily summary of player activities, achievements, challenges, and any administrative actions that occur during the gameplay.
 
